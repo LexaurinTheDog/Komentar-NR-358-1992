@@ -310,7 +310,7 @@ Odst. 2 řeší **podobu** notářských listin. Pravidlo je dvouvrstvé:
 >
 > *- e) složil notářskou zkoušku.*
 >
-> *(2) Notářskou praxí se rozumí praxe notáře, notářského kandidáta a notářského koncipienta podle tohoto zákona [...] do notářské praxe ministr spravedlnosti (dále jen „ministr") na návrh Komory z jiné právní praxe může započítat nejvýše 2 roky.*
+> *(2) Notářskou praxí se rozumí praxe notáře, notářského kandidáta a notářského koncipienta podle tohoto zákona a praxe státního notáře a notářského čekatele podle dřívějších předpisů. Do notářské praxe Notářská komora České republiky (dále jen „Komora“) započte zcela praxi soudce, prokurátora, státního zástupce, advokáta, komerčního právníka, soudního exekutora, soudce Ústavního soudu, asistenta soudce Ústavního soudu nebo Nejvyššího soudu a Nejvyššího správního soudu, exekutorského kandidáta, justičního čekatele, justičního kandidáta, asistenta soudce, asistenta veřejného ochránce práv, asistenta státního zástupce, právního čekatele prokuratury, právního čekatele státního zastupitelství, advokátního koncipienta, exekutorského koncipienta nebo právního čekatele u komerčního právníka, činnost zaměstnance Ministerstva spravedlnosti (dále jen „ministerstvo“), který získal vysokoškolské vzdělání v rámci magisterského studijního programu v oblasti práva na vysoké škole a který se samostatně podílí na tvorbě návrhů obecně závazných právních předpisů; do notářské praxe ministr spravedlnosti (dále jen „ministr“) na návrh Komory z jiné právní praxe může započítat nejvýše 2 roky.*
 >
 > *(3) Notářskou zkouškou se rozumí notářská zkouška podle tohoto zákona a notářská zkouška podle dřívějších předpisů. Za osobu, která složila notářskou zkoušku, se považuje i ten, kdo složil odbornou justiční zkoušku, soudcovskou zkoušku, jednotnou soudcovskou zkoušku, jednotnou soudcovskou a advokátní zkoušku, prokurátorskou zkoušku, odbornou závěrečnou zkoušku právních čekatelů, advokátní zkoušku, exekutorskou zkoušku a profesní zkoušku na komerčního právníka.*
 
@@ -680,13 +680,13 @@ Forma sdružení se realizuje **smlouvou** mezi notáři — nejde o samostatný
 
 > **§ 14**
 >
-> *(1) Jestliže notář nevykonává činnost notáře po dobu delší než jeden měsíc a není zastoupen notářem společníkem nebo notářským kandidátem (dále jen „kandidát") podle § 24, notářská komora, jejímž je členem, mu ustanoví zástupce a rozhodne o výši podílu zástupce na odměně notáře. Proti tomuto rozhodnutí lze podat opravný prostředek k soudu.3)*
+> *(1) Jestliže notář nevykonává činnost notáře po dobu delší než jeden měsíc a není zastoupen notářem společníkem nebo notářským kandidátem (dále jen „kandidát“) podle § 24, notářská komora, jejímž je členem, mu ustanoví zástupce a rozhodne o výši podílu zástupce na odměně notáře. Proti tomuto rozhodnutí lze podat opravný prostředek k soudu.3)*
 >
-> *(2) Notářská komora ustanoví zástupce z řad kandidátů v pracovním poměru u notáře, nejsou-li, z řad notářů se sídlem v rámci obvodu okresního soudu, v jehož obvodu je sídlo notáře, jemuž je zástupce ustanovován, nebo kandidátů u nich v pracovním poměru [...]*
+> *(2) Notářská komora ustanoví zástupce z řad kandidátů v pracovním poměru u notáře, nejsou-li, z řad notářů se sídlem v rámci obvodu okresního soudu, v jehož obvodu je sídlo notáře, jemuž je zástupce ustanovován, nebo kandidátů u nich v pracovním poměru, a nejsou-li, anebo nesouhlasí-li se svým ustanovením žádný z nich nebo není souhlas podle věty třetí k ustanovení žádného kandidáta, tak z řad jiných notářů, kteří jsou členy notářské komory. K ustanovení zástupce je třeba jeho písemného souhlasu. K ustanovení zástupce z řad kandidátů je třeba také písemného souhlasu notáře, u něhož je kandidát v pracovním poměru.*
 >
 > *(3) Notářská komora ustanoví notáři zástupce bez zbytečného odkladu na jeho návrh, je-li podán před uplynutím doby podle odstavce 1; není-li podán, tak bez návrhu, jakmile se dozví, že notář činnost notáře po dobu podle odstavce 1 nevykonává.*
 >
-> *(4) Jestliže notář zemřel nebo byl odvolán, notářská komora, jejímž byl členem, nebo Komora v případě postupu podle odstavce 5 ustanoví na dobu, kdy je notářský úřad uvolněn, náhradníka notáře (dále jen „náhradník"). Náhradník se ustanoví obdobně na dobu pozastavení výkonu činnosti notáře podle § 10. K ustanovení náhradníka je třeba jeho písemného souhlasu.*
+> *(4) Jestliže notář zemřel nebo byl odvolán, notářská komora, jejímž byl členem, nebo Komora v případě postupu podle odstavce 5 ustanoví na dobu, kdy je notářský úřad uvolněn, náhradníka notáře (dále jen „náhradník“). Náhradník se ustanoví obdobně na dobu pozastavení výkonu činnosti notáře podle § 10. K ustanovení náhradníka je třeba jeho písemného souhlasu.*
 >
 > *(5) Náhradníka ustanoví notářská komora z řad notářů se sídlem v rámci obvodu okresního soudu, v jehož obvodu je sídlo uvolněného notářského úřadu; nejsou-li nebo nesouhlasí-li se svým ustanovením žádný z nich, z řad jiných notářů, kteří jsou jejími členy. Nesouhlasí-li se svým ustanovením žádný takový notář, ustanoví náhradníkem kteréhokoli notáře Komora.*
 
