@@ -1906,7 +1906,7 @@ Slovo „**zejména**" v úvodu odst. 1 činí výčet **demonstrativním** — 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 443/2005](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2020%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-20_Cdo_443_2005.txt) — 27. 10. 2005, kat. A
+- *NS* [20 Cdo 443/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E60F9BA5A0120628C1257A4E006693C0?openDocument) — 27. 10. 2005, kat. A
   > „Je-li listina prokazující, že pohledávka je vymahatelná nebo zajištěná zástavním právem, založena do exekučního spisu do zahájení dražebního jednání, soud k ní přihlédne, i když ji nepředložil přihlašovatel pohledávky"
 - *NS* [20 Cdo 785/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A40D7F1988A371BFC1257A4E0066879C?openDocument) — 20. 3. 2003, kat. A
   > „Povinnost předložit stejnopis rozhodnutí opatřený potvrzením o jeho vykonatelnosti (§ 261 odst. 2 věta první o. s. ř.) lze splnit i předložením jeho opisu (kopie), na němž je vyznačena ověřovací doložka podle § 73 odst. 2 zákona č. 358/1992 Sb. nebo § 3 odst. 2 zákona č. 41/1993 Sb"
