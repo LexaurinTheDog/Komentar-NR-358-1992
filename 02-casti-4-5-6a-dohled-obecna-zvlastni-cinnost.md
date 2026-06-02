@@ -1608,6 +1608,13 @@ Je-li ke sepsání nutné doložit **jiné písemnosti** (např. nájemní smlou
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 225/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C046760F1BBBD700C1258B64002F4B1C?openDocument) — 10. 4. 2024, kat. A
+  > „Notářský zápis se svolením k vykonatelnosti, kterým má být vymožena povinnost vyklidit nemovitost, je notářským zápisem ve smyslu § 71b notářského řádu a může být exekučním titulem"
+- *NS* [31 Cdo 2184/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D5404E177D47005C1257DEF001F6033?openDocument) — 11. 2. 2015, kat. A
+  > „Obsahuje-li dohoda osoby oprávněné a osoby povinné obsažená v notářském zápisu se svolením k vykonatelnosti (§ 71a až § 71c not. ř., ve znění účinném od 1. 1. 2001 do 30. 6. 2009) ujednání, podle kterého se dlužník zavazuje splnit pohledávku a jiné nároky věřitele, vyplývající ze závazkového právního vztahu vzniklého na základě smlouvy o budoucí smlouvě o půjčce (na jejímž základě věřitel plnil po sepisu notářského zápisu a jež je podle dohody účastníků skutečností, na níž se budoucí pohledávka zakládá), jde o podmínku ve smyslu ustanovení § 36 odst. 1, věty první, a odst. 2, věty první, obč. zák. (§ 71b odst. 2 not. ř.), jejíž splnění je třeba prokázat způsobem uvedeným v ustanovení § 43 odst. 2 ex. ř"
+
 #### Notářský zápis jako exekuční titul — KLÍČOVÝ INSTITUT
 
 § 71a zakotvuje **jeden z nejvýznamnějších institutů českého soukromého práva** — notářský zápis se **svolením k vykonatelnosti**. Tento dokument je podle **§ 274 odst. 1 písm. e) OSŘ** plnohodnotným **exekučním titulem**, srovnatelným s pravomocným rozsudkem soudu.
@@ -1680,6 +1687,11 @@ Je-li ke sepsání nutné doložit **jiné písemnosti** (např. nájemní smlou
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 225/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C046760F1BBBD700C1258B64002F4B1C?openDocument) — 10. 4. 2024, kat. A
+  > „Notářský zápis se svolením k vykonatelnosti, kterým má být vymožena povinnost vyklidit nemovitost, je notářským zápisem ve smyslu § 71b notářského řádu a může být exekučním titulem"
+
 #### § 71b — nejpoužívanější forma notářského zápisu se svolením k vykonatelnosti
 
 § 71b je v praxi **nejvyužívanější forma** notářského zápisu jako exekučního titulu. Strukturálně je to **dohoda mezi dvěma účastníky** (povinnou a oprávněnou osobou) o závazku jedné strany splnit pohledávku druhé.
@@ -1689,6 +1701,11 @@ Je-li ke sepsání nutné doložit **jiné písemnosti** (např. nájemní smlou
 - § 71a odst. 1: zápis sepisuje **vznik závazku** + svolení;
 - § 71a odst. 2: zápis sepisuje **uznání dluhu** + svolení (oba účastníci přítomni);
 - § 71b: zápis sepisuje **dohodu** o závazku splnit + svolení — typicky uznání **mimo notářskou kancelář vzniklého závazku** (např. z faktury, smlouvy, nezaplaceného úroku).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 225/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C046760F1BBBD700C1258B64002F4B1C?openDocument) — 10. 4. 2024, kat. A
+  > „Notářský zápis se svolením k vykonatelnosti, kterým má být vymožena povinnost vyklidit nemovitost, je notářským zápisem ve smyslu § 71b notářského řádu a může být exekučním titulem"
 
 #### Šest obligatorních náležitostí dohody (odst. 2)
 
@@ -1886,6 +1903,13 @@ Slovo „**zejména**" v úvodu odst. 1 činí výčet **demonstrativním** — 
 > *(3) Vidimací se nepotvrzuje správnost a pravdivost údajů uvedených v listině a jejich soulad s právními předpisy a notář za obsah listiny neodpovídá.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 443/2005](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2020%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-20_Cdo_443_2005.txt) — 27. 10. 2005, kat. A
+  > „Je-li listina prokazující, že pohledávka je vymahatelná nebo zajištěná zástavním právem, založena do exekučního spisu do zahájení dražebního jednání, soud k ní přihlédne, i když ji nepředložil přihlašovatel pohledávky"
+- *NS* [20 Cdo 785/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A40D7F1988A371BFC1257A4E0066879C?openDocument) — 20. 3. 2003, kat. A
+  > „Povinnost předložit stejnopis rozhodnutí opatřený potvrzením o jeho vykonatelnosti (§ 261 odst. 2 věta první o. s. ř.) lze splnit i předložením jeho opisu (kopie), na němž je vyznačena ověřovací doložka podle § 73 odst. 2 zákona č. 358/1992 Sb. nebo § 3 odst. 2 zákona č. 41/1993 Sb"
 
 #### Vidimace jako masová notářská služba
 

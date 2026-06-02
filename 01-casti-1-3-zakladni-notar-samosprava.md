@@ -61,6 +61,11 @@ Notář vykonává **dílčí výkon veřejné moci** — sepisuje veřejné lis
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 176/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94EF4E2EB7F0CA67C1257A4E0068CDB8?openDocument) — 17. 12. 2009, kat. A
+  > „Za škodu způsobenou vadami notářského zápisu o rozhodnutí orgánu právnické osoby stát neodpovídá"
+
 #### Triáda notářské činnosti
 
 § 2 vymezuje **vlastní notářskou činnost** (užší pojem) prostřednictvím tří kategorií úkonů, jež tvoří klasický „triposlaný" katalog latinského notářství:
@@ -1872,6 +1877,4 @@ Tato úprava je důležitá zejména pro:
 Pokud člen orgánu pravidlo podjatosti **poruší** a podílí se na rozhodování přesto, je takové rozhodnutí **napadnutelné** — v rámci komorního přezkumu (kolegium může zrušit usnesení prezidia dle § 31 odst. 3 písm. j) nebo formou soudního přezkumu (správní žaloba dle SŘS, je-li předmětem rozhodnutí ve smyslu správního aktu).
 
 ---
-
-
 
