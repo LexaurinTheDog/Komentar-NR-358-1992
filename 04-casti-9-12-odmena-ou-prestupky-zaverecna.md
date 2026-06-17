@@ -417,6 +417,11 @@ Klient notáře a další osoby, jejichž údaje notář zpracovává, jsou **su
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 84/2024 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/736835) — 25. 11. 2024
+  > „Primárním společenským zájmem chráněným prostřednictvím § 109j odst. 1 písm. b) notářského řádu je zájem na tom, aby účastníci právního styku nebyli uváděni v omyl či pochybnost o tom, zda osoba, která se označuje jako notář, tedy vykonavatel specifického svobodného povolání, jehož výkon je státem zaštiťován, a od něhož lze legitimně očekávat určitou kvalitu a standard péče, takovým notářem (ve smyslu § 1 odst. 1 notářského řádu) skutečně je. … cílem § 109j notářského řádu [je] „umožnit správní postih v případě, že dojde k zásahu do výlučného oprávnění vykonávat notářskou činnost … neoprávněnou osobou, tedy zabránit tzv. vinklaření. Ustanovení chrání jak notáře před „nekalou konkurencí“, tak i veřejnost před klamáním a poskytováním nekvalitních služeb…“"
+
 #### Systematické zařazení — přestupek vs. kárný delikt
 
 § 109j je systematicky umístěn samostatnou částí jedenáctou jako přestupkové ustanovení. Je třeba jej **přesně odlišit od kárných deliktů notáře** podle §§ 47 a násl. NotŘ (viz kapitola 02 komentáře):

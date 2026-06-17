@@ -816,6 +816,11 @@ Stížnostní řízení posuzuje **regionální notářská komora**. Není to s
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 799/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-799-15_1) — nález, 9. 7. 2015
+  > „… stěžovatelka jako notářka je povinna zachovávat mlčenlivost podle § 56 notářského řádu a dodržovat též § 84 téhož předpisu, neboť tím ve své podstatě chrání soukromí dotčeného jednotlivce"
+
 #### Mlčenlivost notáře jako základní stavovská povinnost (odst. 1)
 
 § 56 zakotvuje **profesní mlčenlivost notáře** jako jednu ze tří pilířů notářské etiky (vedle nestrannosti a zákonnosti). Materiálně paralelizuje § 21 zákona č. 85/1996 Sb. o advokacii — oba zákony spojuje **mlčenlivost jako conditio sine qua non důvěry klienta**.
@@ -1610,10 +1615,10 @@ Je-li ke sepsání nutné doložit **jiné písemnosti** (např. nájemní smlou
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [31 Cdo 225/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C046760F1BBBD700C1258B64002F4B1C?openDocument) — 10. 4. 2024, kat. A
-  > „Notářský zápis se svolením k vykonatelnosti, kterým má být vymožena povinnost vyklidit nemovitost, je notářským zápisem ve smyslu § 71b notářského řádu a může být exekučním titulem"
-- *NS* [31 Cdo 2184/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D5404E177D47005C1257DEF001F6033?openDocument) — 11. 2. 2015, kat. A
+- *NS* [31 Cdo 2184/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D5404E177D47005C1257DEF001F6033?openDocument) — kat. A, 11. 2. 2015
   > „Obsahuje-li dohoda osoby oprávněné a osoby povinné obsažená v notářském zápisu se svolením k vykonatelnosti (§ 71a až § 71c not. ř., ve znění účinném od 1. 1. 2001 do 30. 6. 2009) ujednání, podle kterého se dlužník zavazuje splnit pohledávku a jiné nároky věřitele, vyplývající ze závazkového právního vztahu vzniklého na základě smlouvy o budoucí smlouvě o půjčce (na jejímž základě věřitel plnil po sepisu notářského zápisu a jež je podle dohody účastníků skutečností, na níž se budoucí pohledávka zakládá), jde o podmínku ve smyslu ustanovení § 36 odst. 1, věty první, a odst. 2, věty první, obč. zák. (§ 71b odst. 2 not. ř.), jejíž splnění je třeba prokázat způsobem uvedeným v ustanovení § 43 odst. 2 ex. ř"
+- *ÚS* [III.ÚS 3347/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3347-12_1) — nález, 23. 10. 2014
+  > „… aplikace notářských zápisů se svolením k jejich přímé vykonatelnosti představuje radikální zásah do práv a povinností účastníků dotčeného občanskoprávního vztahu v tom, že se do budoucna již nepředpokládá řešení sporů (zde o zaplacení peněžitého plnění) cestou nalézacího soudního (či jiného obdobného) řízení. Právě z důvodů posledně uvedeného je zapotřebí klást zvýšené nároky zejména na formálně obsahovou náplň takového zápisu, jež má svojí povahou v navazujícím exekučním řízení nahrazovat právě autoritativní rozhodnutí soudu (či jiného obdobného orgánu) o platební povinnosti subjektu, bez možnosti pozdějšího soudního přezkumu takového exekučního titulu …"
 
 #### Notářský zápis jako exekuční titul — KLÍČOVÝ INSTITUT
 
@@ -1689,8 +1694,12 @@ Je-li ke sepsání nutné doložit **jiné písemnosti** (např. nájemní smlou
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [31 Cdo 225/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C046760F1BBBD700C1258B64002F4B1C?openDocument) — 10. 4. 2024, kat. A
+- *NS* [31 Cdo 225/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C046760F1BBBD700C1258B64002F4B1C?openDocument) — kat. A, 10. 4. 2024
   > „Notářský zápis se svolením k vykonatelnosti, kterým má být vymožena povinnost vyklidit nemovitost, je notářským zápisem ve smyslu § 71b notářského řádu a může být exekučním titulem"
+- *ÚS* [III.ÚS 3347/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3347-12_1) — nález, 23. 10. 2014
+  > „… aplikace notářských zápisů se svolením k jejich přímé vykonatelnosti představuje radikální zásah do práv a povinností účastníků dotčeného občanskoprávního vztahu v tom, že se do budoucna již nepředpokládá řešení sporů (zde o zaplacení peněžitého plnění) cestou nalézacího soudního (či jiného obdobného) řízení. Právě z důvodů posledně uvedeného je zapotřebí klást zvýšené nároky zejména na formálně obsahovou náplň takového zápisu, jež má svojí povahou v navazujícím exekučním řízení nahrazovat právě autoritativní rozhodnutí soudu (či jiného obdobného orgánu) o platební povinnosti subjektu, bez možnosti pozdějšího soudního přezkumu takového exekučního titulu …"
+- *ÚS* [II.ÚS 1470/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1470-12_1) — nález, 26. 11. 2013
+  > „Na těchto názorech Ústavní soud, s odvoláním na princip autonomie smluvních stran a povahu soukromého práva, setrval i v případě, kdy součástí právního úkonu - smlouvy - je ujednání o vykonatelnosti, a na jeho obsah jsou tudíž kladeny zvýšené nároky"
 
 #### § 71b — nejpoužívanější forma notářského zápisu se svolením k vykonatelnosti
 
@@ -1704,8 +1713,12 @@ Je-li ke sepsání nutné doložit **jiné písemnosti** (např. nájemní smlou
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [31 Cdo 225/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C046760F1BBBD700C1258B64002F4B1C?openDocument) — 10. 4. 2024, kat. A
+- *NS* [31 Cdo 225/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C046760F1BBBD700C1258B64002F4B1C?openDocument) — kat. A, 10. 4. 2024
   > „Notářský zápis se svolením k vykonatelnosti, kterým má být vymožena povinnost vyklidit nemovitost, je notářským zápisem ve smyslu § 71b notářského řádu a může být exekučním titulem"
+- *ÚS* [III.ÚS 3347/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3347-12_1) — nález, 23. 10. 2014
+  > „… aplikace notářských zápisů se svolením k jejich přímé vykonatelnosti představuje radikální zásah do práv a povinností účastníků dotčeného občanskoprávního vztahu v tom, že se do budoucna již nepředpokládá řešení sporů (zde o zaplacení peněžitého plnění) cestou nalézacího soudního (či jiného obdobného) řízení. Právě z důvodů posledně uvedeného je zapotřebí klást zvýšené nároky zejména na formálně obsahovou náplň takového zápisu, jež má svojí povahou v navazujícím exekučním řízení nahrazovat právě autoritativní rozhodnutí soudu (či jiného obdobného orgánu) o platební povinnosti subjektu, bez možnosti pozdějšího soudního přezkumu takového exekučního titulu …"
+- *ÚS* [II.ÚS 1470/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1470-12_1) — nález, 26. 11. 2013
+  > „Na těchto názorech Ústavní soud, s odvoláním na princip autonomie smluvních stran a povahu soukromého práva, setrval i v případě, kdy součástí právního úkonu - smlouvy - je ujednání o vykonatelnosti, a na jeho obsah jsou tudíž kladeny zvýšené nároky"
 
 #### Šest obligatorních náležitostí dohody (odst. 2)
 
@@ -1906,10 +1919,10 @@ Slovo „**zejména**" v úvodu odst. 1 činí výčet **demonstrativním** — 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 443/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E60F9BA5A0120628C1257A4E006693C0?openDocument) — 27. 10. 2005, kat. A
-  > „Je-li listina prokazující, že pohledávka je vymahatelná nebo zajištěná zástavním právem, založena do exekučního spisu do zahájení dražebního jednání, soud k ní přihlédne, i když ji nepředložil přihlašovatel pohledávky"
-- *NS* [20 Cdo 785/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A40D7F1988A371BFC1257A4E0066879C?openDocument) — 20. 3. 2003, kat. A
+- *NS* [20 Cdo 785/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A40D7F1988A371BFC1257A4E0066879C?openDocument) — kat. A, 20. 3. 2003
   > „Povinnost předložit stejnopis rozhodnutí opatřený potvrzením o jeho vykonatelnosti (§ 261 odst. 2 věta první o. s. ř.) lze splnit i předložením jeho opisu (kopie), na němž je vyznačena ověřovací doložka podle § 73 odst. 2 zákona č. 358/1992 Sb. nebo § 3 odst. 2 zákona č. 41/1993 Sb"
+- *NSS* [4 As 4/2018 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/653005) — 6. 12. 2019
+  > „Ověřovací doložka podle § 73 odst. 1 zákona č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád) potvrzuje, že původní vyhotovení listiny a opis z ní pořízený se co do svého obsahu shodují. Tato doložka připojená ke sdělení ze dne 9. 10. 2006 však nemohla z uvedené listiny učinit autentický originál"
 
 #### Vidimace jako masová notářská služba
 
@@ -2304,6 +2317,11 @@ Notář **musí** osobu identifikovat:
 > *- b) popis děje nebo stavu věcí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 Af 22/2020 - 110](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/707895) — 10. 1. 2023
+  > „Nejvyšší správní soud zdůrazňuje, že notářský zápis vypracovaný podle § 79 zákona č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád) pouze zaznamenává, jaké skutečnosti se v průběhu losování za přítomnosti notáře udály, nemůže však poskytovat závazné právní hodnocení tohoto skutkového stavu, ani osvědčovat, že se skutečnosti udály v souladu se zákonem"
 
 #### Univerzální katalog osvědčení skutkových dějů
 

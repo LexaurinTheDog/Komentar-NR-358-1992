@@ -27,6 +27,11 @@ Oddíl druhý Části šesté (§§ 80a–80i) představuje **legislativně i pr
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 Ad 1/2021 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/705391) — 29. 9. 2022
+  > „Soud považuje za potřebné upozornit též na skutečnost, že notářský zápis je jako veřejná listina nadán presumpcí (vyvratitelnou právní domněnkou) pravosti a pravdivosti (správnosti) obsahu listiny. … „(n)otář při sepsání notářského zápisu neprovádí jen osvědčení dějů, které před ním probíhají, ale rovněž se vyjadřuje k jejich souladu s právem a zakladatelským právním jednáním postupem podle odst. 2. Předmětem zápisu je tedy také vyjádření právního názoru notáře a smyslem tohoto druhu notářského zápisu je tak též posílení právní jistoty a přesun přezkumu požadavků pro provedení zápisu do veřejného rejstříku z rejstříkového soudu na notáře.“"
+
 #### Trojí důvod pořízení notářského zápisu (odst. 1)
 
 § 80a odst. 1 vymezuje **tři alternativní hypotézy**, při jejichž naplnění je notář povinen na žádost sepsat zápis o rozhodnutí orgánu PO:

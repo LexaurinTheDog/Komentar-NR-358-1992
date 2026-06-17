@@ -20,6 +20,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 1914/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1914-11_1) — usnesení, 26. 6. 2012
+  > „Legislativní vývoj s sebou tedy přinesl to, že zatímco institut státních notářství byl spolu se zákonem č. 95/1963 Sb. zrušen, byl na jeho místo zaveden institut nový, čímž došlo k privatizaci notářského úřadu. … Notářství v užším smyslu je možné chápat jako specifickou právní činnost vykonávanou v rámci svobodného povolání, avšak pouze státem pověřenými osobami a na základě jim svěřených pravomocí, jejímž předmětem je poskytování právních služeb, a to zákonem předepsanou formou, v zákonem vymezených oblastech právních vztahů a za úplatu"
+
 #### Notář jako fyzická osoba pověřená státem
 
 Odst. 1 definuje notáře pomocí čtyř kumulativních pojmových znaků:
@@ -63,7 +68,7 @@ Notář vykonává **dílčí výkon veřejné moci** — sepisuje veřejné lis
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [25 Cdo 176/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94EF4E2EB7F0CA67C1257A4E0068CDB8?openDocument) — 17. 12. 2009, kat. A
+- *NS* [25 Cdo 176/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94EF4E2EB7F0CA67C1257A4E0068CDB8?openDocument) — kat. A, 17. 12. 2009
   > „Za škodu způsobenou vadami notářského zápisu o rozhodnutí orgánu právnické osoby stát neodpovídá"
 
 #### Triáda notářské činnosti
@@ -236,6 +241,15 @@ Pro neslučitelnost s **funkcí poslance, senátora, zastupitele** platí jen, �
 > *(2) Notářské listiny podle tohoto zákona se sepisují v listinné podobě; stanoví-li tak tento zákon, lze je sepsat také v elektronické podobě. Veřejné listiny sepisované notářem podle zvláštního právního předpisu lze sepsat v listinné nebo elektronické podobě, s výjimkou sepisování veřejných listin podle zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [62 Af 7/2025 - 131](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/748030) — 6. 11. 2025
+  > „Jde přitom o listinu o ověření, která je podle § 6 zákona č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), veřejnou listinou (presumpce správnosti) a potvrzuje i autenticitu předloženého originálu. Úředně ověřená kopie veřejné listiny (změnového rozhodnutí) je také veřejnou listinou s presumpcí správnosti a má stejnou důkazní hodnotu jako originál"
+- *NSS* [65 Af 33/2018 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/432334) — 16. 10. 2019
+  > „Krajský soud považuje za podstatné předeslat, že notářský zápis je ve smyslu § 94 odst. 1 daňového řádu veřejnou listinou (viz § 6 zákona č. 358/1992 Sb.) a není-li dokázán opak, potvrzuje i pravdivost toho, co je v ní osvědčeno nebo potvrzeno"
+- *NSS* [51 A 30/2024 - 65](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/738209) — 31. 10. 2024
+  > „Tento požadavek byl v daném případě splněn, neboť notářský zápis je veřejnou listinou [§ 6 odst. 1 zákona č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád)]"
 
 #### Klíčový institut českého notářství — veřejná listina
 
