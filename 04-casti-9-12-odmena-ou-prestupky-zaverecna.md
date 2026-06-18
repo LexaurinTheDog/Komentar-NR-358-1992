@@ -48,6 +48,44 @@ Vznik nároku notáře na odměnu má **dvojí právní podklad**:
 
 Odměna se tedy stanoví **automaticky** podle tarifu — notář nemůže o jejím vzniku ani výši svobodně rozhodovat (s výjimkou taxativně vymezených situací, kde vyhláška připouští smluvní odměnu); její splatnost a způsob vybírání jsou věcí soukromoprávního vztahu mezi notářem a žadatelem.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Notář (plátce DPH) sepsal pro obchodní korporaci notářský zápis o převodu obchodního podílu a vyúčtoval: odměnu podle tarifu, náhradu hotových výdajů (výpisy z obchodního rejstříku, poštovné), náhradu za promeškaný čas za cestu na valnou hromadu konanou mimo sídlo úřadu a k tomu položku „administrativní paušál za vedení spisu 1 500 Kč". Korporace odmítla uhradit administrativní paušál i DPH připočtenou k němu a namítla, že notář nesmí účtovat položky nad rámec tarifu. Důkazy: vyúčtování notáře, sazebník vyvěšený v kanceláři (§ 13 vyhl. 196/2001 Sb.), evidence úkonu, doklad o registraci notáře k DPH.
+
+**2. Právní otázka.** Tvoří „administrativní paušál" mimo katalog § 106 NotŘ právně vymahatelný nárok notáře, a lze k němu připočítat částku odpovídající DPH?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 106 NotŘ — taxativní katalog čtyř složek peněžitého plnění (odměna, náhrada za promeškaný čas, náhrada hotových výdajů, částka odpovídající DPH).
+- *Související ustanovení téhož zákona:* § 107 (zmocnění k tarifu, jenž katalog rozvádí, ale nerozšiřuje), § 108 (plátce), § 109 (záloha), § 47 odst. 1 NotŘ (kárný delikt za výkon v rozporu se zákonem).
+- *Související předpisy:* vyhl. č. 196/2001 Sb. (notářský tarif), § 5 odst. 1 a § 6 zák. č. 235/2004 Sb. (osoba povinná k dani, registrace plátce), § 47 ZDPH (sazba daně).
+- *Judikatura:* obecný závěr správních soudů, že podzákonný tarifní předpis nemůže rozšiřovat zákonem stanovený okruh peněžitých nároků a že odměna za výkon veřejně regulované činnosti je závazně určena tarifem (analogicky k odměnám exekutorů a advokátů).
+
+**4. Subsumpce.** Odměna, náhrada hotových výdajů a náhrada za promeškaný čas spadají pod tři položky katalogu § 106 a jsou kryty tarifem — tyto jsou po právu. „Administrativní paušál" pod žádnou ze čtyř položek nespadá; katalog je uzavřený. DPH lze připočítat jen k částkám, které jsou odměnou či náhradou ve smyslu § 106 — k neexistujícímu (neoprávněnému) nároku ji připočítat nelze.
+
+**5. Řešení.** Korporace dluží odměnu, hotové výdaje, náhradu za promeškaný čas a DPH z těchto tří položek. Administrativní paušál notář vymáhat nemůže — jde o plnění mimo zákonný katalog; jeho účtování může zakládat kárný delikt podle § 47 odst. 1 NotŘ. Procesně: notář by měl paušál stornovat a přefakturovat; korporace nemá hradit paušál ani DPH z něj. Riziko: pokud notář na paušálu trvá, hrozí stížnost ke komoře a kárné řízení.
+
+**6. Varianty.** (a) Kdyby notář byl neplátcem DPH, celková cena by byla o 21 % nižší a otázka DPH by odpadla. (b) Kdyby „administrativní úkony" byly ve skutečnosti samostatným úkonem jiné činnosti dle § 4 NotŘ (např. samostatná právní porada), mohla by za ně náležet odměna — ovšem jako odměna podle § 106, nikoli jako paušál nad jeho rámec.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Notář má nárok na úhradu reálných nákladů kanceláře." Neutralizace: režijní náklady kanceláře jsou již zahrnuty v tarifní odměně (degresivní sazba je kalkulována i s režií); samostatně účtovat je nelze, katalog § 106 je uzavřený.
+- *Protiargument:* „DPH je zákonná, klient ji platit musí." Neutralizace: DPH se připočítává jen k oprávněným položkám (odměna a náhrady); z neoprávněné položky daňová povinnost nevzniká a klient ji nehradí.
+- *Slabé místo:* hranice mezi hotovým výdajem (oprávněným) a paušalizovanou režií (neoprávněnou) může být sporná — notář musí být schopen výdaj doložit jako konkrétní, v souvislosti s úkonem vynaložený.
+
+#### H. Praktický závěr
+
+§ 106 určuje uzavřený katalog čtyř peněžitých nároků notáře; cokoli mimo něj je nevymahatelné a může být kárně postižitelné. DPH se připočítává jen k odměně a náhradám a jen u notáře-plátce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odpovídá každá fakturovaná položka jedné ze čtyř složek § 106 (odměna / promeškaný čas / hotové výdaje / DPH)?
+- [ ] Je notář plátcem DPH a je daň připočtena jen k oprávněným položkám?
+- [ ] Jsou hotové výdaje konkrétně doloženy (nikoli paušalizovaná režie)?
+- [ ] Je sazebník a oznámení podle § 13 vyhl. 196/2001 Sb. k dispozici?
+
+**Typicky rozhodné důkazy / podklady:** vyúčtování notáře, vyvěšený sazebník, doklady o hotových výdajích, registrace notáře k DPH, evidence úkonu.
+
+---
+
 ### § 107 — Zákonné zmocnění k vydání prováděcího předpisu (notářský tarif)
 
 > **§ 107**
@@ -109,6 +147,44 @@ Zmocnění v § 107 se vztahuje výhradně na **podrobnosti o výši a způsobu 
 
 Jakékoli ustanovení vyhlášky překračující meze zmocnění by bylo neaplikovatelné pro rozpor s čl. 79 odst. 3 Ústavy ČR.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel napadl u soudu vyhlášku č. 196/2001 Sb. v tom, že notář odmítl sjednat smluvní (nižší) odměnu za sepsání kupní smlouvy na nemovitost formou notářského zápisu a trval na tarifu vypočteném z tarifní hodnoty 6 000 000 Kč. Žadatel tvrdil, že vyhláška, která neumožňuje smluvní odměnu u notářské činnosti, překračuje meze zmocnění § 107. Důkazy: vyhláška a její znění, výpočet tarifu, sazebník, sdělení notáře o odmítnutí slevy.
+
+**2. Právní otázka.** Je ústavně přípustné, aby vyhláška vydaná na základě § 107 stanovila u notářské činnosti (§ 2 NotŘ) mimosmluvní (tarifní) odměnu jako pravidlo a vyloučila smluvní odměnu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 107 NotŘ — zmocnění Ministerstva spravedlnosti k vydání obecně závazného právního předpisu o výši a způsobu určení odměny a náhrad.
+- *Související ustanovení téhož zákona:* § 106 (věcný základ nároku — zákonná úprava, kterou vyhláška jen rozvádí), § 2 a § 4 NotŘ (notářská činnost vs. jiná činnost), § 108 (plátce).
+- *Související předpisy:* čl. 79 odst. 3 Ústavy ČR (zmocnění k vydání podzákonného předpisu), vyhl. č. 196/2001 Sb. (notářský tarif), čl. 36 Listiny (přístupnost právní pomoci).
+- *Judikatura:* nálezy ÚS Pl. ÚS 17/95 a Pl. ÚS 45/2000 (test ústavnosti zákonného zmocnění — konkrétní, omezené, podzákonné); zásada, že podzákonný předpis nesmí překračovat meze zákona.
+
+**4. Subsumpce.** Zmocnění v § 107 je konkrétní (oblast: odměna a náhrady notáře), omezené (nesmí zakládat věcný základ nároku ani nové povinnosti — ty plynou z § 106) a podzákonné. Stanovení mimosmluvní odměny jako pravidla u notářské činnosti je „způsobem určení odměny" — tedy přesně tím, co § 107 zmocňuje upravit. Vyloučení smluvní odměny u výkonu veřejné moci sleduje legitimní cíl (rovnost, předvídatelnost, nezávislost notáře) a nezasahuje do věcného základu nároku.
+
+**5. Řešení.** Vyhláška se v této části pohybuje v mezích zmocnění; námitka překročení zmocnění by neuspěla. Notář postupoval správně, když u notářské činnosti aplikoval tarif bez možnosti slevy. Procesně: žadatel nemá nárok na smluvní snížení odměny u notářské činnosti; jeho jedinou cestou je správnost výpočtu tarifní hodnoty.
+
+**6. Varianty.** (a) Kdyby šlo o jinou činnost dle § 4 NotŘ (právní porada, sepsání listiny neformou notářského zápisu), smluvní odměna je přípustná a odmítnutí slevy by bylo věcí dohody. (b) Kdyby vyhláška zaváděla zcela nový druh peněžitého plnění mimo katalog § 106, překročila by zmocnění a byla by v této části neaplikovatelná pro rozpor s čl. 79 odst. 3 Ústavy.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Závazný tarif bez možnosti smluvní odměny porušuje smluvní svobodu a čl. 36 Listiny." Neutralizace: u výkonu veřejné moci (veřejné listiny) je závazná cena nástrojem rovnosti a nezávislosti; čl. 36 chrání přístupnost, kterou předvídatelný tarif naopak posiluje.
+- *Protiargument:* „Vyhláška fakticky vytváří nárok, a tím překračuje zmocnění." Neutralizace: nárok zakládá provedení úkonu na základě § 106 a § 108; vyhláška jen určuje výši, což § 107 výslovně zmocňuje.
+- *Slabé místo:* hranice mezi „notářskou činností" (§ 2) a „jinou činností" (§ 4) bývá v praxi sporná a rozhoduje o tom, zda je smluvní odměna přípustná.
+
+#### H. Praktický závěr
+
+§ 107 je ústavně konformní zmocnění; vyhláška 196/2001 Sb. smí určovat výši a způsob odměny, nesmí však rozšiřovat katalog § 106 ani zakládat nové povinnosti. U notářské činnosti platí tarif bez smluvní volnosti, u jiné činnosti dle § 4 je smluvní odměna přípustná.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o notářskou činnost (§ 2 — tarif závazný) nebo jinou činnost (§ 4 — smluvní odměna možná)?
+- [ ] Pohybuje se aplikované ustanovení vyhlášky v mezích zmocnění (jen výše a způsob, ne nové nároky)?
+- [ ] Je tarifní hodnota správně určena a zaokrouhlena podle § 5 tarifu?
+- [ ] Je aplikováno aktuální znění vyhlášky (novela 359/2024 Sb. od 1. 1. 2025)?
+
+**Typicky rozhodné důkazy / podklady:** znění vyhlášky a jejích novel, výpočet tarifní hodnoty, sazebník notáře, povaha úkonu (§ 2 vs. § 4).
+
+---
+
 ### § 108 — Plátce odměny a solidarita více plátců
 
 > **§ 108**
@@ -153,6 +229,44 @@ Mezi solidárními dlužníky vzniká **regresní vztah** podle § 1876 OZ — t
 
 Tyto cizí poplatky se v praxi vybírají souběžně s odměnou notáře, ale jejich plátcem je vždy strana (typicky kupující u návrhu na vklad).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Kupující K a prodávající P uzavírají kupní smlouvu na nemovitost formou notářského zápisu. K e-mailu notáři napsal pouze K („žádám o sepsání zápisu"); P se k jednání dostavil a podepsal. V kupní smlouvě si K a P dohodli, že odměnu notáře hradí K. K po sepsání zápisu odměnu neuhradil. Notář vyzval k úhradě i P. P odmítl s tím, že podle smlouvy hradí K a že on sám o úkon nežádal. Důkazy: e-mailová žádost K, kupní smlouva s ujednáním o plátci, notářský zápis, prezenční doložka o tom, kdo o úkon žádal.
+
+**2. Právní otázka.** Je P (prodávající) solidárním plátcem odměny podle § 108 NotŘ, ačkoli o úkon výslovně žádal jen K a smluvně se K zavázal odměnu hradit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 108 NotŘ — plátcem je ten, kdo žádá o provedení úkonu; je-li plátců více, platí společně a nerozdílně.
+- *Související ustanovení téhož zákona:* § 106 (složky plnění), § 109 (záloha jako prevence sporu).
+- *Související předpisy:* § 1872 OZ (pasivní solidarita), § 1876 OZ (regres mezi solidárními dlužníky), § 1936 OZ (plnění za jiného), § 1746 OZ (vnitřní dohoda stran s účinky jen inter partes).
+- *Judikatura:* obecná zásada, že dohoda dlužníků o vnitřním rozdělení dluhu nemá účinky vůči věřiteli, není-li věřitel jejím účastníkem.
+
+**4. Subsumpce.** Plátce se určuje funkčně — podle toho, kdo o úkon žádal, nikoli podle hmotněprávních účinků. O úkon prokazatelně žádal jen K (e-mail). P se k jednání pouze připojil a podepsal, aniž by sám notáře oslovil. Solidarita podle věty druhé § 108 vzniká jen tehdy, žádá-li o úkon více osob; zde žádal jeden. Vnitřní dohoda K a P o plátci je účinná mezi nimi, nezavazuje ani neosvobozuje notáře.
+
+**5. Řešení.** Primárním (a zde jediným) plátcem je K. P solidárně neodpovídá, neboť o úkon nežádal. Notář musí vymáhat odměnu od K. Pokud by ovšem z okolností (např. společná žádost obou v záhlaví zápisu) plynulo, že o úkon žádali oba, byli by solidárně zavázáni a notář by mohl požadovat celý dluh i od P (s následným regresem P vůči K dle § 1876 OZ a dle jejich dohody). Praktické doporučení: notář měl v zápise výslovně uvést, kdo o úkon žádá, a vybrat zálohu dle § 109.
+
+**6. Varianty.** (a) Kdyby žádost o sepsání zaslali notáři oba (K i P), vznikla by zákonná solidarita a P by za odměnu odpovídal celým dílem s regresem vůči K. (b) Kdyby P odměnu uhradil za K na základě smlouvy, šlo by o splnění za jiného (§ 1936 OZ) a nárok notáře by zanikl bez ohledu na to, kdo plnil.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument (notáře):* „Oba účastníci podepsali zápis, oba tedy o úkon žádali a oba odpovídají solidárně." Neutralizace: podpis účastníka smlouvy není totožný s žádostí o provedení notářského úkonu; rozhodné je, kdo notáře o úkon požádal — proto je nutné to v zápise zachytit.
+- *Protiargument (P):* „Smlouva určuje plátcem K, jsem zproštěn." Neutralizace: vnitřní dohoda nezavazuje notáře; pokud by P solidárně odpovídal (žádal o úkon), smlouva mu dává jen regres vůči K, nikoli námitku vůči notáři.
+- *Slabé místo:* hranice mezi „žádostí" a „připojením se" je v praxi nezřetelná; bez výslovného záznamu v zápise hrozí spor o solidaritu.
+
+#### H. Praktický závěr
+
+Plátcem odměny je funkčně ten, kdo o úkon žádá; při více žadatelích vzniká zákonná solidarita s regresem mezi nimi. Vnitřní dohoda stran o plátci nemá účinky vůči notáři. Klíčem k vyloučení sporů je výslovné uvedení žadatele v zápise a výběr zálohy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kdo prokazatelně žádal o provedení úkonu (jeden, nebo více)?
+- [ ] Je v zápise výslovně zachyceno, kdo o úkon žádá?
+- [ ] Existuje vnitřní dohoda stran o plátci — a chápou strany, že nezavazuje notáře?
+- [ ] Byla vybrána záloha podle § 109 k prevenci sporu o úhradu?
+
+**Typicky rozhodné důkazy / podklady:** e-mailová/písemná žádost o úkon, záhlaví a doložky notářského zápisu, kupní smlouva s ujednáním o plátci, doklad o úhradě nebo záloze.
+
+---
+
 ### § 109 — Právo notáře na přiměřenou zálohu
 
 > **§ 109**
@@ -189,6 +303,44 @@ Nepřiměřená záloha (např. záloha několikanásobně převyšující tarif
 #### Vyúčtování zálohy
 
 Vyhláška č. 196/2001 Sb. v § 18 stanoví povinnost notáře **vyúčtovat zálohu** po provedení úkonu. Pokud záloha přesáhla skutečnou odměnu a hotové výdaje, je notář povinen rozdíl **vrátit** plátci. Není-li záloha vyúčtována včas, vzniká plátci nárok na vrácení nespotřebované části jako bezdůvodné obohacení (§ 2991 OZ); promlčecí lhůta běží od chvíle, kdy mohl plátce nárok na vrácení uplatnit (§ 619 OZ).
+
+---
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Notář byl požádán o osvědčení o průběhu valné hromady velké akciové společnosti s předpokládanou několikahodinovou účastí a velkým rozsahem osvědčovaných skutečností. Notář před úkonem požadoval složení zálohy ve výši odpovídající přibližně předpokládané tarifní odměně a hotovým výdajům. Společnost zálohu odmítla s tím, že notář je povinen úkon provést, a požadovala provedení bez zálohy. U jiného, jednorázového úkonu (ověření jednoho podpisu) naopak notář požadoval zálohu 5 000 Kč. Důkazy: žádost o úkon, kalkulace předpokládané odměny, sazebník, korespondence o záloze.
+
+**2. Právní otázka.** Je notář oprávněn podmínit zahájení práce na rozsáhlém úkonu složením zálohy, a kde je hranice „přiměřenosti" zálohy podle § 109 NotŘ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 109 NotŘ — právo notáře vyžadovat složení přiměřené zálohy na odměnu a na náhradu hotových výdajů.
+- *Související ustanovení téhož zákona:* § 106 (složky plnění; pozn.: záloha se nevztahuje na náhradu za promeškaný čas), § 53 NotŘ (povinnost provést úkon, důvody odmítnutí), § 47 NotŘ (kárný delikt), § 108 (plátce).
+- *Související předpisy:* § 18 vyhl. č. 196/2001 Sb. (vyúčtování zálohy a vrácení přeplatku), § 2991 a § 619 OZ (bezdůvodné obohacení, běh promlčecí lhůty).
+- *Judikatura:* zásada zákazu zneužití práva — záloha nesmí sloužit k selektivnímu výběru klientů; přiměřenost se posuzuje podle rozsahu a náročnosti úkonu.
+
+**4. Subsumpce.** Záloha na odměnu a hotové výdaje je u rozsáhlého, časově náročného úkonu (osvědčení o valné hromadě) přiměřená — § 109 ji výslovně připouští a její funkce (předfinancování výdajů, zajištění odměny) je naplněna. U jednorázového ověření jednoho podpisu je naopak požadavek vysoké zálohy nepřiměřený a hraničí se zneužitím práva (§ 53 — povinnost provést úkon).
+
+**5. Řešení.** U osvědčení valné hromady notář může podmínit zahájení práce složením přiměřené zálohy; společnost nemá nárok na provedení úkonu zdarma předem. Úkon však notář nesmí odmítnout pouze pro nesložení zálohy mimo důvody § 53 — nesložení zálohy zpravidla vede jen k oddálení úkonu, nikoli k jeho odmítnutí. U ověření podpisu je požadavek 5 000 Kč nepřiměřený a může zakládat kárný delikt (§ 47). Po úkonu notář zálohu vyúčtuje (§ 18 vyhl.) a přeplatek vrátí.
+
+**6. Varianty.** (a) Kdyby šlo o opakovaného klienta s bezvadnou platební historií, byl by požadavek vysoké zálohy nepřiměřený. (b) Kdyby záloha několikanásobně převyšovala tarifní odměnu, šlo by o porušení § 109 a vznik nároku klienta na vrácení přeplatku jako bezdůvodného obohacení (§ 2991 OZ).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument (klienta):* „Notář je povinen úkon provést (§ 53), tedy nesmí podmiňovat práci zálohou." Neutralizace: § 109 přiznává právo na přiměřenou zálohu; povinnost provést úkon a právo na zálohu se nevylučují — záloha legitimně oddaluje zahájení práce, neslouží k odmítnutí.
+- *Protiargument (notáře):* „Mohu žádat libovolně vysokou zálohu k pokrytí rizika." Neutralizace: zákonné kritérium přiměřenosti zálohu omezuje; nepřiměřená záloha je kárně i odpovědnostně postižitelná.
+- *Slabé místo:* § 109 neurčuje konkrétní strop zálohy; přiměřenost je neurčitý pojem posuzovaný případ od případu — notář musí být schopen kalkulaci zálohy doložit.
+
+#### H. Praktický závěr
+
+Notář smí žádat přiměřenou zálohu na odměnu a hotové výdaje (nikoli na promeškaný čas), zejména u rozsáhlých úkonů; nesmí ji však zneužít k odmítání úkonů ani k selektivnímu výběru klientů. Po úkonu zálohu vyúčtuje a přeplatek vrátí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vztahuje se záloha jen na odměnu a hotové výdaje (ne na náhradu za promeškaný čas)?
+- [ ] Je výše zálohy přiměřená rozsahu a náročnosti úkonu a kalkulaci lze doložit?
+- [ ] Není záloha zneužita k odmítnutí úkonu mimo důvody § 53 NotŘ?
+- [ ] Byla záloha po úkonu vyúčtována a přeplatek vrácen (§ 18 vyhl. 196/2001 Sb.)?
+
+**Typicky rozhodné důkazy / podklady:** žádost o úkon, kalkulace předpokládané odměny a výdajů, doklad o složení zálohy, vyúčtování zálohy, korespondence o přiměřenosti.
 
 ---
 
@@ -261,6 +413,44 @@ V praxi se odst. 2 uplatní zejména tehdy, podá-li podnět **subjekt údajů s
 
 Hranice je tedy úzce vymezena — § 109g se týká pouze zpracování v rámci konkrétního pozůstalostního řízení; mimo toto řízení (např. evidence notáře v Komoře, evidence úkonů ve Sbírce dokumentů) platí obecný dozor ÚOOÚ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pozůstalý syn zůstavitele se domnívá, že notář-soudní komisař v řízení o pozůstalosti neoprávněně sdělil věřiteli zůstavitele citlivé údaje o rodinných poměrech a o zdravotním stavu zůstavitele a že odmítl synovi sdělit, jaké jeho údaje zpracovává. Syn chce podat „stížnost". Zvažuje podání k Úřadu pro ochranu osobních údajů (ÚOOÚ). Důkazy: obsah pozůstalostního spisu, korespondence notáře s věřitelem, žádost syna o informace a odpověď notáře, pověření notáře soudem.
+
+**2. Právní otázka.** Kdo je dozorovým orgánem nad zpracováním osobních údajů notářem jednajícím jako soudní komisař v řízení o pozůstalosti — ÚOOÚ, nebo pověřující soud — a jakým mechanismem se subjekt údajů domáhá nápravy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 109g NotŘ — dozor pověřujícího soudu nad zpracováním OÚ notářem-komisařem; mechanismus podnětů (odst. 2).
+- *Související ustanovení téhož zákona:* § 100 odst. 1 NotŘ (úkony komisaře mají účinky úkonů soudu), § 98 odst. 2 (příslušný soud), § 109h (výluky z práv subjektu údajů), § 47 a § 7 NotŘ (kárná, resp. odvolací konsekvence).
+- *Související předpisy:* čl. 55 odst. 3 GDPR (vynětí soudů z dozoru), čl. 77 GDPR (právo na stížnost), čl. 51 GDPR a § 50 zák. č. 110/2019 Sb. (obecný dozor ÚOOÚ).
+- *Judikatura:* zásada, že na soudy jednající v rámci soudní pravomoci se obecný dozorový úřad nevztahuje (čl. 55 odst. 3 GDPR).
+
+**4. Subsumpce.** Notář-komisař vykonává funkci soudu; jeho úkony mají účinky úkonů soudu (§ 100 odst. 1). Dozor nad zpracováním OÚ v tomto řízení proto přísluší pověřujícímu soudu, nikoli ÚOOÚ (čl. 55 odst. 3 GDPR). Syn může podat podnět soudu podle § 109g odst. 2; soud podnět vyřídí a o způsobu vyřízení jej informuje, přičemž je povinen předcházet ohrožení zájmů dle písm. a)–d).
+
+**5. Řešení.** Správnou cestou je podnět pověřujícímu soudu (zpravidla okresnímu soudu posledního bydliště zůstavitele), nikoli stížnost k ÚOOÚ. Soud zjistí-li nedostatky, vyrozumí notáře a uvede, jak je napravit; při nesplnění hrozí kárné řízení (§ 47) či odvolání notáře (§ 7). Sdělení údajů věřiteli soud posoudí i z hlediska oprávněného zájmu třetí osoby a vymáhání pohledávek; pokud bylo nezbytné pro soupis pozůstalosti, nemusí jít o pochybení.
+
+**6. Varianty.** (a) Kdyby šlo o zpracování OÚ notářem mimo pozůstalostní řízení (notářská činnost dle § 2, další činnost dle § 3), byl by příslušný ÚOOÚ. (b) Kdyby se podnět týkal evidence notáře v Komoře (Sbírka dokumentů), opět by platil obecný dozor ÚOOÚ, nikoli § 109g.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Notář je správce OÚ a podléhá ÚOOÚ jako každý jiný." Neutralizace: v pozůstalostním řízení jedná jako funkce soudu; čl. 55 odst. 3 GDPR a § 109g vylučují obecný dozor a svěřují jej pověřujícímu soudu.
+- *Protiargument:* „Podnět k soudu je slabší než stížnost k ÚOOÚ, chybí vynutitelnost." Neutralizace: soud má nástroje nápravy (pokyn, kárné řízení, odvolání notáře), které jsou ve vztahu k notáři účinné; mechanismus odpovídá čl. 77 GDPR procesně zjednodušeně.
+- *Slabé místo:* hranice mezi zpracováním „v řízení o pozůstalosti" a mimo ně je rozhodná pro určení dozorového orgánu a v hraničních případech může být sporná.
+
+#### H. Praktický závěr
+
+Nad zpracováním OÚ notářem-komisařem v pozůstalostním řízení dozírá pověřující soud, nikoli ÚOOÚ; subjekt údajů podává podnět soudu. Mimo pozůstalostní řízení platí obecný dozor ÚOOÚ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o zpracování OÚ notářem v řízení o pozůstalosti (komisař) — pak dozor soudu, ne ÚOOÚ?
+- [ ] Byl podnět směřován k pověřujícímu soudu (§ 109g odst. 2)?
+- [ ] Posoudil soud při vyřízení ohrožení zájmů dle písm. a)–d) (trestní řízení, utajované informace, oprávněné zájmy třetích osob)?
+- [ ] Při zjištění nedostatků: vyrozuměn notář a uveden způsob nápravy?
+
+**Typicky rozhodné důkazy / podklady:** pověření notáře soudem, pozůstalostní spis, korespondence notáře, žádost subjektu údajů a odpověď, podnět soudu a jeho vyřízení.
+
+---
+
 ### § 109h — Výluky z čl. 5 a 12–22 GDPR
 
 > **§ 109h**
@@ -321,6 +511,44 @@ Výluky podle § 109h jsou **omezením základního práva** na ochranu osobníc
 5. **Přiměřené v užším smyslu** — vyžaduje konkrétní hodnocení notářem v každém případě.
 
 Notář, který by výluky aplikoval mimo zákonné meze (např. nepřiznal subjektu údajů právo na přístup, aniž by konkrétní okolnosti odůvodňovaly výluku), porušuje zákon a může za to nést odpovědnost — kárnou (§ 47 NotŘ), občanskoprávní (§ 82 GDPR — náhrada újmy), správní (pokuta dle § 62 zák. 110/2019 Sb. — nepřipadá v úvahu u notáře-komisaře, viz výklad u § 109g).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Dědic A v probíhajícím řízení o pozůstalosti uplatnil u notáře-komisaře právo na výmaz některých údajů z procesního spisu (čl. 17 GDPR) a právo vznést námitku proti zpracování (čl. 21 GDPR). Údaje se však týkají sporné majetkové položky, k níž uplatňuje nárok věřitel zůstavitele a kterou zpochybňuje dědic B. Notář žádosti A nevyhověl s odůvodněním, že výmaz by ohrozil důkazní bázi a vymáhání pohledávek. Důkazy: žádost A, obsah spisu, přihláška pohledávky věřitele, stanovisko dědice B.
+
+**2. Právní otázka.** Smí notář-komisař odepřít dědici výkon práva na výmaz a námitku podle čl. 17 a 21 GDPR s odkazem na výluky § 109h, a za jakých podmínek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 109h NotŘ — vyloučení čl. 12–22 a v odpovídajícím rozsahu čl. 5 GDPR, je-li to nezbytné k ochraně zájmů dle písm. a)–d).
+- *Související ustanovení téhož zákona:* § 109g (dozor soudu), § 100 odst. 1 (účinky úkonů komisaře), § 47 NotŘ (kárná odpovědnost).
+- *Související předpisy:* čl. 5, 12–22, čl. 23 a čl. 82 GDPR (zásady, práva subjektu, omezení, náhrada újmy), čl. 10 odst. 3 Listiny (ochrana OÚ jako základní právo), čl. 8 EÚLP.
+- *Judikatura:* nálezy ÚS Pl. ÚS 4/94 a Pl. ÚS 24/10 (test ústavnosti omezení základního práva); standard „nezbytnosti v demokratické společnosti" (ESLP k čl. 8 EÚLP, SDEU k čl. 23 GDPR).
+
+**4. Subsumpce.** Výluky § 109h nejsou absolutní — vyžadují, aby odepření práva bylo nezbytné k ochraně některého ze čtyř taxativních zájmů. Zde se uplatní písm. c) (ochrana práv jiných osob — dědice B) a písm. d) (vymáhání soukromoprávních nároků — věřitele). Zásady čl. 5 se vylučují jen v rozsahu odpovídajícím vyloučeným právům; zásada zákonnosti a korektnosti zůstává. Test ústavnosti (zákonný podklad, legitimní cíl, vhodnost, nezbytnost, přiměřenost) musí notář provést konkrétně.
+
+**5. Řešení.** Notář může výkon práva na výmaz a námitku odepřít po dobu, po kterou je to nezbytné k ochraně nároku věřitele a práv dědice B; musí to však konkrétně odůvodnit a průběžně přezkoumávat, zda důvod výluky trvá. Po pominutí důvodu (pravomocné rozhodnutí o pozůstalosti, vypořádání pohledávek) je povinen obnovit standardní režim a práva A přiznat. Odepření „paušálně" bez testu nezbytnosti by bylo porušením zákona se sankcemi kárnou (§ 47), občanskoprávní (čl. 82 GDPR) i případně dozorovou cestou soudu (§ 109g).
+
+**6. Varianty.** (a) Kdyby se údaje netýkaly sporné položky a žádný ze zájmů písm. a)–d) by nebyl dotčen, musel by notář žádosti A vyhovět. (b) Kdyby probíhalo trestní vyšetřování okolností smrti zůstavitele, uplatnila by se výluka podle písm. a) (bezpečnost a trestní stíhání) a informování subjektu by se odepřelo i z tohoto důvodu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument (dědice):* „GDPR mi přímo přiznává právo na výmaz, výluka je nezákonná." Neutralizace: čl. 23 GDPR umožňuje členskému státu omezit práva subjektu zákonem; § 109h je takovým zákonným omezením, jež obstojí jen při konkrétní nezbytnosti.
+- *Protiargument (notáře):* „V pozůstalosti se práva subjektu neuplatní vůbec." Neutralizace: výluky nejsou paušální — platí jen po dobu nezbytnosti a jen ve vztahu k taxativním zájmům; mimo ně práva subjektu trvají.
+- *Slabé místo:* test nezbytnosti a přiměřenosti je neurčitý a vyžaduje individuální posouzení; bez písemného odůvodnění hrozí, že odepření neobstojí.
+
+#### H. Praktický závěr
+
+§ 109h umožňuje notáři-komisaři dočasně omezit práva subjektu údajů (čl. 12–22, v odpovídajícím rozsahu čl. 5 GDPR), ale jen je-li to nezbytné k ochraně taxativně vymezených zájmů a jen po dobu trvání důvodu; výluku je třeba konkrétně odůvodnit a průběžně přezkoumávat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je odepření práva nezbytné k ochraně některého ze zájmů písm. a)–d)?
+- [ ] Je výluka časově omezena na dobu trvání důvodu a průběžně přezkoumávána?
+- [ ] Zůstala zachována zásada zákonnosti a korektnosti (čl. 5 se vylučuje jen v odpovídajícím rozsahu)?
+- [ ] Je výluka konkrétně písemně odůvodněna (test ústavnosti)?
+
+**Typicky rozhodné důkazy / podklady:** žádost subjektu údajů, obsah pozůstalostního spisu, přihlášky pohledávek věřitelů, písemné odůvodnění výluky, doklad o trvání/pominutí důvodu.
+
+---
 
 ### Oddíl 2 — Ochrana osobních údajů při notářské a další činnosti (§ 109i)
 
@@ -394,6 +622,44 @@ Klient notáře a další osoby, jejichž údaje notář zpracovává, jsou **su
 - Má právo na přístup ke svým údajům (čl. 15 GDPR) — může požádat o opis vlastní listiny (§ 92 NotŘ — opisy se vydávají jen oprávněným osobám);
 - Má omezené právo na výmaz — výmaz nelze provést u listin, které musí být ze zákona uchovávány (čl. 17 odst. 3 písm. b) GDPR — uchování ze zákonné povinnosti);
 - Má právo vznést námitku (čl. 21 GDPR), ale notář ji posuzuje vůči veřejnému zájmu na uchování listin.
+
+---
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Klient X, který před 9 lety pořídil u notáře závěť ve formě notářského zápisu, požádal notáře o úplný výmaz všech svých údajů a o skartaci zápisu s odůvodněním, že už nechce, aby notář cokoliv o něm uchovával (čl. 17 GDPR). Notář žádost odmítl s tím, že notářský zápis musí ze zákona uchovávat a evidovat. X namítá, že GDPR má přednost a vyžaduje výmaz. Důkazy: žádost X, notářský zápis o závěti, záznam v Evidenci právních jednání pro případ smrti, informační poučení podané před sepsáním zápisu.
+
+**2. Právní otázka.** Má klient mimo pozůstalostní řízení právo na výmaz údajů obsažených v notářském zápise, který notář ze zákona uchovává a eviduje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 109i odst. 3 NotŘ — notář je oprávněn zpracovávat OÚ v rozsahu nezbytném pro výkon notářské, další a jiné činnosti a pro vedení evidenčních pomůcek (titul dle čl. 6 odst. 1 písm. e) GDPR).
+- *Související ustanovení téhož zákona:* § 35a, § 84 (evidence a úschova pořízení pro případ smrti), § 91, § 92, § 105a NotŘ (doby uchování, vydávání opisů oprávněným osobám), § 109h (výluky — jen pro pozůstalost, zde se neuplatní).
+- *Související předpisy:* čl. 5 odst. 1 písm. c) a e), čl. 6 odst. 1 písm. e), čl. 17 odst. 3 písm. b), čl. 21 GDPR; zák. č. 499/2004 Sb. (archivnictví).
+- *Judikatura:* zásada, že právo na výmaz neplatí, je-li zpracování nezbytné pro splnění právní povinnosti nebo úkolu ve veřejném zájmu (čl. 17 odst. 3 písm. b) GDPR).
+
+**4. Subsumpce.** Notář zpracovává údaje X na zákonném titulu dle § 109i odst. 3 a čl. 6 odst. 1 písm. e) GDPR (výkon veřejné moci, vedení evidenčních pomůcek). Notářský zápis je veřejná listina s trvalou důkazní hodnotou; jeho uchování je zákonnou povinností (§ 91, § 84 NotŘ). Právo na výmaz se proto podle čl. 17 odst. 3 písm. b) GDPR neuplatní. Námitku (čl. 21) notář poměřuje veřejným zájmem na uchování listin, který zde převažuje.
+
+**5. Řešení.** Notář žádost o výmaz a skartaci právem odmítl — uchování zápisu o závěti je zákonnou povinností a právo na výmaz je vyloučeno (čl. 17 odst. 3 písm. b) GDPR). X má jiná práva: být informován (čl. 13), na přístup ke svým údajům (čl. 15 — opis vlastní listiny dle § 92 oprávněné osobě), a může závěť kdykoli odvolat či změnit (to ovšem řeší dědické právo, ne GDPR). Notář musí dbát zásady minimalizace — zpracovávat jen údaje nezbytné pro úkon a evidenci.
+
+**6. Varianty.** (a) Kdyby šlo o údaj zpracovaný nad rámec nezbytnosti (např. nadbytečně kopírovaný doklad nesouvisející s úkonem), právo na výmaz takového údaje by mohlo obstát. (b) Kdyby šlo o zpracování notářem-komisařem v pozůstalostním řízení, uplatnily by se navíc výluky § 109h, nikoli běžný režim § 109i.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument (klienta):* „GDPR jako přímo použitelné nařízení má přednost a zaručuje výmaz." Neutralizace: GDPR samo (čl. 17 odst. 3) vylučuje výmaz tam, kde zpracování plní zákonnou povinnost či úkol ve veřejném zájmu; § 109i a NotŘ takový titul a povinnost zakládají.
+- *Protiargument:* „Doba uchování (50 let) je v rozporu se zásadou omezení uložení (čl. 5 odst. 1 písm. e)." Neutralizace: delší doba je odůvodněna povahou notářských listin jako veřejných listin s trvalou důkazní hodnotou a archivním zákonem; titul plyne z výkonu veřejné moci.
+- *Slabé místo:* klauzule „v rozsahu nezbytném" (§ 109i odst. 3) je obecná; u nových forem zpracování (elektronické zápisy, vzdálené úkony) může být rozsah nezbytnosti sporný.
+
+#### H. Praktický závěr
+
+§ 109i zakládá zákonný titul zpracování OÚ Komorou i notářem pro výkon veřejné moci a vedení evidencí; právo na výmaz je u zákonně uchovávaných listin vyloučeno (čl. 17 odst. 3 písm. b) GDPR). Notář je vázán zásadou minimalizace a zpracovává jen údaje nezbytné pro úkon a evidenci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Opírá se zpracování o titul § 109i (odst. 1 Komora / odst. 2 komory / odst. 3 notář) a čl. 6 odst. 1 písm. e) GDPR?
+- [ ] Jsou zpracovávány jen údaje nezbytné pro úkon a evidenci (minimalizace)?
+- [ ] Jde o listinu se zákonnou povinností uchování — pak je výmaz vyloučen (čl. 17 odst. 3 písm. b)?
+- [ ] Byla splněna informační povinnost (čl. 13) a respektováno právo na přístup (čl. 15 / § 92)?
+
+**Typicky rozhodné důkazy / podklady:** notářský zápis a záznam v příslušné evidenci, informační poučení subjektu údajů, žádost o výkon práv a odpověď notáře, doklad o zákonné době uchování.
 
 ---
 
@@ -509,6 +775,44 @@ Tyto důsledky jsou pro klienty mimořádně závažné — typicky pak nemohou 
 
 ---
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikající fyzická osoba Y provozovala „kancelář právních a notářských služeb", soustavně za úplatu sepisovala listiny, na vizitkách a v reklamě se označovala jako „notář" a klientům nabízela „notářské zápisy s vykonatelností". Klient Z na základě takového „zápisu o uznání dluhu" neúspěšně podal exekuční návrh — soud listinu odmítl jako neúčinný exekuční titul. Ministerstvo spravedlnosti zahájilo řízení o přestupku. Důkazy: vizitky a reklama Y, „notářské zápisy" sepsané Y, smlouvy o úplatě, podání klienta Z u exekučního soudu, výpis z registru podnikatelů.
+
+**2. Právní otázka.** Naplnila Y skutkové podstaty přestupku podle § 109j odst. 1 písm. a) i b) NotŘ, a jak se přestupkové řízení vztahuje k případné trestní odpovědnosti za neoprávněné podnikání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 109j NotŘ — přestupky neoprávněného výkonu notářské činnosti [odst. 1 písm. a)] a zneužití označení „notář" [písm. b)]; sankce (pokuta až 3 mil. Kč, resp. 200 000 Kč, zákaz činnosti až 1 rok); příslušnost ministerstva.
+- *Související ustanovení téhož zákona:* § 1, § 2, § 3 NotŘ (kdo a jaká činnost je notářskou), § 7 NotŘ (jmenování notáře), § 71b NotŘ (doložka vykonatelnosti), § 11 NotŘ (pojištění notáře).
+- *Související předpisy:* § 21 odst. 2, § 30, § 32, § 37 zák. č. 250/2016 Sb. (subsidiarita přestupku, promlčení, kritéria sankce); § 251 a § 209 TZ (neoprávněné podnikání, podvod); § 567 OZ (veřejná listina); § 2910 OZ (náhrada škody).
+- *Judikatura:* NSS 2 As 84/2024-28 (25. 11. 2024) — chráněným zájmem § 109j odst. 1 písm. b) je ochrana před uváděním v omyl o tom, zda je osoba skutečně notářem; cílem § 109j je umožnit postih „vinklaření" a chránit notáře před nekalou konkurencí i veřejnost před klamáním.
+
+**4. Subsumpce.** Y vykonávala notářskou činnost (sepisování „notářských zápisů" s doložkou vykonatelnosti), ač není notářem jmenovaným dle § 7 — naplněna podstata písm. a). Y zároveň užívala označení „notář" bez splnění zákonných podmínek — naplněna podstata písm. b) (chráněný zájem dle NSS 2 As 84/2024-28). Soustavnost a úplatnost činnosti zakládá podezření z trestného činu neoprávněného podnikání (§ 251 TZ), případně podvodu (§ 209 TZ) vůči klientům.
+
+**5. Řešení.** Ministerstvo může uložit pokutu za oba přestupky (až 3 mil. Kč za písm. a), až 200 000 Kč za písm. b)) a u písm. a) i zákaz činnosti do 1 roku. Protože však soustavný a rozsáhlý neoprávněný výkon za úplatu může naplnit § 251 TZ, uplatní se subsidiarita přestupku (§ 21 odst. 2 zák. č. 250/2016 Sb.): přestupkové řízení se zastaví a věc se předá orgánům činným v trestním řízení. Klient Z má vůči Y nárok na náhradu škody (§ 2910 OZ); „zápisy" Y nejsou veřejnými listinami (§ 567 OZ) a nezakládají vykonatelnost (§ 71b NotŘ). Procesně: proti rozhodnutí ministerstva rozklad (rozhoduje ministr), poté správní žaloba k Městskému soudu v Praze.
+
+**6. Varianty.** (a) Kdyby Y byla advokátem sepisujícím listiny mimo formu notářského zápisu a osvědčujícím podpisy podle § 25a zák. o advokacii, přestupek by nespáchala (zákonný titul). (b) Kdyby šlo o bývalého notáře, jemuž zaniklo notářství, který nadále užívá označení „notář" bez dovětku „bývalý", šlo by jen o přestupek dle písm. b) (do 200 000 Kč), nikoli o neoprávněný výkon činnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument (pachatele):* „Označení ‚notář' jsem užíval jen v přeneseném/reklamním smyslu, nikoho jsem neklamal." Neutralizace: dle NSS 2 As 84/2024-28 je chráněn samotný zájem na tom, aby účastníci nebyli uváděni v omyl či pochybnost; postačuje způsobilost vyvolat omyl, nikoli prokázaná škoda.
+- *Protiargument:* „Za totéž jednání nelze trestat přestupkem i trestně (ne bis in idem)." Neutralizace: zásada subsidiarity (§ 21 odst. 2 zák. 250/2016 Sb.) řeší souběh — věc se postoupí do trestního řízení a přestupkové se zastaví; dvojí potrestání nehrozí.
+- *Slabé místo:* hranice mezi oprávněnou činností advokáta/úřadu (§ 25a zák. o advokacii, zák. č. 21/2006 Sb.) a neoprávněnou notářskou činností je v hraničních případech sporná; dále bývá problematická solventnost pachatele pro náhradu škody (nemá pojištění dle § 11 NotŘ).
+
+#### H. Praktický závěr
+
+§ 109j postihuje osoby vně notářského stavu — neoprávněný výkon notářské činnosti (až 3 mil. Kč, zákaz činnosti) a zneužití označení „notář" (až 200 000 Kč); řízení vede Ministerstvo spravedlnosti. Při soustavném výkonu za úplatu se uplatní subsidiarita k trestnému činu neoprávněného podnikání.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vykonává osoba notářskou/další činnost bez oprávnění dle § 7 NotŘ, nebo má zákonný titul (advokát, úřad, zastupitelský úřad)?
+- [ ] Užívá označení „notář" bez splnění zákonných podmínek (způsobilost vyvolat omyl — NSS 2 As 84/2024-28)?
+- [ ] Je dán souběh s § 251/§ 209 TZ — pak postoupení orgánům činným v trestním řízení (subsidiarita)?
+- [ ] Je věc v promlčecí době (3 roky dle § 30 zák. 250/2016 Sb.) a příslušné Ministerstvo spravedlnosti?
+
+**Typicky rozhodné důkazy / podklady:** reklama, vizitky a webové prezentace pachatele, listiny jím sepsané, doklady o úplatě, podání dotčených klientů, výpisy z registrů, znalecké/odborné posouzení povahy úkonů.
+
+---
+
 ## ČÁST DVANÁCTÁ — PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ (§§ 110–116)
 
 > **Systematické zařazení.** Část dvanáctá tvoří **přechodný a závěrečný rámec** zákona č. 358/1992 Sb. Plní tři funkce: (i) zajištění **kontinuity** přechodu od státního notářství (rušeného zákonem č. 264/1992 Sb.) k novému, na svobodném povolání založenému notářství; (ii) **uvedení nového systému do provozu** (zřízení notářských úřadů, ustavení orgánů Komory); (iii) **legislativně technické provedení** souvisejících změn (novelizace kompetenčního zákona č. 2/1969 Sb.) a stanovení **účinnosti**.
@@ -550,6 +854,44 @@ Odst. 2 ukládá ministru spravedlnosti zřídit **k 1. 1. 1993** v obvodu každ
 
 V praxi byl k 1. 1. 1993 jmenován **prakticky celý korpus** dosavadních státních notářů (počet přecházejících notářů byl v řádu nižších stovek pro celou ČR), což zajistilo plynulý chod notářské činnosti od prvního dne nového systému.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** (Historicko-výkladová.) Státní notář N byl k 31. 12. 1992 v pracovním poměru ke krajskému soudu a vykonával funkci státního notáře v obvodu okresního soudu O. K 1. 1. 1993 vyjádřil souhlas s přechodem do funkce notáře. V témže okresním obvodu O působili k rozhodnému dni další dva státní notáři, kteří rovněž souhlasili. Spor vznikl o to, kolik notářských úřadů měl ministr v obvodu O zřídit a zda mohl některého z přecházejících notářů „nevzít". Důkazy: pracovní smlouva N s krajským soudem, doklad o výkonu funkce státního notáře k 1. 1. 1993, písemný souhlas s přechodem, opatření ministra o zřízení úřadů.
+
+**2. Právní otázka.** Vznikl státnímu notáři, který splnil podmínky § 110 odst. 1 a vyslovil souhlas, právní nárok na to, aby pro něj byl zřízen notářský úřad, a kolik úřadů byl ministr povinen v obvodu zřídit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 110 NotŘ — automatický přechod státních notářů (při splnění tří podmínek) a povinnost ministra zřídit úřady v počtu odpovídajícím počtu přecházejících notářů.
+- *Související ustanovení téhož zákona:* § 7 a § 8 NotŘ (jmenování notáře, kompetence ministra), § 14 NotŘ (počet úřadů po 1. 1. 1993 — ministerstvo po vyjádření Komory), § 111 (přechodný výkon funkcí Komor).
+- *Související předpisy:* zák. č. 264/1992 Sb. (zrušení státního notářství), zák. č. 95/1963 Sb. (zrušený zákon o státním notářství), § 116 NotŘ (účinnost k 1. 1. 1993).
+- *Judikatura:* (přechodné ustanovení vyčerpané k 1993; nosná je systematika přechodu, nikoli pozdější judikatura).
+
+**4. Subsumpce.** N splnil tři kumulativní podmínky § 110 odst. 1: pracovní poměr ke krajskému soudu k 1. 1. 1993, výkon funkce státního notáře k témuž dni a souhlas s přechodem. Stal se tak ze zákona notářem v obvodu okresního soudu O. Ministr byl podle odst. 2 povinen zřídit v obvodu O úřady v počtu odpovídajícím počtu přecházejících notářů (tj. nejméně tři).
+
+**5. Řešení.** N se k 1. 1. 1993 stal notářem ex lege; ministr nemohl zřídit méně úřadů, než kolik bylo přecházejících notářů, takže pro N úřad existovat musel. Ministr mohl zřídit úřadů více (pro nově jmenované notáře dle § 7), méně však nikoli. „Nevzít" přecházejícího notáře, který splnil podmínky a souhlasil, zákon neumožňoval. Po 1. 1. 1993 se počet úřadů řídí § 14 NotŘ.
+
+**6. Varianty.** (a) Kdyby N souhlas s přechodem nevyslovil, notářem by se nestal a úřad by pro něj zřízen být nemusel — N by mohl zůstat v jiné soudní funkci nebo odejít. (b) Kdyby v obvodu O k 1. 1. 1993 nepůsobil žádný státní notář, žádný by nepřešel a úřad by se obsadil až jmenováním nového notáře dle § 7 NotŘ.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ministr měl diskreci a mohl počet úřadů snížit pod počet přecházejících notářů." Neutralizace: odst. 2 ukládá zřídit úřady v počtu odpovídajícím počtu přecházejících notářů — jde o vázanou povinnost, nikoli diskreci; snížení pod tento počet by bylo v rozporu se zákonem.
+- *Protiargument:* „Přechod byl plně automatický bez ohledu na vůli notáře." Neutralizace: třetí podmínkou je souhlas notáře; bez něj přechod nenastal — automatismus se týká jen splnění zákonných podmínek včetně souhlasu.
+- *Slabé místo:* ustanovení je k 1. 4. 2025 vyčerpané; jeho výklad má dnes jen historicko-systematický význam pro doložení kontinuity notářského stavu.
+
+#### H. Praktický závěr
+
+§ 110 zajistil personální kontinuitu přechodu ze státního notářství: státní notáři přecházeli ex lege při splnění tří podmínek (pracovní poměr ke krajskému soudu, výkon funkce, souhlas) a ministr byl povinen zřídit odpovídající počet úřadů. Dnes je norma vyčerpaná (1993), význam má jako doklad legitimní kontinuity stavu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Šlo o osobu v pracovním poměru ke krajskému soudu a ve funkci státního notáře k 1. 1. 1993?
+- [ ] Vyslovila tato osoba souhlas s přechodem (třetí podmínka)?
+- [ ] Odpovídal počet zřízených úřadů v obvodu počtu přecházejících notářů (odst. 2)?
+- [ ] Pro období po 1. 1. 1993: řídí se počet úřadů již § 14 NotŘ?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva se soudem, doklad o výkonu funkce státního notáře, písemný souhlas s přechodem, opatření ministra o zřízení úřadů, doklad o jmenování.
+
+---
+
 ### § 111 — Přechodný výkon funkcí orgánů Komor
 
 > **§ 111**
@@ -587,6 +929,44 @@ Tato dvoustupňová konstrukce respektovala **federativní strukturu notářské
 
 K dnešnímu dni (1. 4. 2025) je § 111 **historicky vyčerpán** — orgány všech krajských notářských komor i Notářské komory ČR jsou dlouhodobě ustaveny a fungují podle běžných pravidel § 28 a násl. NotŘ. § 111 je tedy součástí zákona pouze jako **historická norma**, která ukotvuje legitimitu počátku notářské samosprávy. Jeho zrušení by však bylo nesystémové — jde o normu, která sice již nepůsobí, ale dokumentuje právní kontinuitu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** (Historicko-výkladová.) V lednu 1993, po jmenování notáři, ale ještě před ustavením krajských notářských komor, notář potřeboval, aby byl proveden prvotní zápis do veřejného seznamu a vyřízena stížnost na jiného notáře. Stěžovatel namítal, že orgány komor neexistují, a tedy stížnost nemá kdo projednat. Důkazy: datum jmenování notářů, doklad o tom, že krajská notářská komora dosud nebyla ustavena, podání stížnosti, datum svolání ustavujícího zasedání kolegia.
+
+**2. Právní otázka.** Kdo byl v období od 1. 1. 1993 do ustavení samosprávných orgánů příslušný k výkonu funkcí krajských notářských komor a Notářské komory ČR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 111 NotŘ — do ustavení orgánů notářských komor vykonávají jejich funkce krajské soudy, do ustavení Komory ministerstvo; lhůty 30 dnů (kolegia) a 90 dnů (sněm).
+- *Související ustanovení téhož zákona:* § 28 a násl. NotŘ (orgány Komor v běžném režimu), § 30 NotŘ (stížnosti), § 35a a násl. (veřejné seznamy), § 110 (jmenování notářů), § 116 (účinnost).
+- *Související předpisy:* zák. č. 264/1992 Sb. (zrušení státního notářství); obecné principy přechodných ustanovení.
+- *Judikatura:* (vyčerpané přechodné ustanovení; rozhodný je systematický výklad funkční suplence).
+
+**4. Subsumpce.** V rozhodném období orgány komor ještě neexistovaly. Podle § 111 odst. 1 vykonávaly funkce orgánů krajských notářských komor krajské soudy a funkce orgánů Notářské komory ČR ministerstvo. Šlo o dočasnou funkční suplenci do doby volby orgánů, k níž měly krajské soudy svolat ustavující zasedání kolegií do 30 dnů a ministerstvo ustavující zasedání sněmu do 90 dnů od účinnosti zákona.
+
+**5. Řešení.** Prvotní zápis do veřejného seznamu i projednání stížnosti v přechodném období provedl příslušný krajský soud jako suplent funkcí krajské notářské komory; funkce Komory ČR vykonávalo ministerstvo. Po volbě orgánů (kolegia do 30. 1. 1993, sněm do 1. 4. 1993) provizorium skončilo a agendu převzaly samosprávné orgány dle § 28 a násl. NotŘ.
+
+**6. Varianty.** (a) Kdyby krajský soud nesvolal ustavující zasedání kolegia ve lhůtě 30 dnů, provizorium by trvalo déle, avšak povinnost svolat by nezanikla. (b) Po faktickém ustavení orgánů (koncem března 1993) by již krajský soud ani ministerstvo nebyly příslušné — agenda přešla na zvolené orgány.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez ustavených komor nemohl nikdo vykonávat jejich funkce, úkony jsou neplatné." Neutralizace: § 111 výslovně určil suplenty (krajské soudy a ministerstvo); jejich úkony v přechodném období měly plnou platnost.
+- *Protiargument:* „Lhůty 30/90 dnů byly pořádkové, jejich nedodržení nemělo následky." Neutralizace: i kdyby šlo o lhůty pořádkové, povinnost svolat zasedání trvala a provizorium se nemělo bezdůvodně prodlužovat.
+- *Slabé místo:* ustanovení je k 1. 4. 2025 historicky vyčerpané; jeho dnešní význam je čistě dokumentační (legitimita počátku samosprávy).
+
+#### H. Praktický závěr
+
+§ 111 překlenul počáteční organizační vakuum: do ustavení samosprávných orgánů vykonávaly jejich funkce krajské soudy (krajské komory) a ministerstvo (Komora ČR), s povinností svolat ustavující zasedání ve lhůtách 30, resp. 90 dnů. Norma je dnes vyčerpaná.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá úkon do přechodného období před ustavením samosprávných orgánů?
+- [ ] Vykonal funkci správný suplent (krajský soud pro krajskou komoru, ministerstvo pro Komoru ČR)?
+- [ ] Byly dodrženy lhůty pro svolání kolegií (30 dnů) a sněmu (90 dnů)?
+- [ ] Pro období po ustavení: jedná již zvolený orgán dle § 28 a násl. NotŘ?
+
+**Typicky rozhodné důkazy / podklady:** doklad o datu jmenování notářů, záznamy o ustavujících zasedáních kolegií a sněmu, úkony krajských soudů/ministerstva v přechodném období, datum volby orgánů.
+
+---
+
 ### § 112 — Zvláštní započítání právní praxe v přechodném období
 
 > **§ 112**
@@ -620,6 +1000,44 @@ Odst. 1 zakládal **trojí krok**:
 3. **Účinek** — započítaná praxe se stala součástí předepsané notářské praxe podle § 7 odst. 2.
 
 U notářských kandidátů (odst. 2) rozhodovala **přímo notářská komora** bez vstupu ministra — to odpovídá samosprávné struktuře: kandidáti jsou v rámci profesního vztahu k Komoře, jejich kvalifikace je věcí stavu, nikoli státu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** (Historicko-výkladová.) V roce 1994 se o jmenování notářem ucházel uchazeč U, který nikdy nebyl notářským koncipientem, ale po sedm let působil jako soudce a poté jako advokát. Bez zvláštní úpravy nesplňoval požadavek pětileté notářské praxe podle § 7 odst. 2 NotŘ. Notářská komora podala ministrovi návrh, aby U byla jeho dosavadní právní praxe zcela započtena do notářské praxe. Důkazy: doklady o předchozí právní praxi U, návrh Komory, rozhodnutí ministra, datum podání žádosti (před 31. 12. 1994).
+
+**2. Právní otázka.** Bylo možné v přechodném období uchazeči, který neměl notářskou praxi, zcela započíst jinou právní praxi do notářské praxe podle § 7 odst. 2 NotŘ, a kdo o tom rozhodoval?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 112 NotŘ — po dobu dvou let od účinnosti zákona může ministr na návrh Komory zcela započíst jinou právní praxi do notářské praxe (§ 7 odst. 2), Komora pak do doby dle § 26 odst. 2.
+- *Související ustanovení téhož zákona:* § 7 odst. 2 NotŘ (pětiletá notářská praxe pro jmenování notářem), § 26 odst. 2 (tříletá praxe koncipienta pro kandidáta), § 8 NotŘ (jmenování ministrem).
+- *Související předpisy:* § 116 NotŘ (účinnost k 1. 1. 1993, od níž běží dvouletá lhůta do 31. 12. 1994).
+- *Judikatura:* (vyčerpané přechodné ustanovení; rozhodný je systematický a teleologický výklad).
+
+**4. Subsumpce.** U podal žádost před 31. 12. 1994, tedy v zákonné dvouleté lhůtě § 112. Jeho předchozí praxe (soudce, advokát) je „jinou právní praxí" ve smyslu § 112 odst. 1. Rozhodovací schéma: návrh Komory → diskreční rozhodnutí ministra → započtení praxe do § 7 odst. 2. U notářských kandidátů (odst. 2) by rozhodovala přímo notářská komora bez vstupu ministra.
+
+**5. Řešení.** Komora podala ministrovi návrh; ministr měl diskreci a mohl praxi U zcela započíst, čímž by U splnil podmínku § 7 odst. 2 a mohl být jmenován. Bez návrhu Komory ministr započtení provést nemohl. Po 31. 12. 1994 se obnovil standardní režim § 7 odst. 2 a tato cesta zanikla — § 112 je trvale vyčerpán.
+
+**6. Varianty.** (a) Kdyby U podal žádost po 1. 1. 1995, započtení podle § 112 by již nebylo možné a U by musel splnit standardní notářskou praxi. (b) Kdyby šlo o uchazeče o funkci notářského kandidáta, rozhodovala by přímo notářská komora podle odst. 2, bez návrhu ministrovi.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ministr měl povinnost návrhu Komory vyhovět." Neutralizace: odst. 1 zakládá diskreci („může"), nikoli povinnost; ministr mohl návrh i odmítnout.
+- *Protiargument:* „Započítat lze i po uplynutí dvou let, jde-li o praxi z přechodného období." Neutralizace: § 112 platí výslovně jen po dobu dvou let od účinnosti; po 31. 12. 1994 je cesta uzavřena bez výjimky.
+- *Slabé místo:* ustanovení je k 1. 4. 2025 trvale vyčerpané; jeho dnešní význam je výhradně historický.
+
+#### H. Praktický závěr
+
+§ 112 umožňoval v přechodném dvouletém období (do 31. 12. 1994) překlenout kvalifikační vakuum: ministr mohl na návrh Komory zcela započíst jinou právní praxi do notářské praxe (notáři), Komora obdobně u kandidátů. Norma je dnes trvale vyčerpaná.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla žádost podána v dvouleté lhůtě (do 31. 12. 1994)? (Po tomto datu nelze.)
+- [ ] U notáře: existoval návrh Komory a následné (diskreční) rozhodnutí ministra?
+- [ ] U kandidáta: rozhodla přímo notářská komora dle odst. 2?
+- [ ] Jde o „jinou právní praxi" způsobilou k započtení?
+
+**Typicky rozhodné důkazy / podklady:** doklady o předchozí právní praxi, návrh Komory, rozhodnutí ministra (resp. komory), datum podání žádosti vůči lhůtě.
+
+---
 
 ### § 113 — Vydávání stejnopisů a opisů ze státního notářství
 
@@ -656,6 +1074,44 @@ Tato konstrukce zajišťuje:
 
 § 113 NotŘ je doplněn úpravou **zákona č. 499/2004 Sb., o archivnictví a spisové službě**. Archivy státního notářství podléhají po uplynutí skartačních lhůt předání do **státních oblastních archivů** (krajských archivů). Pak již opisy vydává archiv, nikoli notář.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dědic potřebuje pro doložení vlastnictví nemovitosti opis kupní smlouvy, kterou v roce 1985 sepsalo státní notářství v okrese O; smlouva je uložena ve spisu u okresního soudu v O. Dědic se obrátil přímo na okresní soud, který jej odkázal na notáře. Dědic namítá, že soud má spis u sebe, a má proto opis vydat sám. Důkazy: žádost dědice, evidence uložení spisu u okresního soudu, určení notáře komorou pro daný kalendářní rok a okres, samotná archivní listina.
+
+**2. Právní otázka.** Kdo je oprávněn vydat stejnopis/opis z notářského zápisu sepsaného zaniklým státním notářstvím, je-li spis uložen u okresního soudu — soud, nebo notář?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 113 NotŘ — stejnopisy, opisy a výpisy z notářských zápisů státního notářství a potvrzení ze spisů nerozhodovací činnosti uložených u okresního soudu vydává notář se sídlem v sídle tohoto okresního soudu, určený komorou pro příslušný kalendářní rok.
+- *Související ustanovení téhož zákona:* § 91, § 92 NotŘ (stejnopisy a opisy, vydávání oprávněným osobám), § 73 a násl. NotŘ (ověřovací činnost).
+- *Související předpisy:* zák. č. 499/2004 Sb. (archivnictví — předání do státních oblastních archivů po skartačních lhůtách); zák. č. 95/1963 Sb. (zrušený zákon o státním notářství).
+- *Judikatura:* (přechodné, reziduálně aktivní ustanovení; rozhodný je systematický výklad zachování notářského charakteru opisů).
+
+**4. Subsumpce.** Listina pochází z činnosti státního notářství a je uložena u okresního soudu v O. Podle § 113 ji nevydává soud, nýbrž notář se sídlem v sídle okresního soudu v O, určený notářskou komorou pro příslušný kalendářní rok (rotační princip). Soud spis pouze uchovává; opisovou činnost ze zákona vykonává určený notář, čímž se zachovává notářský charakter veřejné listiny.
+
+**5. Řešení.** Dědic se má obrátit na notáře určeného komorou pro daný okres a kalendářní rok, nikoli na soud. Notář vydá opis oprávněné osobě (§ 92 NotŘ). Pokud již byla listina po uplynutí skartačních lhůt předána do státního oblastního archivu (zák. č. 499/2004 Sb.), vydává opis archiv, nikoli notář. Procesní krok: zjistit u komory, který notář je pro daný rok a okres určen, případně u soudu, zda spis dosud nebyl předán archivu.
+
+**6. Varianty.** (a) Kdyby spis již byl předán do státního oblastního archivu, opis vydá archiv a § 113 se neuplatní. (b) Kdyby šlo o spis z „rozhodovací" činnosti státního notářství (např. pozůstalostní rozhodnutí), režim opisů by se řídil pravidly pro soudní spisy, nikoli § 113 (který míří na zápisy a nerozhodovací činnost).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Spis má soud, tedy opis musí vydat soud." Neutralizace: § 113 výslovně svěřuje vydávání opisů určenému notáři; uložení spisu u soudu nemění kompetenci k opisové činnosti.
+- *Protiargument:* „Kterýkoli notář v okrese může opis vydat." Neutralizace: kompetentní je jen notář se sídlem v sídle příslušného okresního soudu a určený komorou pro daný kalendářní rok (rotační princip).
+- *Slabé místo:* hranice mezi uložením u soudu a předáním do archivu (§ 499/2004 Sb.) rozhoduje, kdo opis vydá; u velmi starých spisů (30–70 let) je třeba ověřit aktuální místo uložení.
+
+#### H. Praktický závěr
+
+Opisy a stejnopisy z notářských zápisů zaniklého státního notářství uložených u okresního soudu vydává určený notář (rotační princip — sídlo v sídle soudu, určení komorou pro kalendářní rok), nikoli soud; po předání do archivu pak archiv. Ustanovení je reziduálně aktivní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je listina dosud uložena u okresního soudu, nebo již předána státnímu oblastnímu archivu?
+- [ ] Který notář je komorou určen pro daný okres a kalendářní rok (rotace)?
+- [ ] Jde o zápis/nerozhodovací činnost státního notářství (§ 113), nebo o rozhodovací spis (jiný režim)?
+- [ ] Je žadatel oprávněnou osobou pro vydání opisu (§ 92 NotŘ)?
+
+**Typicky rozhodné důkazy / podklady:** žádost o opis, evidence uložení spisu (soud/archiv), určení notáře komorou pro daný rok, archivní listina, doklad o právním zájmu žadatele.
+
+---
+
 ### § 114 — Závěti uložené u státního notářství
 
 > **§ 114**
@@ -680,6 +1136,44 @@ Závěti uložené u státního notářství před 1. 1. 1993 jsou k roku 2025 s
 
 § 114 tak zůstává **reziduálně aplikovatelný** — počet stále úschovou pokrytých závětí je nízký, ale nikoli nulový.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pořizovatel P uložil v roce 1990 svou závěť do úschovy státního notářství. Po roce 1993 chce zjistit, u kterého notáře je jeho závěť nyní uložena, aby ji mohl odvolat a pořídit novou. Současně po smrti jiného pořizovatele (zemřel 2024) potřebuje pozůstalostní soud dohledat jeho závěť uloženou kdysi u státního notářství. Důkazy: záznam o uložení závěti u státního notářství, opatření předsedy okresního soudu o rozdělení závětí mezi notáře, Evidence právních jednání pro případ smrti, žádost pořizovatele.
+
+**2. Právní otázka.** Jak se po zániku státního notářství naloží se závětí uloženou v jeho úschově, kdo ji uchovává a má pořizovatel právo zjistit její umístění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 114 NotŘ — předseda okresního soudu rozdělí stejnoměrně mezi notáře v obvodu okresního soudu závěti uložené u státního notářství; o úschově vyrozumí pořizovatele na jeho žádost; notář postupuje podle § 84.
+- *Související ustanovení téhož zákona:* § 84 NotŘ (úschova pořízení pro případ smrti), § 35a NotŘ (Evidence právních jednání pro případ smrti), § 113 (opisy z ostatních spisů — odlišný režim).
+- *Související předpisy:* § 1532 a násl. OZ (forma a odvolání závěti — hmotněprávně), zák. č. 499/2004 Sb. (archivnictví).
+- *Judikatura:* (reziduálně aktivní přechodné ustanovení; rozhodný je systematický výklad kontinuity úschovy).
+
+**4. Subsumpce.** Závěť P spadá do zvláštního režimu § 114 (nikoli § 113): nebyla převedena do soudního archivu, nýbrž rozdělena předsedou okresního soudu mezi notáře v obvodu. Konkrétní notář ji převzal a nakládá s ní podle § 84 (vede záznam, eviduje v Evidenci právních jednání pro případ smrti, po smrti pořizovatele předá soudu). P má podle § 114 právo na žádost zjistit, u kterého notáře je závěť uložena.
+
+**5. Řešení.** P se obrátí na okresní soud, resp. cestou Evidence právních jednání pro případ smrti (§ 35a) zjistí, který notář jeho závěť převzal; notář je povinen jej na žádost vyrozumět. P pak může závěť odvolat či pořídit novou. Po smrti jiného pořizovatele dohledá soud závěť cestou Evidence a notáře, jenž ji uchovává; ten ji předá soudu příslušnému k řízení o pozůstalosti (§ 84).
+
+**6. Varianty.** (a) Kdyby šlo o jinou listinu než pořízení pro případ smrti (např. kupní smlouvu), uplatnil by se režim § 113 (opisy vydává určený notář), nikoli § 114. (b) Kdyby pořizovatel již zemřel a závěť byla otevřena v pozůstalostním řízení, agenda § 114 by byla u této závěti vyčerpána.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Závěti ze státního notářství se uchovávají v soudním archivu jako ostatní listiny." Neutralizace: § 114 stanoví zvláštní režim — závěti byly rozděleny mezi notáře a uchovávají se u nich podle § 84, nikoli v soudním archivu.
+- *Protiargument:* „Pořizovatel nemá právo zjistit umístění závěti kvůli ochraně tajemství." Neutralizace: § 114 výslovně přiznává pořizovateli právo být na žádost vyrozuměn o úschově — jde o jeho vlastní pořízení.
+- *Slabé místo:* ustanovení je k 1. 4. 2025 reziduálně aktivní (závěti staré 33+ let); počet dosud nevyřízených úschov je nízký, ale nikoli nulový, a dohledání může být administrativně náročné.
+
+#### H. Praktický závěr
+
+§ 114 zajistil kontinuitu úschovy závětí ze státního notářství: předseda okresního soudu je rozdělil mezi notáře, kteří s nimi nakládají podle § 84; pořizovatel má právo na vyrozumění o místě úschovy. Norma je reziduálně aktivní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o pořízení pro případ smrti ze státního notářství (§ 114), nebo o jinou listinu (§ 113)?
+- [ ] Byla závěť rozdělena předsedou okresního soudu mezi notáře a evidována (§ 35a)?
+- [ ] Žádá-li pořizovatel: byl vyrozuměn o tom, u kterého notáře je závěť uložena?
+- [ ] Po smrti pořizovatele: předá notář závěť soudu příslušnému k řízení o pozůstalosti (§ 84)?
+
+**Typicky rozhodné důkazy / podklady:** záznam o uložení závěti u státního notářství, opatření předsedy soudu o rozdělení závětí, výpis z Evidence právních jednání pro případ smrti, žádost pořizovatele, doklad o úmrtí.
+
+---
+
 ### § 115 — Novelizace kompetenčního zákona č. 2/1969 Sb.
 
 > **§ 115**
@@ -701,6 +1195,44 @@ Ministerstvo si však zachovává **omezené pravomoci** vůči notářskému st
 #### Význam pro výklad ostatních zákonů
 
 Změna § 11 odst. 1 zák. č. 2/1969 Sb. má **interpretační dosah** napříč právním řádem — kde jiný zákon dříve odkazoval na „notářství" ve smyslu organizační složky státu (typicky předpisy z období 1963–1992), je tento odkaz nyní bezpředmětný. V praxi byly tyto odkazy postupně novelizovány.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** (Výkladová.) Účastník řízení argumentoval, že Ministerstvo spravedlnosti je „ústředním orgánem státní správy pro notářství", a dovozoval z toho, že ministerstvo může notáři přímo nařizovat výkon jednotlivých úkonů a organizačně mu velet jako podřízenému aparátu. Odkazoval na znění kompetenčního zákona č. 2/1969 Sb. Důkazy: znění § 11 odst. 1 zák. č. 2/1969 Sb. ve znění po novele § 115 NotŘ, ustanovení NotŘ o pravomocích ministerstva (§ 8, § 36, § 107, § 109j).
+
+**2. Právní otázka.** Je notář po vypuštění slov „a notářství" z § 11 odst. 1 kompetenčního zákona organizační složkou podřízenou Ministerstvu spravedlnosti, nebo samosprávným stavem, a jaké pravomoci ministerstvu vůči notářům zůstaly?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 115 NotŘ — z § 11 odst. 1 zák. č. 2/1969 Sb. se vypouštějí slova „a notářství".
+- *Související ustanovení téhož zákona:* § 8 NotŘ (jmenování notáře ministrem), § 36 NotŘ (dohled nad činností Komory), § 107 (vyhláška o tarifu), § 109j (přestupky projednává ministerstvo).
+- *Související předpisy:* zák. č. 2/1969 Sb. (kompetenční zákon), zák. č. 264/1992 Sb. (zrušení státního notářství), zák. č. 95/1963 Sb. (zrušený zákon o státním notářství).
+- *Judikatura:* (legislativně technické ustanovení; rozhodný je systematický výklad postavení notáře jako samosprávného stavu).
+
+**4. Subsumpce.** Vypuštěním slov „a notářství" pozbylo ministerstvo postavení ústředního orgánu státní správy „pro notářství" jako státní aparát. Notáři jsou nadále samosprávným stavem řízeným Notářskou komorou, nikoli organizační složkou ministerstva. Pravomoci ministerstva vůči notářům plynou napříště jen z konkrétních ustanovení NotŘ (§ 8, § 36, § 107, § 109j), nikoli z kompetenčního zákona.
+
+**5. Řešení.** Argumentace účastníka je nesprávná: ministerstvo nemůže notáři velet jako podřízenému úředníku. Ministerstvo notáře jmenuje (§ 8), vydává tarif (§ 107), projednává přestupky (§ 109j) a dohlíží na činnost Komory (§ 36), ale nezasahuje do výkonu jednotlivých úkonů notáře — ten je nezávislý a vázán jen zákonem. Změna § 11 odst. 1 zák. č. 2/1969 Sb. je legislativně technickým důsledkem zrušení státního notářství.
+
+**6. Varianty.** (a) Před 1. 1. 1993 (za platnosti státního notářství) by úvaha o organizační podřízenosti měla oporu — státní notáři byli součástí státního aparátu. (b) Kdyby jiný zákon i nadále odkazoval na „notářství" jako složku státu, šlo by po novele o bezpředmětný (obsolentní) odkaz, který je třeba vykládat ve světle nového postavení notáře.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ministerstvo notáře jmenuje a projednává přestupky, tedy je jim nadřízeno organizačně." Neutralizace: jednotlivé pravomoci dle NotŘ nezakládají organizační podřízenost; jde o omezený dohled a personální akty, nikoli o velení výkonu úkonů.
+- *Protiargument:* „Vypuštění slov je jen formalita bez dopadu." Neutralizace: má interpretační dosah napříč právním řádem — odkazy na „notářství" jako složku státu se staly bezpředmětnými.
+- *Slabé místo:* ustanovení je provedené (1993); jeho samostatný význam je dnes minimální, působí jen jako výkladové vodítko k postavení notáře.
+
+#### H. Praktický závěr
+
+§ 115 legislativně technicky odstranil notářství z kompetencí ministerstva jako státního aparátu; notář je samosprávným stavem, nikoli organizační složkou ministerstva. Ministerstvu zůstaly jen dílčí pravomoci plynoucí přímo z NotŘ (jmenování, tarif, přestupky, dohled nad Komorou).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Opírá se tvrzená pravomoc ministerstva o konkrétní ustanovení NotŘ (§ 8, § 36, § 107, § 109j), nebo neoprávněně o kompetenční zákon?
+- [ ] Nezaměňuje se dohled/personální akt s organizační podřízeností notáře?
+- [ ] Je odkaz jiného předpisu na „notářství" jako složku státu vykládán jako obsolentní?
+- [ ] Je respektována nezávislost notáře při výkonu jednotlivých úkonů?
+
+**Typicky rozhodné důkazy / podklady:** znění § 11 odst. 1 zák. č. 2/1969 Sb. po novele, ustanovení NotŘ o pravomocích ministerstva, doklad o samosprávném postavení notáře (členství v Komoře).
+
+---
 
 ### § 116 — Účinnost
 
@@ -733,6 +1265,44 @@ V publikované verzi následují podpisy:
 - **Pithart v. r.** — Petr Pithart, předseda vlády České republiky v období 1990–1992 (od 6. 2. 1990 do 2. 7. 1992).
 
 Tyto podpisy jsou součástí publikované verze ve Sbírce zákonů; mají **dokumentační** povahu a stvrzují autenticitu zákona.
+
+---
+
+#### F. Kazuistika
+
+**1. Modelová situace.** (Výkladová — intertemporální.) Sporné je, zda úkon učiněný „u notáře" dne 30. 12. 1992 se posuzuje podle zákona o státním notářství (č. 95/1963 Sb.), nebo podle nového notářského řádu (č. 358/1992 Sb.). Dotčená strana tvrdí, že nový zákon byl přijat již 7. 5. 1992, a měl se proto použít i na úkon z konce roku 1992. Důkazy: datum úkonu, datum přijetí a účinnosti obou zákonů, znění § 116 NotŘ a zák. č. 264/1992 Sb.
+
+**2. Právní otázka.** Od kterého okamžiku se právní poměry řídí novým notářským řádem a jak se posoudí úkon učiněný před 1. 1. 1993?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 116 NotŘ — zákon nabývá účinnosti dnem 1. ledna 1993.
+- *Související ustanovení téhož zákona:* § 110–§ 114 NotŘ (přechodná ustanovení navázaná na účinnost), § 115 (novelizace kompetenčního zákona).
+- *Související předpisy:* zák. č. 264/1992 Sb. (zrušení státního notářství, rovněž účinný k 1. 1. 1993), zák. č. 95/1963 Sb. (do 31. 12. 1992 platný zákon o státním notářství); čl. 52 Ústavy a obecné zásady intertemporality (rozhodné je datum účinnosti, nikoli přijetí).
+- *Judikatura:* zásada, že právní norma působí ode dne účinnosti, nikoli ode dne přijetí; úkony se posuzují podle práva účinného v době jejich učinění.
+
+**4. Subsumpce.** Rozhodné není datum přijetí (7. 5. 1992), nýbrž datum účinnosti — 1. 1. 1993 (§ 116). Úkon učiněný 30. 12. 1992 spadá do období, kdy ještě platil zákon o státním notářství č. 95/1963 Sb.; nový notářský řád na něj nedopadá. Teprve úkony od 1. 1. 1993 se posuzují podle zákona č. 358/1992 Sb.
+
+**5. Řešení.** Úkon z 30. 12. 1992 se posoudí podle zákona o státním notářství (č. 95/1963 Sb.). Argument datem přijetí je nesprávný — zákon nabyl účinnosti až 1. 1. 1993. Mezi přijetím (7. 5. 1992) a účinností uplynula téměř osmiměsíční legisvakanční doba, která sloužila k přípravě nového systému (tarif, identifikace přecházejících notářů, organizační provizorium dle § 111). Přechodná ustanovení § 110–114 jsou navázána právě na den účinnosti.
+
+**6. Varianty.** (a) Kdyby byl úkon učiněn 2. 1. 1993, použil by se již nový notářský řád. (b) Kdyby šlo o trvající právní poměr přesahující 1. 1. 1993 (např. úschova závěti), řešily by jeho další osud přechodná ustanovení § 113–114, nikoli prosté pravidlo účinnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zákon platí od přijetí (7. 5. 1992), tedy se vztahuje i na konec roku 1992." Neutralizace: rozhodné je datum účinnosti (§ 116 — 1. 1. 1993); mezi přijetím a účinností norma nepůsobí na právní poměry.
+- *Protiargument:* „Datum 1. 1. 1993 je jen symbolické (vznik ČR), nemá tvrdý právní význam." Neutralizace: § 116 stanoví účinnost závazně; symbolika vzniku ČR a věcný okamžik transformace notářství se zde kryjí, ale rozhodující je normativní určení účinnosti.
+- *Slabé místo:* u trvajících poměrů přesahujících přelom let je nutné kombinovat § 116 s konkrétními přechodnými ustanoveními (§ 110–114), jinak hrozí nesprávné intertemporální posouzení.
+
+#### H. Praktický závěr
+
+§ 116 určuje účinnost notářského řádu k 1. 1. 1993 — k témuž dni, kdy bylo zrušeno státní notářství (zák. č. 264/1992 Sb.) a vznikla samostatná ČR. Úkony se posuzují podle práva účinného v době jejich učinění; rozhodné je datum účinnosti, nikoli přijetí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl úkon učiněn před, nebo od 1. 1. 1993 (rozhodné datum účinnosti, ne přijetí)?
+- [ ] U úkonů do 31. 12. 1992 se aplikuje zákon o státním notářství (č. 95/1963 Sb.)?
+- [ ] Jde o trvající poměr přesahující přelom — pak je třeba užít i přechodná ustanovení § 110–114?
+- [ ] Je zohledněna souběžná účinnost zák. č. 264/1992 Sb. (zrušení státního notářství)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o datu úkonu, znění § 116 NotŘ a zák. č. 264/1992 Sb., evidence úkonů u (státního) notáře, doklad o povaze a trvání právního poměru.
 
 ---
 

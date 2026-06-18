@@ -71,6 +71,43 @@ Odst. 2 definuje **trojí osvědčovací povinnost** notáře:
 
 > **Srovnání s úpravou před rekodifikací 2014:** Před 1. 1. 2014 platilo, že notář osvědčoval pouze procesní stránku (svolání, kvórum, výsledek hlasování); materiální kontrola souladu obsahu rozhodnutí byla věcí rejstříkového soudu. Novela č. 303/2013 Sb. (souběh s NOZ a ZOK) přenesla materiální kontrolu na notáře a otevřela tím cestu k institutu přímého zápisu notářem podle § 108 ZVR.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Jediný společník s.r.o. (pan N.) chce rozhodnout v působnosti valné hromady o jmenování nového jednatele a o souhlasu s tím, aby tento jednatel byl zapsán do obchodního rejstříku. Zvláštní zákon (ZOK) pro pouhé jmenování jednatele formu notářského zápisu výslovně nevyžaduje, společník však chce využít přímý zápis notářem podle § 108 ZVR. Notář vychází z výpisu z OR a aktuálního úplného znění zakladatelské listiny. Důkazy: výpis z VR, zakladatelská listina, doklad o totožnosti společníka, prohlášení nového jednatele o bezúhonnosti.
+
+**2. Právní otázka.** Je notář povinen sepsat zápis o rozhodnutí jediného společníka, ač zvláštní zákon pro tento typ rozhodnutí notářský zápis nevyžaduje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80a odst. 1 — tři alternativní hypotézy povinnosti sepsat zápis (zákonný požadavek / rozhodování o zapisované skutečnosti / rozhodování o podmínce zápisu); odst. 2 — trojí osvědčovací povinnost a vyjádření o souladu.
+- *Související ustanovení téhož zákona:* § 80b (náležitosti zápisu), § 80c (předkládané doklady), § 80h (osvědčení splnění požadavků pro zápis), § 53 (odmítnutí úkonu odporujícího právu).
+- *Související předpisy:* § 12 odst. 2, § 172 ZOK; § 25 ZVR (zapisované údaje); § 108 ZVR (přímý zápis notářem); § 191 OZ, § 428 ZOK (neplatnost usnesení).
+- *Judikatura:* NSS 15 Ad 1/2021 - 50 (29. 9. 2022) — notářský zápis je veřejná listina s presumpcí pravosti a správnosti; notář se v zápisu o rozhodnutí orgánu PO vyjadřuje i k souladu rozhodnutí s právem a smyslem úpravy je přenos přezkumu z rejstříkového soudu na notáře.
+
+**4. Subsumpce.** Jmenování jednatele je skutečnost zapisovaná do veřejného rejstříku (§ 25 ZVR). Tím je naplněna **druhá hypotéza** § 80a odst. 1 — i bez výslovného zákonného příkazu je notář na žádost povinen zápis sepsat. Splnění formalit (existence PO, působnost orgánu) je doloženo výpisem a zakladatelskou listinou.
+
+**5. Řešení.** Notář zápis sepíše, osvědčí formality a existenci PO, přijetí rozhodnutí jediného společníka a vyjádří se k souladu obsahu s právem a zakladatelskou listinou (odst. 2). Tím se otevírá cesta k přímému zápisu notářem (§ 108 ZVR). Procesní krok: ověření totožnosti, kontrola úplného znění zakladatelské listiny.
+
+**6. Varianty.** (a) Kdyby šlo o rozhodnutí, které není zapisované ani podmínkou zápisu a zákon zápis nevyžaduje (1.–3. hypotéza nenaplněna), notář není povinen zápis sepsat. (b) Kdyby chybělo aktuální úplné znění zakladatelské listiny, notář si je musí vyžádat / sestavit a uvést, na základě čeho je ověřil (§ 80a odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Zákon notářský zápis pro jmenování jednatele nevyžaduje, notář tedy úkon odmítne." — Neutralizace: hypotéza 2 (§ 80a odst. 1) výslovně zakládá povinnost vždy, jde-li o skutečnost zapisovanou do VR; odmítnutí z tohoto důvodu by bylo nezákonné.
+- *Protiargument 2:* „Obsah rozhodnutí odporuje stanovám, notář proto úkon odmítne (§ 53).“ — Neutralizace: pouhý nesoulad se zakladatelským jednáním není důvodem odmítnutí; notář sepíše zápis s prohlášením o nesouladu (§ 80b odst. 1 písm. k druhá alternativa). § 53 vyžaduje kvalifikovaný rozpor s kogentní normou.
+- *Slabé místo:* odlišení „úplného znění" zakladatelského jednání po sérii nekonsolidovaných změn — riziko, že notář vyjde z neaktuální verze; nutno doložit, na základě čeho byla aktuálnost ověřena.
+
+#### H. Praktický závěr
+
+Notář sepíše zápis o rozhodnutí orgánu PO vždy, naplní-li věc kteroukoli ze tří hypotéz § 80a odst. 1; nesmí odmítnout jen proto, že zvláštní zákon zápis přímo nepředepisuje. V odst. 2 plní trojí osvědčovací funkci včetně materiálního vyjádření o souladu.
+
+**Checklist (advokát / notář / soud / PO):**
+- [ ] Spadá rozhodnutí pod hypotézu 1, 2 nebo 3 (§ 80a odst. 1)?
+- [ ] Je k dispozici aktuální úplné znění zakladatelského právního jednání?
+- [ ] Je doložena existence PO a působnost orgánu?
+- [ ] Bylo formulováno vyjádření notáře o souladu (i pro nepřijatý návrh)?
+- [ ] Je-li zápis elektronický, opatřen kvalifikovaným podpisem a časovým razítkem?
+
+**Typicky rozhodné důkazy / podklady:** výpis z VR, úplné znění zakladatelského jednání, doklad o totožnosti žadatele, pozvánka / doklad o svolání, návrh rozhodnutí.
+
 ---
 
 ### § 80b — Náležitosti notářského zápisu o rozhodnutí orgánu PO na zasedání
@@ -179,6 +216,43 @@ Pravidlo: **jedno zasedání = jeden notářský zápis** zachycující **všech
 
 Sloučení je hospodárné — snižuje administrativní zátěž i odměnu notáře. Současně však klade vyšší nároky na strukturu zápisu (jasné oddělení jednotlivých usnesení).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Na valné hromadě a.s. menšinový akcionář (vlastnící 8 % akcií) protestuje proti tomu, že mu nebyl umožněn výkon hlasovacího práva u bodu o změně stanov, protože předsedající zpochybnil platnost jeho plné moci. Předsedající přesto prohlásí VH za usnášeníschopnou a nechá hlasovat. Notář má sepsat zápis. Důkazy: prezenční listina, plná moc, pozvánka, stanovy, hlasovací protokol.
+
+**2. Právní otázka.** Musí notář do zápisu doslovně zaznamenat protest akcionáře, jehož hlasovací právo nebylo připuštěno, i když jej předsedající považuje za nedůvodný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80b odst. 1 písm. g) — povinné zachycení tří kategorií protestů; písm. i) doslovný obsah usnesení; písm. j) výsledek hlasování; písm. k) prohlášení notáře o souladu.
+- *Související ustanovení téhož zákona:* § 80a odst. 2 (osvědčovací povinnost), § 80e (poučovací povinnost), § 53 (odmítnutí).
+- *Související předpisy:* § 428 ZOK (žaloba na neplatnost usnesení VH), § 408 ZOK (protinávrhy), § 295 odst. 2 ZOK (hlasování podle druhů akcií), § 419 odst. 2 ZOK (technické prostředky).
+- *Judikatura:* obecně přijímaný závěr, že vady svolání a nepřipuštění výkonu hlasovacího práva jsou důvody neplatnosti usnesení VH; notářský zápis jako veřejná listina je klíčovým důkazem o průběhu (presumpce správnosti — viz NSS 15 Ad 1/2021 - 50).
+
+**4. Subsumpce.** Protest spadá do třetí kategorie písm. g) — osoba, jíž nebyl umožněn výkon hlasovacího práva. Notář protest **nesmí odmítnout zachytit**; musí doslovně reprodukovat jeho obsah, identifikovat protestující osobu i osobu, vůči níž protest směřuje (předsedající).
+
+**5. Řešení.** Notář protest doslovně zachytí (písm. g), uvede prohlášení předsedajícího o způsobilosti orgánu i vznesený protest, zaznamená výsledek hlasování (písm. j) a vyjádří se k souladu (písm. k). Zápis tím připraví důkazní podklad pro případnou žalobu podle § 428 ZOK.
+
+**6. Varianty.** (a) Pokud by protest nebyl vznesen, notář jej do zápisu nezahrne. (b) Pokud by byly přijaty dva návrhy na jednom zasedání, notář o nich sepíše jeden zápis (odst. 2), ledaže žadatel požaduje samostatné zápisy nebo to povaha rozhodnutí vylučuje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Protest je zjevně nedůvodný, notář jej nemusí zaznamenat.“ — Neutralizace: písm. g) je kogentní; důvodnost protestu posuzuje soud, nikoli notář; nezaznamenání by zkrátilo procesní práva menšiny a oslabilo důkazní hodnotu zápisu.
+- *Protiargument 2:* „Stačí shrnout obsah usnesení vlastními slovy.“ — Neutralizace: písm. i) vyžaduje doslovné znění usnesení, zejména kvůli přímému zápisu notářem (rejstříkový soud zapíše jen to, co je v zápisu).
+- *Slabé místo:* u a.s. s více druhy akcií hrozí opomenutí odděleného hlasování podle skupin (§ 295 odst. 2 ZOK) — vada výsledku hlasování v zápisu (písm. j).
+
+#### H. Praktický závěr
+
+Náležitosti § 80b odst. 1 tvoří čtyři bloky (identifikační, procesní, substantivní, závěrečné). Materiálním jádrem je písm. k) — prohlášení notáře o souladu; procesně rizikovým bodem je doslovné zachycení protestů (písm. g) a obsahu usnesení (písm. i).
+
+**Checklist (notář / předsedající / advokát menšiny):**
+- [ ] Doložena existence PO a způsobilost orgánu (písm. d)?
+- [ ] Zaznamenány všechny vznesené protesty doslovně, s identifikací osob (písm. g)?
+- [ ] Uveden doslovný obsah usnesení / návrhu (písm. i)?
+- [ ] Uveden výsledek hlasování včetně způsobu zjištění a případně podle druhů akcií (písm. j)?
+- [ ] Obsaženo prohlášení notáře o souladu, případně alternativa „nesoulad + přesto sepsání“ (písm. k)?
+
+**Typicky rozhodné důkazy / podklady:** prezenční listina, plné moci, pozvánka a doklad o svolání, hlasovací protokol, stanovy, výpis z VR.
+
 ---
 
 ### § 80c — Předkládání dokladů notáři
@@ -239,6 +313,42 @@ Předsedající (typicky předseda VH s.r.o., a.s., družstva) má **dvojí povi
 
 Nesoučinnost předsedajícího je důvodem pro odmítnutí úkonu (§ 80d odst. 1 písm. b).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Jednatel s.r.o. kontaktuje notáře dva dny před plánovanou valnou hromadou, na níž má být rozhodnuto o zvýšení základního kapitálu, a předloží mu pouze pozvánku, bez výpisu z VR a bez aktuálního úplného znění společenské smlouvy. Žádá expresní úkon. Důkazy: e-mailová komunikace, pozvánka, datum jednání.
+
+**2. Právní otázka.** Jaké důsledky má nedodržení pětidenní předstihové lhůty a nepředložení dokladů podle § 80c odst. 1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80c odst. 1 (katalog dokladů a pětidenní lhůta), odst. 2 (per rollam doklady v den osvědčení), odst. 3 (povinnosti předsedajícího).
+- *Související ustanovení téhož zákona:* § 80d odst. 1 písm. a) a b) (odmítnutí pro chybějící doklady / nesoučinnost předsedajícího), § 80a odst. 2, § 80e.
+- *Související předpisy:* § 184a, § 406 ZOK (svolání VH), § 408 ZOK (protinávrhy), § 25 ZVR.
+
+**4. Subsumpce.** Chybí doklady podle § 80c odst. 1 písm. a) a b) (výpis z VR, zakladatelské právní jednání). Lhůta 5 pracovních dnů je relativně prekluzivní — její nedodržení samo o sobě nebrání sepsání, ale spolu s chybějícími doklady zakládá důvod pro fakultativní odmítnutí podle § 80d odst. 1 písm. a).
+
+**5. Řešení.** Notář vyzve PO k doplnění dokladů; nebudou-li doplněny, může úkon odmítnout (§ 80d odst. 1 písm. a). Pokud PO doklady dodá a notář stihne jejich prostudování, úkon provede. Předsedající je povinen vést zasedání tak, aby umožnil pořízení zápisu (odst. 3).
+
+**6. Varianty.** (a) U rozhodování per rollam postačí doklady o souhlasech předložené v den osvědčení (odst. 2). (b) Pokud předsedající i přes upozornění vede zasedání chaoticky a neumožní zápis hlasování, vzniká důvod pro odmítnutí podle § 80d odst. 1 písm. b).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Lhůta 5 dnů je prekluzivní, po jejím marném uplynutí notář nesmí úkon provést.“ — Neutralizace: lhůta je jen relativně prekluzivní; slouží přípravě notáře, nezbavuje jej automaticky povinnosti, je-li schopen doklady prostudovat.
+- *Protiargument 2:* „Notář si doklady opatří sám z veřejného rejstříku.“ — Neutralizace: § 80c klade povinnost předložení na PO; notář není povinen suplovat součinnost, byť výpis z VR si fakticky často opatří sám.
+- *Slabé místo:* expresní VH (jediný společník) reálně zkracuje lhůtu — riziko nedostatečného prostudování a přehlédnutí nesouladu se stanovami.
+
+#### H. Praktický závěr
+
+§ 80c rozděluje součinnostní povinnosti mezi PO (předložení dokladů v pětidenním předstihu) a předsedajícího (vedení zasedání umožňující zápis a sdělení důvodů neschválení). Nesplnění zakládá fakultativní důvody odmítnutí dle § 80d.
+
+**Checklist (PO / předsedající / notář):**
+- [ ] Předložen aktuální výpis z VR a zakladatelské právní jednání (písm. a, b)?
+- [ ] Předložena pozvánka/oznámení a doklad o rozeslání/uveřejnění (písm. e)?
+- [ ] Předloženy návrhy předpokládaných rozhodnutí (písm. f), s výjimkou návrhů uplatnitelných až na zasedání?
+- [ ] U per rollam doklady o souhlasech nejpozději v den osvědčení (odst. 2)?
+- [ ] Zajistil předsedající průběh umožňující pořízení zápisu (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z VR, zakladatelské právní jednání, pozvánka + doklad o rozeslání, návrhy usnesení, doklady o změnách v orgánech.
+
 ---
 
 ### § 80d — Odmítnutí sepsat notářský zápis
@@ -267,6 +377,41 @@ Nesoučinnost předsedajícího je důvodem pro odmítnutí úkonu (§ 80d odst.
 #### Procesní účinky odmítnutí (odst. 2)
 
 Odmítne-li notář, **subsidiárně platí § 55 odst. 1 a 3**, tedy obecná úprava odmítnutí úkonu (poučení žadatele, sdělení důvodů). Zvláštnost § 80d odst. 2: notář sděluje důvody **i bez žádosti žadatele** (kogentní zpřísnění oproti § 55, kde sdělení důvodů je vázáno na žádost). Důvod: u rozhodování orgánu PO je odmítnutí závažným zásahem do podnikatelské činnosti — zákon proto požaduje vyšší míru transparentnosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost předloží notáři pozvánku a návrhy usnesení, ale i přes výzvu nedoloží aktuální úplné znění společenské smlouvy. Notář má pochybnosti, zda navržené rozhodnutí (omezení převoditelnosti podílů) odpovídá platnému znění smlouvy, a hrozí, že obsah rozhodnutí bude v rozporu se stanovami. Žadatel přesto trvá na sepsání.
+
+**2. Právní otázka.** Z jakých důvodů smí notář odmítnout sepsat zápis o rozhodnutí orgánu PO a může jím být materiální nesoulad obsahu rozhodnutí s právem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80d odst. 1 písm. a) (chybějící doklady) a písm. b) (nesoučinnost předsedajícího); odst. 2 (odkaz na § 55 odst. 1 a 3, sdělení důvodů i bez žádosti).
+- *Související ustanovení téhož zákona:* § 80c (předkládané doklady), § 80b odst. 1 písm. k druhá alternativa (zápis s prohlášením o nesouladu), § 53 (odmítnutí úkonu odporujícího zákonu), § 55.
+- *Související předpisy:* § 191 OZ, § 428 ZOK (neplatnost usnesení).
+
+**4. Subsumpce.** Důvodem odmítnutí podle § 80d jsou pouze procedurální vady (chybějící doklady, nesoučinnost předsedajícího). Materiální nesoulad obsahu rozhodnutí pod § 80d **nespadá** — pro něj platí buď § 53 (kvalifikovaný rozpor s kogentní normou), nebo sepsání zápisu s prohlášením o nesouladu (§ 80b písm. k).
+
+**5. Řešení.** Chybí-li doklady i po výzvě, notář může odmítnout (§ 80d odst. 1 písm. a) a důvody sdělí žadateli písemně i bez žádosti (odst. 2, § 55 odst. 1 a 3). Jde-li „jen“ o nesoulad se společenskou smlouvou, notář zápis sepíše s prohlášením o nesouladu, nikoli jej odmítne.
+
+**6. Varianty.** (a) Pokud by obsah rozhodnutí odporoval kogentní normě (snížení ZK pod zákonné minimum), uplatní se § 53. (b) Pokud by předsedající i po upozornění mařil pořízení zápisu, odmítnutí podle § 80d odst. 1 písm. b).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Notář může odmítnout, protože obsah rozhodnutí je podle něj protiprávní.“ — Neutralizace: § 80d to neumožňuje; pro materiální nesoulad slouží § 53 (kvalifikovaný rozpor) nebo zápis s výhradou nesouladu (§ 80b písm. k). Odmítnutí pro pouhý nesoulad by zasáhlo do autonomie vůle PO.
+- *Protiargument 2:* „Důvody odmítnutí notář sdělí jen na žádost (§ 55).“ — Neutralizace: § 80d odst. 2 kogentně zpřísňuje — sdělení písemně i bez žádosti.
+- *Slabé místo:* hranice mezi „pouhým“ nesouladem se zakladatelským jednáním a kvalifikovaným rozporem s kogentní normou je v praxi neostrá.
+
+#### H. Praktický závěr
+
+§ 80d zakládá pouze fakultativní a výlučně procedurální důvody odmítnutí. Materiální vady řeší jiná ustanovení. Při odmítnutí notář sdělí důvody písemně i bez žádosti (zvýšená transparentnost oproti § 55).
+
+**Checklist (notář / žadatel):**
+- [ ] Jde o procedurální vadu (chybějící doklady / nesoučinnost předsedajícího)?
+- [ ] Byla PO/předsedající vyzván k nápravě před odmítnutím?
+- [ ] Jde-li o materiální nesoulad, posoudit: kvalifikovaný rozpor (§ 53) vs. zápis s výhradou (§ 80b písm. k)?
+- [ ] Sděleny důvody odmítnutí písemně i bez žádosti (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** výzva k doplnění dokladů a doklad o jejím doručení, předložené/chybějící listiny, zápis o průběhu zasedání, písemné sdělení důvodů odmítnutí.
 
 ---
 
@@ -310,6 +455,41 @@ Odst. 2 řeší situaci, kdy na základě poučení notáře **vůbec nedojde k 
 
 Tento „abortní zápis" má dokumentární funkci — fixuje stav, že se sice schylovalo k rozhodnutí, ale na podkladě právního poučení nedošlo k jeho přijetí. Zápis je veřejnou listinou (§ 6) a může sloužit jako důkaz pro účely případného odložení nebo opakování zasedání orgánu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Na valné hromadě a.s. má být hlasováno o vyloučení akcionáře z přednostního práva na úpis nových akcií. Notář v průběhu zjistí, že pozvánka neobsahovala odůvodnění tohoto vyloučení, jak vyžaduje zákon, takže nejsou splněny předpoklady pro řádné přijetí rozhodnutí. Předsedající na poučení notáře reaguje stažením bodu z programu a hlasování se neuskuteční.
+
+**2. Právní otázka.** Jak postupuje notář, zjistí-li nesplnění předpokladů pro přijetí rozhodnutí, a jak vypadá zápis, nedojde-li na základě jeho poučení k hlasování?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80e odst. 1 (aktivní poučovací povinnost — procesní i materiální), odst. 2 (redukovaný „abortní“ zápis bez hlasování).
+- *Související ustanovení téhož zákona:* § 80b odst. 1 (náležitosti — z nich se přebírají písm. a, b, c, d, f, l, m, n + g), § 80a odst. 2, § 6 (veřejná listina).
+- *Související předpisy:* § 191 OZ, § 428 ZOK (neplatnost usnesení), pravidla svolávání VH (§ 406 a násl. ZOK).
+
+**4. Subsumpce.** Chybějící odůvodnění v pozvánce = nesplnění předpokladu pro přijetí rozhodnutí → notář musí poučit předsedajícího a poučení uvést do zápisu (odst. 1). Nedojde-li k hlasování, notář sepíše redukovaný zápis dle odst. 2 (jen vyjmenované náležitosti § 80b + obsah poučení + údaj, že k hlasování nedošlo).
+
+**5. Řešení.** Notář aktivně poučí předsedajícího (kogentní povinnost), zaznamená poučení a — protože k hlasování nedošlo — sepíše abortní zápis podle odst. 2. Tento zápis jako veřejná listina fixuje stav a může sloužit jako důkaz o důvodu odložení.
+
+**6. Varianty.** (a) Pokud by předsedající poučení ignoroval a nechal hlasovat, notář sepíše plný zápis dle § 80b s uvedeným poučením — silný důkaz protiprávnosti pro řízení o neplatnost. (b) Pokud by šlo o materiální rozpor obsahu usnesení s právem, poučovací povinnost platí stejně (druhá věta odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Poučovací povinnost je jen doporučení, notář ji nemusí realizovat.“ — Neutralizace: odst. 1 je kogentní („poučí … a uvede do zápisu“); opomenutí je porušením povinnosti notáře.
+- *Protiargument 2:* „Nedošlo-li k hlasování, není o čem sepisovat zápis.“ — Neutralizace: odst. 2 výslovně předepisuje redukovaný zápis dokumentující stav a obsah poučení.
+- *Slabé místo:* rozsah náležitostí abortního zápisu je taxativní (jen vyjmenovaná písmena § 80b) — riziko zařazení nadbytečných nebo opomenutí povinných údajů.
+
+#### H. Praktický závěr
+
+Notář má aktivní, kogentní poučovací povinnost o procesních i materiálních vadách; poučení vždy fixuje v zápisu. Nedojde-li na jeho základě k hlasování, sepíše redukovaný „abortní“ zápis dle taxativního výčtu odst. 2.
+
+**Checklist (notář / předsedající):**
+- [ ] Zjištěn nesplněný předpoklad nebo rozpor obsahu s právem/zakladatelským jednáním?
+- [ ] Předsedající poučen a poučení zaznamenáno do zápisu (odst. 1)?
+- [ ] Pokud k hlasování nedošlo, sepsán redukovaný zápis dle § 80b písm. a, b, c, d, f, l, m, n + g (odst. 2)?
+- [ ] Uveden obsah poučení a údaj, že k hlasování nedošlo?
+
+**Typicky rozhodné důkazy / podklady:** pozvánka a její obsah, zakladatelské právní jednání, prezenční listina, text poučení notáře, abortní zápis.
+
 ---
 
 ### § 80f — Přiměřená aplikace obecných ustanovení
@@ -327,6 +507,41 @@ Tento „abortní zápis" má dokumentární funkci — fixuje stav, že se sice
 - podepisování a opatřování zápisu razítkem (§ 69).
 
 „Přiměřeně" znamená, že odchylky vyplývající z povahy věci (zejména že zde nejsou „účastníci právního jednání" v tradičním smyslu, ale „předsedající", svědci protestu apod.) modifikují aplikaci. Např. ověřování totožnosti se vztahuje na předsedajícího a osoby podávající protesty, nikoli na všechny účastníky valné hromady (jejich totožnost ověřuje předsedající prostřednictvím prezenční listiny).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Na valné hromadě a.s. se rozhoduje za účasti zahraničního akcionáře, který nerozumí česky a přivede si tlumočníka. Notář sepisuje zápis o rozhodnutí orgánu PO a řeší, jak se na tuto situaci použijí obecná ustanovení § 64–69 o tlumočníkovi a prokazování totožnosti, když primárně jde o „předsedajícího“ a osoby vznášející protest, nikoli o „účastníky právního jednání“.
+
+**2. Právní otázka.** V jakém rozsahu se na notářský zápis o rozhodnutí orgánu PO přiměřeně použijí obecná ustanovení § 64–69?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80f — přiměřená aplikace § 64 až 69.
+- *Související ustanovení téhož zákona:* § 64–66 (totožnost), § 67 (jazyk, tlumočník, důvěrník), § 68 (náležitosti zápisu), § 69 (podpis, razítko); § 80b (zvláštní náležitosti).
+- *Související předpisy:* § 295 odst. 2, § 419 ZOK; pravidla o tlumočnících.
+
+**4. Subsumpce.** „Přiměřeně“ znamená výběrovou aplikaci podle povahy věci. Ověřování totožnosti (§ 64) se vztahuje na předsedajícího a osoby vznášející protest, nikoli na všechny účastníky VH (jejich totožnost ověřuje předsedající prezenční listinou). Ustanovení o tlumočníkovi (§ 67) se použije, vyžaduje-li to konkrétní situace.
+
+**5. Řešení.** Notář ověří totožnost předsedajícího (a osob vznášejících protest), náležitosti a podpis/razítko podle § 68–69; v rozsahu, v jakém je to slučitelné s povahou rozhodování orgánu PO, použije i § 67. U účastníků VH se totožnost neověřuje notářem.
+
+**6. Varianty.** (a) Pokud by zápis vyžadoval tlumočníka pro samotného předsedajícího, § 67 se použije plně. (b) U elektronického zápisu se přiměřeně použijí pravidla o podpisu (§ 69 odst. 3 — kvalifikovaný podpis a časové razítko).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „§ 80f znamená plnou aplikaci § 64–69 jako u zápisu o právním jednání.“ — Neutralizace: zákon říká „přiměřeně“, tedy s odchylkami danými povahou věci (nejsou zde tradiční účastníci právního jednání).
+- *Protiargument 2:* „Notář musí ověřit totožnost všech přítomných akcionářů.“ — Neutralizace: totožnost všech účastníků VH ověřuje předsedající prezenční listinou; notář ověřuje předsedajícího a osoby vznášející protest.
+- *Slabé místo:* neostrost pojmu „přiměřeně“ vytváří prostor pro různý výklad rozsahu inkorporace.
+
+#### H. Praktický závěr
+
+§ 80f je inkorporační norma — obecná ustanovení § 64–69 se použijí přiměřeně, tj. modifikovaně podle povahy zápisu o rozhodnutí orgánu PO (ověřování totožnosti zejména předsedajícího a osob vznášejících protest).
+
+**Checklist (notář):**
+- [ ] Ověřena totožnost předsedajícího a osob vznášejících protest (§ 64–66 přiměřeně)?
+- [ ] Vyřešena potřeba tlumočníka/důvěrníka pro relevantní osoby (§ 67)?
+- [ ] Dodrženy náležitosti a podpis/razítko (§ 68–69)?
+- [ ] U elektronického zápisu kvalifikovaný podpis a časové razítko (§ 69 odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** doklad totožnosti předsedajícího, prezenční listina, případně ustanovení tlumočníka.
 
 ---
 
@@ -351,6 +566,41 @@ Tento „abortní zápis" má dokumentární funkci — fixuje stav, že se sice
 Specifikum: PO **ještě neexistuje** jako právní subjekt (nebyla zapsána do VR/jiné evidence), a proto nelze postupovat striktně podle § 80a–80e (nelze předložit výpis z VR, není zde formálně „zakladatelské právní jednání", které by bylo „v úplném znění"). § 80g proto stanoví **přiměřenou aplikaci** — notář kontroluje, zda procesní rámec ustavujícího aktu odpovídá zákonným požadavkům, a osvědčuje rozhodnutí, jež zakládají PO.
 
 Notářský zápis o rozhodnutí ustavujícího orgánu je následně **přílohou návrhu na zápis PO** do veřejného rejstříku spolu se zakladatelským právním jednáním.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Skupina zakladatelů zakládá společenství vlastníků jednotek (SVJ). Na ustavující schůzi se schvalují stanovy a volí výbor. Zákon vyžaduje pořízení notářského zápisu o rozhodnutí ustavujícího orgánu. SVJ jako PO dosud neexistuje (není zapsáno do rejstříku), takže nelze předložit výpis z VR ani „úplné znění“ zakladatelského jednání.
+
+**2. Právní otázka.** Jak notář postupuje při zápisu o rozhodnutí ustavujícího orgánu PO, která dosud právně neexistuje, a jaká ustanovení se přiměřeně použijí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80g odst. 1 (zápis o rozhodnutí ustavujících orgánů, stanoví-li tak zvláštní předpis), odst. 2 (přiměřená aplikace § 80a–80e a § 64–69).
+- *Související ustanovení téhož zákona:* § 80a–80e (obecná úprava), § 80f.
+- *Související předpisy:* § 1200 OZ (ustavující schůze SVJ), § 250 a násl., § 555 ZOK (ustavující VH a.s., schůze družstva), § 309, § 405 OZ (nadace, ústav); ZVR.
+
+**4. Subsumpce.** PO ještě neexistuje — nelze striktně aplikovat § 80a–80e (chybí výpis z VR, „úplné znění“ zakladatelského jednání). § 80g proto stanoví přiměřenou aplikaci: notář kontroluje, zda procesní rámec ustavujícího aktu odpovídá zákonu, a osvědčuje rozhodnutí zakládající PO.
+
+**5. Řešení.** Notář sepíše zápis o rozhodnutí ustavujícího orgánu s přiměřenou aplikací § 80a–80e a § 64–69. Zápis je následně přílohou návrhu na zápis PO do veřejného rejstříku spolu se zakladatelským právním jednáním.
+
+**6. Varianty.** (a) U a.s. zakládané s veřejnou nabídkou akcií se postup řídí § 250 a násl. ZOK (dnes obsoletní). (b) U nadace se ustavující akt řídí § 309 a násl. OZ — notář osvědčuje rozhodnutí o ustavení a jmenování orgánů.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Bez výpisu z VR a úplného znění zakladatelského jednání nelze zápis o rozhodnutí orgánu PO vůbec sepsat.“ — Neutralizace: § 80g výslovně počítá s neexistencí PO a stanoví přiměřenou (modifikovanou) aplikaci.
+- *Protiargument 2:* „Notář aplikuje § 80a–80e beze změny.“ — Neutralizace: aplikace je jen přiměřená; odpadají prvky vázané na existující PO (výpis z VR, konsolidované znění).
+- *Slabé místo:* posouzení, zda zvláštní předpis pro daný typ ustavujícího orgánu zápis skutečně vyžaduje (odst. 1) — bez toho povinnost nevzniká.
+
+#### H. Praktický závěr
+
+§ 80g rozšiřuje úpravu zápisů o rozhodnutí orgánů PO na ustavující orgány zakládaných PO, a to s přiměřenou aplikací § 80a–80e a § 64–69, zohledňující, že PO dosud neexistuje. Zápis je přílohou návrhu na zápis PO do rejstříku.
+
+**Checklist (notář / zakladatelé):**
+- [ ] Vyžaduje zvláštní předpis zápis o rozhodnutí ustavujícího orgánu (odst. 1)?
+- [ ] Ověřen procesní rámec ustavujícího aktu dle příslušného předpisu?
+- [ ] Přiměřeně aplikovány § 80a–80e a § 64–69 (odst. 2)?
+- [ ] Zápis připraven jako příloha návrhu na zápis PO do rejstříku?
+
+**Typicky rozhodné důkazy / podklady:** zakladatelské právní jednání (stanovy, zakladatelská listina), pozvánka na ustavující schůzi, prezenční listina, doklady o volbě orgánů.
 
 ---
 
@@ -426,6 +676,41 @@ Náležitosti písm. a)–l) jsou strukturálně paralelní k § 80b, s následu
 
 Analogicky k § 80e — notář poučuje statutárního zástupce o případném nesplnění předpokladů. Možnost elektronického zápisu je významná zejména pro distribuované organizace (mezinárodní akcionáři, virtuální spolky).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Na valné hromadě s.r.o. se třemi společníky byli přítomni dva; třetí společník nebyl přítomen, ale do tří dnů doručil společnosti písemný souhlas s navrženým usnesením (§ 174 ZOK). Jednatel žádá notáře o sepsání zápisu o souhlasu uděleném mimo zasedání, který naváže na zápis dle § 80b. Předkládá písemný souhlas s úředně ověřeným podpisem nepřítomného společníka.
+
+**2. Právní otázka.** Za jakých podmínek notář sepíše zápis o souhlasu uděleném mimo zasedání a jak je rozdělena odpovědnost za pravdivost prohlášení o získaných souhlasech?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80ga odst. 1 (kogentní odmítnutí — souhlas nedoručen / nepřípustný), odst. 2 (náležitosti, zejm. písm. d odkaz na zápis § 80b, písm. e–h prohlášení žádající osoby), odst. 3 (poučení), odst. 4 (elektronická forma).
+- *Související ustanovení téhož zákona:* § 80b (navazující zápis), § 80e (poučovací povinnost), § 80d.
+- *Související předpisy:* § 174 odst. 1, § 418 odst. 1 ZOK, § 1206 OZ; § 175 TZ, § 209 TZ (odpovědnost za nepravdivé prohlášení).
+
+**4. Subsumpce.** Souhlas byl PO doručen a zvláštní předpis jej připouští → není dán důvod kogentního odmítnutí (odst. 1). Notář sepíše zápis: odkáže na navazující zápis dle § 80b (písm. d), zaznamená prohlášení jednatele o tom, jak a od koho byly souhlasy získány (písm. f), doložení (písm. g) a výsledek po započtení (písm. h).
+
+**5. Řešení.** Notář odpovídá za řádné zaznamenání prohlášení, nikoli za pravdivost údajů poskytnutých statutárním zástupcem. Pokud by se některý souhlas ukázal jako padělaný, zápis tím není zneplatněn; odpovědnost nese osoba, která nepravdivé prohlášení učinila (možná i trestněprávní).
+
+**6. Varianty.** (a) Kdyby souhlas nebyl PO doručen, notář musí (kogentně) odmítnout (odst. 1). (b) Kdyby zvláštní předpis projevení souhlasu mimo zasedání nepřipouštěl, opět kogentní odmítnutí.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Notář ručí za pravost každého jednotlivého souhlasu.“ — Neutralizace: notář ověřuje a zaznamenává prohlášení statutárního zástupce a doložení (písm. f, g); za pravdivost odpovídá prohlašující osoba, ne notář.
+- *Protiargument 2:* „Odmítnutí podle § 80ga je fakultativní jako u § 80d.“ — Neutralizace: § 80ga odst. 1 zakládá kogentní odmítnutí — notář nemá uvážení, nejsou-li splněny předpoklady.
+- *Slabé místo:* spolehnutí se na prohlášení statutárního zástupce zvyšuje riziko fraudulentního zneužití (padělané souhlasy); důkazní hodnota zápisu je v této části odvozena od pravdivosti prohlášení.
+
+#### H. Praktický závěr
+
+§ 80ga upravuje hybridní model (zasedání + dodatečný souhlas nepřítomného člena). Zápis navazuje na zápis dle § 80b (písm. d). Notář zaznamenává prohlášení žádající osoby a doložení; při nedoručení souhlasu nebo nepřípustnosti je odmítnutí kogentní.
+
+**Checklist (notář / statutární zástupce):**
+- [ ] Byl souhlas mimo zasedání PO skutečně doručen a zvláštní předpis jej připouští (odst. 1)?
+- [ ] Obsahuje zápis odkaz na navazující zápis dle § 80b (písm. d)?
+- [ ] Zaznamenáno prohlášení žádající osoby o získání souhlasů a jejich doložení (písm. f, g)?
+- [ ] Uveden výsledek po započtení souhlasů (písm. h)?
+
+**Typicky rozhodné důkazy / podklady:** navazující zápis dle § 80b, písemné souhlasy s ověřenými podpisy (nebo elektronické s kvalifikovaným podpisem), doklady o doručení souhlasů PO.
+
 ---
 
 ### § 80gb — Per rollam: zápis o návrhu rozhodnutí a o rozhodování
@@ -459,6 +744,41 @@ Důvod dvoufázovosti: per rollam se odehrává v čase (návrh, lhůta pro vyj�
 - na zápis **o rozhodování per rollam** se **obdobně** použijí ustanovení o notářském zápisu o **rozhodnutí orgánu PO** (§§ 80a–80f) — neboť výsledek je již rozhodnutím orgánu.
 
 Rozlišení „přiměřeně" vs. „obdobně" je legislativně-technické: „obdobně" znamená plnou aplikaci s nutnými odchylkami; „přiměřeně" znamená výběrovou aplikaci s ohledem na povahu věci.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Jednatel s.r.o. (organizátor) chce rozhodnout o změně sídla rozhodováním výhradně mimo zasedání (klasické per rollam podle § 175 ZOK). Žádá notáře o sepsání zápisů. Notář musí rozlišit dvě fáze: nejprve zápis o návrhu rozhodnutí (iniciace), poté po uplynutí lhůty pro vyjádření zápis o rozhodování per rollam (vyhodnocení).
+
+**2. Právní otázka.** Proč je notářský postup u klasického per rollam dvoufázový a jaké aplikační režimy se použijí na každou fázi?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80gb odst. 1 (dvoufázovost — zápis o návrhu a zápis o rozhodování per rollam), odst. 2 (na zápis o návrhu přiměřeně ustanovení o zápisu o právním jednání, na zápis o rozhodování obdobně ustanovení o zápisu o rozhodnutí orgánu PO).
+- *Související ustanovení téhož zákona:* § 80gc (zápis o návrhu), § 80gd (zápis o rozhodování), § 62–69, § 80a–80f.
+- *Související předpisy:* § 175 odst. 1 ZOK (rozesílání návrhu společníkům).
+
+**4. Subsumpce.** Per rollam se odehrává v čase (návrh → lhůta → vyhodnocení). § 80gb proto stanoví dvoufázový postup. Na zápis o návrhu se použijí přiměřeně ustanovení o zápisu o právním jednání (návrh má povahu jednostranného právního jednání organizátora); na zápis o rozhodování obdobně ustanovení o zápisu o rozhodnutí orgánu PO (výsledek je rozhodnutím orgánu).
+
+**5. Řešení.** Notář sepíše nejprve zápis o návrhu (§ 80gc), po vyhodnocení doručených souhlasů zápis o rozhodování (§ 80gd). Rozlišení „přiměřeně“ (výběrová aplikace) a „obdobně“ (plná aplikace s odchylkami) určuje rozsah inkorporace.
+
+**6. Varianty.** (a) Hybridní souhlas nepřítomného člena na navazujícím zasedání spadá pod § 80ga, nikoli § 80gb. (b) Změní-li se mezi návrhem a vyhodnocením okolnosti (převod podílu), dvoufázovost umožňuje tuto změnu zachytit ve druhém zápisu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Stačí jeden zápis o výsledku per rollam.“ — Neutralizace: § 80gb odst. 1 vyžaduje dva zápisy — o návrhu i o rozhodování; jednofázový postup neodpovídá zákonu.
+- *Protiargument 2:* „Na obě fáze se použijí stejná ustanovení.“ — Neutralizace: odst. 2 výslovně rozlišuje — na návrh přiměřeně ustanovení o právním jednání, na rozhodování obdobně ustanovení o rozhodnutí orgánu PO.
+- *Slabé místo:* rozdíl „přiměřeně“ vs. „obdobně“ je legislativně-technický a v praxi může vést k nejasnostem o rozsahu aplikovaných náležitostí.
+
+#### H. Praktický závěr
+
+Klasické per rollam vyžaduje dvoufázový notářský postup: zápis o návrhu rozhodnutí (§ 80gc) a zápis o rozhodování per rollam (§ 80gd), s rozdílnými aplikačními režimy podle povahy každé fáze.
+
+**Checklist (notář / organizátor):**
+- [ ] Jde o klasické per rollam (výhradně mimo zasedání), nebo o hybridní souhlas dle § 80ga?
+- [ ] Sepsán zápis o návrhu rozhodnutí (fáze 1, § 80gc)?
+- [ ] Po uplynutí lhůty / doručení vyjádření sepsán zápis o rozhodování (fáze 2, § 80gd)?
+- [ ] Aplikován správný režim (přiměřeně na návrh / obdobně na rozhodování)?
+
+**Typicky rozhodné důkazy / podklady:** text návrhu rozhodnutí, doklad o rozeslání návrhu, doručené souhlasy/vyjádření, zápis o návrhu jako podklad pro zápis o rozhodování.
 
 ---
 
@@ -518,6 +838,41 @@ Toto navázání na § 70a je významné: notářský zápis o návrhu rozhodnut
 #### Identifikace organizátora (písm. e)
 
 „**Organizátor**" je legislativní zkratka pro osobu (nebo osoby) oprávněnou svolat valnou hromadu nebo iniciovat rozhodování per rollam — typicky jednatel s.r.o., představenstvo a.s. (jeden nebo více členů), výbor spolku. Notář ověřuje **totožnost** organizátora (§ 64) a **oprávnění** rozeslat návrh (uvedeno v písm. d) — „oprávnění orgánu přijímat rozhodnutí per rollam").
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Organizátor (jednatel s.r.o.) chce zahájit rozhodování per rollam o změně společenské smlouvy. Společenská smlouva však per rollam pro změnu společenské smlouvy výslovně vylučuje. Organizátor přesto žádá notáře o sepsání zápisu o návrhu rozhodnutí.
+
+**2. Právní otázka.** Smí notář sepsat zápis o návrhu rozhodnutí, je-li rozhodování per rollam pro daný předmět nepřípustné, a co musí obsahovat vyjádření notáře podle § 70a?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80gc odst. 1 (kogentní odmítnutí při nepřípustnosti per rollam), odst. 2 písm. d) (ověření existence PO a oprávnění), písm. f) (obsah návrhu), písm. g) (vyjádření notáře podle § 70a), odst. 3 (elektronická forma).
+- *Související ustanovení téhož zákona:* § 70a (vyjádření o souladu), § 80gb, § 80gd, § 64.
+- *Související předpisy:* § 175 odst. 1 ZOK (rozesílání návrhu); § 108 ZVR (přímý zápis notářem).
+
+**4. Subsumpce.** Per rollam je pro změnu společenské smlouvy zakladatelským jednáním vyloučeno → rozhodování není přípustné → notář **musí** (kogentně) odmítnout sepsat zápis o návrhu (odst. 1). Test přípustnosti zahrnuje připuštění zákonem, zakladatelským jednáním a splnění formálních požadavků.
+
+**5. Řešení.** Notář ověří přípustnost per rollam; není-li dána, kogentně odmítne. Je-li dána, sepíše zápis s vyjádřením podle § 70a odst. 1 písm. a) a b), případně s prohlášením o nesplnění předpokladů (§ 70a odst. 3) — toto navázání umožňuje přímý zápis notářem do VR.
+
+**6. Varianty.** (a) Kdyby zakladatelské jednání per rollam pro daný předmět připouštělo, notář by zápis sepsal a ověřil totožnost a oprávnění organizátora (písm. d, e). (b) Kdyby předpoklady souladu nebyly splněny, notář může sepsat zápis s prohlášením o nesouladu (§ 70a odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Odmítnutí pro nepřípustnost per rollam je fakultativní.“ — Neutralizace: § 80gc odst. 1 je kogentní — při nepřípustnosti notář **musí** odmítnout (přísnější než § 80d).
+- *Protiargument 2:* „Vyjádření notáře podle § 70a je formalita.“ — Neutralizace: vyjádření plní stejnou funkci jako závěr o souladu — umožňuje přímý zápis notářem do VR; jeho absence brání rejstříkovému zápisu.
+- *Slabé místo:* posouzení přípustnosti vyžaduje výklad zakladatelského jednání (mlčení vs. zákaz) — riziko nesprávného závěru o (ne)přípustnosti.
+
+#### H. Praktický závěr
+
+Zápis o návrhu rozhodnutí je první fází per rollam. Notář nejprve testuje přípustnost (zákon + zakladatelské jednání + formální požadavky); při nepřípustnosti kogentně odmítá. Vyjádření podle § 70a otevírá cestu k přímému zápisu notářem.
+
+**Checklist (notář / organizátor):**
+- [ ] Je per rollam přípustné (zákon, zakladatelské jednání, formální požadavky)?
+- [ ] Ověřena existence PO a oprávnění orgánu rozhodovat per rollam (písm. d)?
+- [ ] Ověřena totožnost organizátora (písm. e)?
+- [ ] Obsaženo vyjádření notáře podle § 70a odst. 1 písm. a) a b), případně odst. 3 (písm. g)?
+
+**Typicky rozhodné důkazy / podklady:** zakladatelské právní jednání (pravidla per rollam), výpis z VR, text návrhu rozhodnutí, doklad totožnosti organizátora.
 
 ---
 
@@ -582,6 +937,41 @@ Notář se zde vyjadřuje stejně jako u zápisu o rozhodnutí na zasedání org
 
 Vzhledem k tomu, že per rollam je již ze své povahy distribuovaná procedura, je elektronický zápis o rozhodování per rollam **funkčně optimální** — umožňuje rychlé sepsání ihned po vyhodnocení doručených souhlasů (zpravidla doručených elektronicky).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Po sepsání zápisu o návrhu rozhodnutí (§ 80gc) rozeslal organizátor návrh všem třem společníkům s.r.o. doporučenou poštou. Uplynula 15denní lhůta pro vyjádření; dva souhlasili, jeden se nevyjádřil (jeho hlas se počítá jako „proti“ / nezapočítá podle pravidel). Organizátor žádá o sepsání zápisu o rozhodování per rollam s doložením doručenek a hlasovacích lístků s ověřenými podpisy.
+
+**2. Právní otázka.** Jaké prohlášení organizátora a jaké ověření notáře musí obsahovat zápis o rozhodování per rollam, aby byl řádným podkladem pro (případný přímý) zápis do VR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80gd odst. 2 písm. d) (odkaz na zápis o návrhu), písm. g) (tripartitní prohlášení o zaslání, lhůtě, výsledku), písm. i) (doložení a počty hlasů ověřené notářem), písm. j) (prohlášení notáře dle § 80a odst. 2), odst. 3 (elektronická forma).
+- *Související ustanovení téhož zákona:* § 80gc (zápis o návrhu), § 80gb, § 80a odst. 2.
+- *Související předpisy:* § 175 odst. 1 a 3 ZOK (rozesílání, ověřené podpisy), § 108 ZVR.
+
+**4. Subsumpce.** Zápis musí jednoznačně identifikovat zápis o návrhu (písm. d) — vzniká uzavřený řetězec návrh → výsledek. Organizátor prohlašuje zaslání návrhu všem členům, uplynutí lhůty (resp. doručení všech vyjádření) a výsledek (písm. g, h). Notář v písm. i) uvede, jak byly skutečnosti doloženy (doručenky, hlasovací lístky s ověřenými podpisy) a počty hlasů.
+
+**5. Řešení.** Notář ověří doložení (doručenky, hlasovací lístky), uvede počet členů, počet doručených vyjádření a výsledek hlasování (písm. i), a vyjádří se k souladu dle § 80a odst. 2 (písm. j). Tím je vytvořen řádný podklad pro zápis do VR.
+
+**6. Varianty.** (a) Pokud organizátor nedoloží řádné zaslání návrhu všem členům, notář nemůže osvědčit splnění předpokladů. (b) Elektronická forma (odst. 3) je funkčně optimální — souhlasy bývají doručeny elektronicky.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Stačí, že organizátor ústně potvrdí výsledek hlasování.“ — Neutralizace: písm. i) vyžaduje doložení (doručenky, hlasovací lístky s ověřenými podpisy dle § 175 odst. 3 ZOK) a ověření notářem.
+- *Protiargument 2:* „Odkaz na zápis o návrhu je nadbytečný.“ — Neutralizace: písm. d) ho vyžaduje pro vytvoření uzavřeného dokumentárního řetězce návrh → výsledek.
+- *Slabé místo:* notář se v části o doručení souhlasů opírá o prohlášení organizátora a předložené doklady — riziko nepravdivého prohlášení o rozeslání návrhu nese organizátor.
+
+#### H. Praktický závěr
+
+Zápis o rozhodování per rollam je druhou fází; navazuje odkazem na zápis o návrhu (písm. d), obsahuje tripartitní prohlášení organizátora (zaslání, lhůta, výsledek) a materiální vyjádření notáře dle § 80a odst. 2. Doložení skutečností ověřuje notář.
+
+**Checklist (notář / organizátor):**
+- [ ] Odkaz na zápis o návrhu rozhodnutí (písm. d)?
+- [ ] Prohlášení organizátora o zaslání návrhu všem členům a o uplynutí lhůty / doručení všech vyjádření (písm. g)?
+- [ ] Doloženy doručenky a hlasovací lístky s ověřenými podpisy; uvedeny počty hlasů (písm. i)?
+- [ ] Prohlášení notáře o souladu dle § 80a odst. 2 (písm. j)?
+
+**Typicky rozhodné důkazy / podklady:** zápis o návrhu, doklady o rozeslání návrhu, doručené hlasovací lístky/vyjádření s ověřenými podpisy, výpočet kvóra a výsledku.
+
 ---
 
 ### Osvědčení pro zápis do veřejného rejstříku
@@ -629,6 +1019,42 @@ Notář osvědčuje na základě těchto listin, **že požadavky jsou splněny*
 #### Svěřenské fondy (odst. 5)
 
 Odst. 5 rozšiřuje aplikaci na **evidenci svěřenských fondů** (§ 1448 OZ — svěřenský fond; § 65a a násl. ZVR — evidence svěřenských fondů). Funkční mechanismus je stejný — osvědčení splnění požadavků pro zápis svěřenského fondu (zejména vyčlenění majetku, jmenování svěřenského správce, určení obmyšlených).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Valná hromada s.r.o. rozhodla notářským zápisem (§ 80b) o zvýšení základního kapitálu upsáním nových podílů. Upsání a splacení vkladů (peněžitých i nepeněžitého) proběhne až následně, po zasedání. Pro zápis zvýšení ZK do obchodního rejstříku je třeba osvědčit splnění vkladové povinnosti. Společnost se obrací na téhož notáře.
+
+**2. Právní otázka.** Kdo a na základě čeho osvědčuje splnění požadavků pro zápis do veřejného rejstříku, mají-li být splněny až po rozhodnutí orgánu PO?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80h odst. 1 (osvědčení splnění požadavků notářem, který sepsal původní zápis), odst. 2 (předložení písemností žadatelem, odmítnutí při nedoložení), odst. 3 (obsah osvědčení), odst. 5 (svěřenské fondy).
+- *Související ustanovení téhož zákona:* § 80b, § 80ga, § 80gb–80gd, § 70, § 70a (původní zápisy, na něž osvědčení navazuje).
+- *Související předpisy:* § 216 ZOK (zvýšení ZK upsáním), § 516, § 518 ZOK (snížení ZK, lhůta pro věřitele), zákon č. 125/2008 Sb. (přeměny), § 1448 OZ a § 65a ZVR (svěřenské fondy).
+
+**4. Subsumpce.** Vkladová povinnost má být splněna až po rozhodnutí VH osvědčeném zápisem dle § 80b → naplněna hypotéza § 80h odst. 1. Osvědčení činí notář, který sepsal původní zápis (princip kontinuity), na základě písemností předložených žadatelem (potvrzení banky, znalecký posudek o nepeněžitém vkladu).
+
+**5. Řešení.** Žadatel předloží doklady o splacení vkladu; notář osvědčí, jaké požadavky byly splněny a na základě jakých listin (odst. 3). Nejsou-li listiny předloženy nebo požadavky splněny, notář osvědčení odmítne sepsat (odst. 2). Notář neprovádí vlastní materiální šetření, opírá se o předložené důkazy.
+
+**6. Varianty.** (a) U snížení ZK a.s. notář osvědčí uplynutí 30denní lhůty pro věřitele a vypořádání jejich nároků (§ 518 ZOK). (b) U svěřenského fondu se osvědčení splnění požadavků pro zápis do evidence svěřenských fondů řídí odst. 5 obdobně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Osvědčení může vydat kterýkoli notář.“ — Neutralizace: § 80h odst. 1 svěřuje osvědčení notáři, který sepsal původní zápis (princip kontinuity).
+- *Protiargument 2:* „Notář musí sám prošetřit, zda byly vklady skutečně splaceny.“ — Neutralizace: notář osvědčuje na základě předložených písemností (odst. 2, 3), neprovádí vlastní materiální šetření; při nedoložení odmítne.
+- *Slabé místo:* spolehnutí na předložené listiny (potvrzení banky, znalecký posudek) — riziko, že listiny nereflektují skutečný stav; notář však ručí jen za to, co osvědčil na jejich základě.
+
+#### H. Praktický závěr
+
+§ 80h tvoří most mezi rozhodnutím orgánu (nebo zakladatelským právním jednáním dle § 70/70a) a faktickým zápisem do VR, mají-li být některé požadavky splněny až následně. Osvědčuje notář, který sepsal původní zápis, a to na základě předložených listin.
+
+**Checklist (notář / žadatel):**
+- [ ] Mají být některé požadavky pro zápis splněny až po původním zápisu (odst. 1)?
+- [ ] Vydává osvědčení notář, který sepsal původní zápis?
+- [ ] Předloženy písemnosti dokládající splnění požadavků (odst. 2)?
+- [ ] Uvedeno v zápisu, jaké požadavky byly splněny a na základě jakých listin (odst. 3)?
+- [ ] U svěřenského fondu aplikován odst. 5 obdobně?
+
+**Typicky rozhodné důkazy / podklady:** potvrzení banky o splacení vkladu, znalecký posudek o nepeněžitém vkladu, doklady o vypořádání věřitelů, protokoly o převzetí závodu, původní notářský zápis.
 
 ---
 
@@ -714,6 +1140,41 @@ Notářský zápis o dohodě **nelze sepsat dříve, než**:
 
 Tato lhůta chrání věřitele před uzavřením dohody za zády těch, kteří chtějí spornost pohledávky řešit.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dlužník v ekonomických obtížích (s.r.o.) předloží dotčeným stranám (věřitelům rozděleným do skupin podle povahy pohledávek) restrukturalizační plán k hlasování mimo schůzi. Jednatel žádá notáře o sepsání zápisu o hlasování. Část věřitelů hlasuje hlasovacími lístky s úředně ověřenými podpisy; jedna skupina plán nepřijme.
+
+**2. Právní otázka.** Co musí obsahovat notářský zápis o hlasování o přijetí restrukturalizačního plánu mimo schůzi a jak se osvědčuje výsledek po skupinách dotčených stran?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80i odst. 2 (náležitosti zápisu na schůzi), odst. 3 (mimo schůzi — bez písm. f, navíc osvědčení hlasovacích lístků dle § 35 odst. 2 a 3 zák. o prevent. restrukturalizaci), odst. 4 (poučení o nesplnění předpokladů), odst. 5 (dohoda; vyloučení § 53 odst. 1 písm. a a časové omezení), odst. 6 (elektronická forma).
+- *Související ustanovení téhož zákona:* § 53 (odmítnutí — zde vyloučeno u dohody).
+- *Související předpisy:* zákon č. 284/2023 Sb. o preventivní restrukturalizaci (§ 26 a násl. skupiny, § 29 odst. 2, § 34 odst. 1, § 35, § 41 a násl. schválení soudem, § 43 cross-class cram-down); směrnice (EU) 2019/1023.
+
+**4. Subsumpce.** Hlasování probíhá mimo schůzi → použije se odst. 3: zápis obsahuje náležitosti odst. 2 (s výjimkou písm. f — místo a datum schůze) a navíc údaj, že notář osvědčil náležitosti hlasovacích lístků (§ 35 odst. 2 a 3). Notář osvědčuje výsledek v každé skupině zvlášť i přijetí plánu jako celku (písm. h).
+
+**5. Řešení.** Notář osvědčí výsledek hlasování po skupinách i celkově, ověří náležitosti hlasovacích lístků, případně poučí žadatele o nesplnění předpokladů (§ 29 odst. 2, § 34 odst. 1, § 35 odst. 1) a poučení zaznamená (odst. 4). Zápis je podkladem pro schválení plánu soudem, vč. možného cross-class cram-down (§ 43).
+
+**6. Varianty.** (a) U zápisu o uzavření dohody o přijetí plánu se § 53 odst. 1 písm. a) vylučuje a zápis nelze sepsat dříve, než uplyne lhůta pro návrh na předběžný přezkum spornosti pohledávky, ledaže se strany práva písemně vzdají (odst. 5). (b) Na schůzi se použije odst. 2 vč. písm. f.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Notář může odmítnout sepsat zápis o dohodě pro nesoulad obsahu s právem.“ — Neutralizace: odst. 5 výslovně vylučuje § 53 odst. 1 písm. a); obsah dohody přezkoumá soud při schvalování plánu.
+- *Protiargument 2:* „Stačí osvědčit celkový výsledek hlasování.“ — Neutralizace: písm. h) vyžaduje osvědčení přijetí jednotlivými skupinami i jako celku — to je klíčové pro cross-class cram-down (§ 43).
+- *Slabé místo:* časové omezení pro sepsání zápisu o dohodě (lhůta pro předběžný přezkum spornosti) — předčasně sepsaný zápis by byl vadný; nutno hlídat běh lhůt nebo doložit vzdání se práva.
+
+#### H. Praktický závěr
+
+§ 80i (implementace směrnice (EU) 2019/1023) zakládá notářský zápis osvědčující výsledek hlasování o restrukturalizačním plánu — na schůzi (odst. 2) i mimo ni (odst. 3). Výsledek se osvědčuje po skupinách i jako celek; u dohody platí vyloučení § 53 odst. 1 písm. a) a časové omezení.
+
+**Checklist (notář / dlužník / dotčené strany):**
+- [ ] Hlasuje se na schůzi (odst. 2), nebo mimo schůzi (odst. 3 — osvědčení hlasovacích lístků dle § 35 odst. 2, 3)?
+- [ ] Osvědčen výsledek po jednotlivých skupinách i jako celek (písm. h)?
+- [ ] Ověřeny předpoklady hlasování (§ 29 odst. 2, § 34 odst. 1, § 35 odst. 1) a poučen žadatel (odst. 4)?
+- [ ] U dohody: uplynula lhůta pro předběžný přezkum spornosti / vzdání se práva (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** restrukturalizační plán, hlasovací lístky s ověřenými podpisy, doklad o předložení plánu k hlasování, rozdělení dotčených stran do skupin, doklady o (ne)spornosti pohledávek.
+
 ---
 
 ## ODDÍL TŘETÍ — Notářská úschova (§§ 81–89c)
@@ -795,6 +1256,41 @@ Odst. 4 zakládá subsidiární aplikaci **obecných ustanovení OZ o úschově*
 
 **Vyloučení úschovy cenných papírů:** § 81 odst. 4 in fine **vylučuje** aplikaci ustanovení o úschově cenného papíru (§ 2409 a násl. OZ a zejména zákon č. 256/2004 Sb. o podnikání na kapitálovém trhu — úschova investičních nástrojů). Důvod: úschova cenných papírů má specifický režim spjatý se zápisem v evidenci CDCP, ČNB a centrálních depozitářů. Notářská úschova cenného papíru je sice možná (cenný papír je „jiná listina" podle § 81 odst. 1 písm. a)), ale **nemá účinky úschovy cenného papíru** podle zvláštních zákonů — tj. nezakládá změnu v evidenci CDCP, převod vlastnického práva apod.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Klient (pan K.) chce u notáře uložit cenný papír (listinnou akcii na jméno) do notářské úschovy v domnění, že tím zajistí převod vlastnictví na nabyvatele. Současně jiný klient chce uložit kupní cenu nemovitosti, aby ji notář vydal prodávajícímu po zápisu vlastnického práva v KN.
+
+**2. Právní otázka.** Jaké jsou předměty notářské úschovy a jaké účinky má (nebo nemá) notářská úschova cenného papíru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 81 odst. 1 (trojí předmět — listiny / peníze dle zvláštního zákona / peníze a listiny k vydání další osobě), odst. 2 (zajištění dluhu), odst. 3 (zákaz převedení mezi schovateli), odst. 4 (subsidiární aplikace OZ o úschově; vyloučení úschovy cenného papíru).
+- *Související ustanovení téhož zákona:* § 35b (listiny pro případ smrti), § 82–85 (úschova listin), § 86–89a (úschova peněz), § 103–104 (převzetí úřadu).
+- *Související předpisy:* § 2402 a násl. OZ (schovací smlouva), § 1958 OZ (úschova nájemného), zákon č. 256/2004 Sb. (úschova investičních nástrojů), § 1494 a násl. OZ (závěť).
+
+**4. Subsumpce.** Cenný papír je „jiná listina“ podle § 81 odst. 1 písm. a) — notář jej do úschovy přijmout může, ale podle odst. 4 in fine **nemá účinky úschovy cenného papíru** dle zvláštních zákonů (nezakládá změnu v evidenci, převod vlastnictví). Kupní cena spadá pod písm. c) — peníze k vydání další osobě, lze jí zajistit i dluh (odst. 2).
+
+**5. Řešení.** Notář cenný papír přijme jako listinu, ale poučí klienta, že úschova nepřevádí vlastnictví ani nemění evidenci CDCP. Kupní cenu přijme do úschovy za účelem vydání prodávajícímu po doložení zápisu v KN. Mezi notáři nelze úschovu převést (odst. 3), s výjimkou převzetí uvolněného/zrušeného úřadu (§ 103, 104).
+
+**6. Varianty.** (a) Úschova nájemného (§ 1958 OZ) spadá pod písm. b) — peníze dle zvláštního zákona. (b) Listina o právním jednání zůstavitele bez formy notářského zápisu (závěť) spadá pod písm. a) a eviduje se v Evidenci právních jednání pro případ smrti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Notářskou úschovou cenného papíru přejde vlastnictví na nabyvatele.“ — Neutralizace: odst. 4 in fine to výslovně vylučuje — úschova nemá účinky úschovy cenného papíru dle zvláštních zákonů.
+- *Protiargument 2:* „Notář může věc z úschovy předat jinému notáři.“ — Neutralizace: odst. 3 to kogentně zakazuje (osobní svěřenský vztah); výjimka jen § 103, 104.
+- *Slabé místo:* hranice mezi „pasivní“ úschovou listiny a úschovou s povinností vydat další osobě (písm. a vs. c) určuje režim vydání (§ 84) a je třeba ji v protokolu jednoznačně vymezit.
+
+#### H. Praktický závěr
+
+§ 81 vymezuje tři předměty notářské úschovy a její subsidiární vztah k obecné úpravě úschovy v OZ. Notářská úschova cenného papíru je možná, ale bez účinků zvláštních zákonů; převod mezi schovateli je zakázán (mimo převzetí úřadu).
+
+**Checklist (notář / klient):**
+- [ ] Spadá předmět pod písm. a), b), nebo c) odst. 1?
+- [ ] Jde-li o cenný papír, byl klient poučen o absenci účinků úschovy cenného papíru (odst. 4)?
+- [ ] Má úschova sloužit k zajištění dluhu (odst. 2)?
+- [ ] Vyloučen převod mezi schovateli (odst. 3), mimo § 103, 104?
+
+**Typicky rozhodné důkazy / podklady:** žádost o úschovu, identifikace předmětu úschovy, doklad totožnosti, u peněz k vydání podmínky vydání, u listin pro případ smrti údaje o pořizovateli.
+
 ---
 
 ### Notářská úschova listin
@@ -841,6 +1337,41 @@ Protokol o notářské úschově listiny je **základní dokumentární listinou
 
 Při **neúplnosti žádosti** vyzve notář žadatele k doplnění s **prekluzivní lhůtou** — po jejím marném uplynutí listinu vrátí. Notář **neukládá nedoručenou nebo neúplně specifikovanou listinu**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Klientka zašle notáři poštou obálku s důležitou listinou (smlouvou) a stručnou žádostí o její přijetí do notářské úschovy, ovšem bez uvedení svého data narození a pobytu. Notář potřebuje protokol sepsat, ale chybí mu identifikační údaje žadatelky.
+
+**2. Právní otázka.** Jaké náležitosti musí mít protokol o úschově listiny a jak notář postupuje, dojde-li listina poštou s neúplnou žádostí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 82 odst. 1 (náležitosti protokolu, fakultativní doba trvání úschovy), odst. 2 (distanční forma — listina došlá poštou; výzva k doplnění s prekluzivní lhůtou).
+- *Související ustanovení téhož zákona:* § 83 (specifika listin pro případ smrti), § 84 (vydání), § 85 (totožnost; výjimka odst. 3), § 64 (totožnost).
+- *Související předpisy:* § 2402 a násl. OZ (úschova).
+
+**4. Subsumpce.** Žádost neobsahuje údaje potřebné k přijetí (identifikace žadatelky) → notář nemůže sepsat protokol bez účasti žadatelky podle odst. 2 věty první. Postupuje podle odst. 2 věty druhé: vyzve žadatelku k doplnění ve stanovené (prekluzivní) lhůtě s upozorněním na následek nepřijetí.
+
+**5. Řešení.** Notář vyzve k doplnění údajů; budou-li doplněny včas, sepíše protokol a zašle žadatelce vyhotovení. Po marném uplynutí lhůty listinu vrátí poštou (nebo dohodne jiný způsob předání). Je-li listina přijímána na dobu určitou, uvede protokol i dobu trvání úschovy.
+
+**6. Varianty.** (a) Pokud by žádost obsahovala všechny potřebné údaje, notář sepíše protokol bez účasti žadatelky a zašle jí vyhotovení (odst. 2 věta první). (b) Při osobní účasti žadatele se totožnost ověřuje dle § 85 odst. 1; u poštovní formy se § 85 odst. 1 nepoužije (§ 85 odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Notář může uložit i listinu s neúplnou žádostí a údaje doplnit později sám.“ — Neutralizace: odst. 2 vyžaduje výzvu k doplnění žadatelem; po marném uplynutí lhůty se listina nepřijímá a vrací.
+- *Protiargument 2:* „Není-li uvedena doba úschovy, je protokol neplatný.“ — Neutralizace: doba trvání je fakultativní náležitost; bez ní jde o úschovu na dobu neurčitou.
+- *Slabé místo:* prokázání včasnosti a obsahu výzvy k doplnění (doklad o odeslání, běh lhůty) — bez evidence hrozí spor o řádnost vrácení listiny.
+
+#### H. Praktický závěr
+
+Protokol o úschově listiny je základní dokumentární listinou; obsahuje povinné náležitosti dle odst. 1 a fakultativně dobu trvání. Při poštovní formě s úplnou žádostí notář sepíše protokol bez účasti žadatele; při neúplné žádosti vyzve k doplnění a po marném uplynutí lhůty listinu vrátí.
+
+**Checklist (notář / žadatel):**
+- [ ] Obsahuje protokol identifikaci žadatele, specifikaci listiny, akt převzetí a ověření totožnosti (odst. 1)?
+- [ ] Je úschova na dobu určitou? Pak uvedena doba trvání.
+- [ ] U poštovní formy: obsahuje žádost potřebné údaje (odst. 2)? Pokud ne, byla vyslána výzva k doplnění s lhůtou?
+- [ ] Vydáno/zasláno další vyhotovení protokolu žadateli?
+
+**Typicky rozhodné důkazy / podklady:** žádost o úschovu, doklad totožnosti, protokol o převzetí, doklad o doručení listiny poštou, výzva k doplnění a doklad o jejím odeslání.
+
 ---
 
 ### § 83 — Specifika protokolu o listině o právním jednání zůstavitele
@@ -878,6 +1409,41 @@ Pokud listinu ukládá **zástupce pořizovatele** (typicky člen rodiny, advok�
 #### Distanční forma (odst. 3)
 
 Aplikuje se § 82 odst. 2 obdobně. Specifikum: pokud listina dojde **bez žádosti** (např. obálka označená „závěť"), notář postupuje, jako by žádost obsahovala potřebné údaje (pokud je listina sama dostatečně identifikuje a obsahuje implicitní žádost o uschování).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Syn přinese notáři vlastnoručně sepsanou závěť své matky (pořizovatelky) s žádostí o uložení do notářské úschovy. Závěť není datována. Notář má sepsat protokol podle § 83.
+
+**2. Právní otázka.** Jaké rozšířené náležitosti musí obsahovat protokol o úschově listiny o právním jednání zůstavitele a jak notář naloží s formální vadou závěti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 83 odst. 1 (rozšířené náležitosti — identifikace pořizovatele a poučení o formách a o evidenci), odst. 2 (žadatel ≠ pořizovatel — vyhotovení i pořizovateli), odst. 3 (distanční forma dle § 82 odst. 2).
+- *Související ustanovení téhož zákona:* § 82 odst. 1 (obecné náležitosti), § 35b (Evidence právních jednání pro případ smrti), § 84 odst. 1 (vydání jen pořizovateli).
+- *Související předpisy:* § 1494, § 1532–1546 OZ (závěť, formy a náležitosti).
+
+**4. Subsumpce.** Listina je právním jednáním zůstavitele → k obecným náležitostem § 82 odst. 1 se přidávají údaje o pořizovatelce (jméno, dřívější příjmení, pobyt, datum narození) a poučení o formách/náležitostech a o evidenci (§ 83 odst. 1). Chybějící datace je možnou formální vadou (§ 1494 OZ) — notář na ni upozorní.
+
+**5. Řešení.** Notář listinu do úschovy přijme (není to úkon proti zákonu), ale poučí o možné neplatnosti pro absenci datace a poučení zaznamená. Protože žadatelem je syn (zástupce), nikoli pořizovatelka, vydá vyhotovení protokolu zástupci a další zašle přímo pořizovatelce (odst. 2). Listinu eviduje v Evidenci právních jednání pro případ smrti.
+
+**6. Varianty.** (a) Pokud listinu uloží sama pořizovatelka, odpadá zasílání vyhotovení zástupci/pořizovateli. (b) Dojde-li listina poštou bez žádosti (obálka „závěť“), postupuje notář dle § 82 odst. 2 (§ 83 odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Závěť s formální vadou notář do úschovy nesmí přijmout.“ — Neutralizace: notář listinu přijme (není to úkon proti zákonu) a pouze poučí o možné neplatnosti; přijetí do úschovy nesanuje ani nezpůsobuje vadu.
+- *Protiargument 2:* „Stačí vydat vyhotovení protokolu žadateli (synovi).“ — Neutralizace: odst. 2 vyžaduje zaslat vyhotovení i pořizovatelce — ochrana, aby se dozvěděla o uložení své listiny.
+- *Slabé místo:* identifikace pořizovatele včetně dřívějšího příjmení (typicky u žen po sňatku) — chyba ztěžuje pozdější dohledání v Evidenci.
+
+#### H. Praktický závěr
+
+§ 83 doplňuje k obecným náležitostem (§ 82) identifikaci pořizovatele a dvojí poučení (formy/náležitosti + evidence). Je-li žadatelem zástupce, dostane vyhotovení i pořizovatel. Listina se eviduje v Evidenci právních jednání pro případ smrti.
+
+**Checklist (notář / žadatel / pořizovatel):**
+- [ ] Uvedena identifikace pořizovatele vč. dřívějšího příjmení (odst. 1 písm. a)?
+- [ ] Poskytnuto a zaznamenáno poučení o formách/náležitostech a o evidenci (odst. 1 písm. b)?
+- [ ] Je žadatel odlišný od pořizovatele? Pak zasláno vyhotovení i pořizovateli (odst. 2).
+- [ ] Listina evidována v Evidenci právních jednání pro případ smrti?
+
+**Typicky rozhodné důkazy / podklady:** listina o právním jednání zůstavitele, identifikační údaje pořizovatele, protokol s poučením, doklad o zaslání vyhotovení pořizovateli.
 
 ---
 
@@ -938,6 +1504,42 @@ Po vydání listiny notář provede **výmaz** údajů v Evidenci právních jed
 
 > **Pozn.:** Pokud pořizovatel po vydání zemře, dědické řízení proběhne bez zápisu v Evidenci — to může vést k tomu, že se na listinu „zapomene". Praktická rada notářů: před vydáním klientovi doporučit, aby si zajistil nové uložení (např. u jiného notáře nebo bezpečné domácí uložení).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pořizovatelka uložila u notáře vlastnoruční závěť. Po čase se dostaví její dcera s obecnou plnou mocí (k „zastupování ve všech věcech“) a žádá o vydání závěti z úschovy s tím, že matka je nemocná.
+
+**2. Právní otázka.** Komu a za jakých podmínek lze vydat listinu o právním jednání zůstavitele z notářské úschovy a postačuje obecná plná moc?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 84 odst. 1 (komu se vydává — u listin pro případ smrti jen pořizovateli; zvláštní plná moc s úředně ověřeným podpisem), odst. 2 (protokol o vydání), odst. 3 (notifikace pořizovatele), odst. 4 (výmaz z Evidence bez přesunu do skončených věcí).
+- *Související ustanovení téhož zákona:* § 82, § 83 (úschova), § 85 (totožnost), § 35b (Evidence).
+- *Související předpisy:* § 441 a násl. OZ (zastoupení, plná moc).
+
+**4. Subsumpce.** U listiny o právním jednání zůstavitele může vydání požadovat **jen pořizovatel sám** (i když listinu ukládal zástupce). Zmocněnec může listinu převzít jen na základě **zvláštní** plné moci výslovně opravňující k převzetí z notářské úschovy, s **úředně ověřeným** podpisem. Obecná plná moc dcery tomuto nevyhovuje.
+
+**5. Řešení.** Notář dceři listinu nevydá — obecná plná moc je nedostatečná. Vyžaduje zvláštní plnou moc s úředně ověřeným podpisem pořizovatelky, opravňující k převzetí z úschovy, jež se přiloží k protokolu. Při vydání zástupci notář zašle vyhotovení protokolu i pořizovatelce (odst. 3) a provede výmaz z Evidence (odst. 4).
+
+**6. Varianty.** (a) U úschovy za účelem vydání další osobě (§ 81 odst. 1 písm. c) se listina vydá této další osobě dle podmínek protokolu, ne pořizovateli. (b) U obecné úschovy (jiné listiny) se vydává žadateli (uschovateli).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Obecná plná moc k zastupování ve všech věcech postačí k převzetí závěti.“ — Neutralizace: § 84 odst. 1 vyžaduje zvláštní plnou moc výslovně opravňující k převzetí z notářské úschovy a s úředně ověřeným podpisem.
+- *Protiargument 2:* „Po vydání notář přesune údaje do souboru skončených věcí.“ — Neutralizace: odst. 4 výslovně stanoví výmaz, **nikoli** přesun do skončených věcí.
+- *Slabé místo:* po vydání listiny notář ztrácí přehled o jejím osudu; hrozí, že se na závěť „zapomene“ — vhodné klientovi doporučit nové uložení.
+
+#### H. Praktický závěr
+
+Vydání listiny z úschovy je přísně limitováno: u listin pro případ smrti jen pořizovateli, jinak žadateli, případně další osobě dle protokolu. Zmocněnec potřebuje zvláštní plnou moc s ověřeným podpisem. Po vydání evidované listiny notář provede výmaz z Evidence (bez přesunu do skončených věcí).
+
+**Checklist (notář / příjemce listiny):**
+- [ ] Jde o listinu pro případ smrti (jen pořizovatel) / obecnou úschovu (žadatel) / úschovu k vydání další osobě?
+- [ ] Při zastoupení: zvláštní plná moc s úředně ověřeným podpisem, přiložená k protokolu?
+- [ ] Sepsán protokol o vydání s ověřením totožnosti příjemce (odst. 2)?
+- [ ] U vydání zástupci zasláno vyhotovení i pořizovateli (odst. 3)?
+- [ ] Proveden výmaz z Evidence (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** protokol o vydání, doklad totožnosti příjemce, zvláštní plná moc s ověřeným podpisem, doklad o zaslání vyhotovení pořizovateli.
+
 ---
 
 ### § 85 — Prokazování totožnosti při úschově listin
@@ -967,6 +1569,41 @@ Notář **musí odmítnout** úkon (kogentně) — povinnost analogická obecné
 #### Výjimka pro poštovní listiny (odst. 3)
 
 U listin došlých poštou (§ 82 odst. 2) se identifikace předem fyzicky neprovádí — věřitelská identifikace nahrazuje fyzickou identifikaci. Tato výjimka je nezbytná pro funkčnost distanční úschovy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** K notáři se dostaví muž, který chce vyzvednout listinu z notářské úschovy jménem obchodní společnosti (jako její jednatel), ale předloží jen vizitku a tvrdí, že notář ho přece zná z dřívějška. Notář si není jeho totožností ani existencí a oprávněním PO jistý.
+
+**2. Právní otázka.** Jak notář prokazuje totožnost a existenci osob při převzetí a vydání listiny a jaké jsou následky neprokázání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 85 odst. 1 (povinnost prokázat totožnost úředním průkazem, u PO i existenci dle § 64 odst. 1), odst. 2 (kogentní odmítnutí při neprokázání), odst. 3 (výjimka pro poštovní listiny dle § 82 odst. 2).
+- *Související ustanovení téhož zákona:* § 64 odst. 1 (totožnost a existence), § 82, § 84, § 53.
+- *Související předpisy:* zákon č. 253/2008 Sb. (AML — identifikace).
+
+**4. Subsumpce.** Při vydání listiny musí příjemce (zde jednatel PO) prokázat svoji totožnost úředním průkazem a u PO i její existenci podle § 64 odst. 1 (typicky výpisem z VR), nezná-li jej notář osobně. Pouhá vizitka a tvrzená osobní známost nepostačují, není-li notář skutečně osobně přesvědčen o totožnosti.
+
+**5. Řešení.** Notář vyzve k předložení úředního průkazu a výpisu z VR prokazujícího existenci PO a oprávnění jednatele. Nebude-li totožnost/existence prokázána, notář **musí** odmítnout listinu vydat (odst. 2). Odmítnutí je kogentní, analogické § 53.
+
+**6. Varianty.** (a) Zná-li notář osobu skutečně osobně, postačí to namísto úředního průkazu (odst. 1). (b) U listiny přijímané poštou (§ 82 odst. 2) se identifikace při přijetí podle odst. 1 nepoužije (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Notář osobu zná, proto nemusí ověřovat existenci PO.“ — Neutralizace: u PO se vedle totožnosti zástupce prokazuje i existence PO podle § 64 odst. 1; osobní známost zástupce ji nenahrazuje.
+- *Protiargument 2:* „Neprokázání totožnosti je důvodem k odložení, ne k odmítnutí.“ — Neutralizace: odst. 2 zakládá kogentní odmítnutí převzetí/vydání.
+- *Slabé místo:* posouzení „osobní známosti“ je subjektivní — riziko zneužití; notář by měl být obezřetný a v pochybnostech vyžadovat úřední průkaz.
+
+#### H. Praktický závěr
+
+Notář ověřuje totožnost obou stran úschovy (uschovatele při převzetí, příjemce při vydání), u PO i existenci podle § 64 odst. 1. Při neprokázání musí úkon kogentně odmítnout. Výjimka platí pro listiny přijímané poštou.
+
+**Checklist (notář / účastník):**
+- [ ] Prokázal účastník totožnost úředním průkazem (nebo je notáři osobně znám)?
+- [ ] U PO prokázána i její existence dle § 64 odst. 1 (výpis z VR)?
+- [ ] Při neprokázání úkon (převzetí/vydání) odmítnut (odst. 2)?
+- [ ] Jde o poštovní listinu dle § 82 odst. 2? Pak se odst. 1 pro přijetí nepoužije (odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** úřední průkaz totožnosti, výpis z VR (u PO), plná moc (u zástupce), protokol s údajem o ověření totožnosti/existence.
 
 ---
 
@@ -1053,6 +1690,42 @@ Není-li žádost písemná, notář sepíše **záznam za přítomnosti žadate
 
 Funkčně se obě instituce **překrývají** — klienti volí mezi nimi podle profesní příslušnosti svých právních zástupců a podle důvěry. Notářská úschova má **statisticky vyšší prestiž** u nemovitostních transakcí (zejména u developerských projektů), advokátní úschova je naopak častější u sporných transakcí, kde advokát již zastupuje jednu ze stran.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Kupující nemovitosti chce složit kupní cenu 4 500 000 Kč do notářské úschovy s tím, že notář ji vydá prodávajícímu po zápisu vlastnického práva v KN. Přinese hotovost do notářské kanceláře a žádá notáře, aby ji převzal. V žádosti zapomněl uvést účet, na který se mají peníze vrátit, nedojde-li k úschově.
+
+**2. Právní otázka.** Jaké náležitosti musí mít žádost o úschovu peněz, jakou roli hraje zvláštní účet a jakým způsobem lze peníze notáři předat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86 odst. 1 (náležitosti žádosti, zejm. písm. c účet pro vydání složiteli), odst. 2 (záznam o ústní žádosti), odst. 3 (zvláštní účet označený „notářská úschova“, majitelem notář), odst. 4 (vyhrazený způsob předání — složení nebo bezhotovostní převod na zvláštní účet).
+- *Související ustanovení téhož zákona:* § 87–89a (protokol, vydání), § 89c (kniha úschov), § 81.
+- *Související předpisy:* zákon č. 21/1992 Sb. o bankách, zákon č. 253/2008 Sb. (AML), § 205 odst. 1 InsZ (vyloučení z majetkové podstaty), § 56 ZA (advokátní úschova).
+
+**4. Subsumpce.** Předání hotovosti přímo do kanceláře je podle § 86 odst. 4 **nepřípustné** — peníze lze předat jen složením na zvláštní účet nebo bezhotovostním převodem. Žádost navíc postrádá náležitost dle písm. c) — účet pro vydání peněz složiteli.
+
+**5. Řešení.** Notář hotovost do kanceláře nepřevezme; sdělí složiteli označení zvláštního účtu (odst. 3) a vyzve jej k doplnění účtu pro vrácení (písm. c). Po doplnění složitel složí/převede peníze na zvláštní účet. Zvláštní účet (majitelem notář, označení „notářská úschova“) chrání prostředky proti zařazení do majetkové podstaty notáře.
+
+**6. Varianty.** (a) Není-li žádost písemná, notář sepíše záznam za přítomnosti žadatele ve dvojím vyhotovení (odst. 2). (b) Jde-li o úschovu nájemného (písm. e) nebo k zajištění dluhu (písm. d), žádost obsahuje odpovídající zvláštní náležitosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Notář může převzít hotovost přímo a vložit ji na účet sám.“ — Neutralizace: odst. 4 vyhrazuje předání pouze na složení/převod na zvláštní účet; jiný způsob je vyloučen (AML, ochrana notáře).
+- *Protiargument 2:* „Peníze na zvláštním účtu jsou v insolvenci notáře součástí jeho majetku.“ — Neutralizace: prostředky nejsou majetkem notáře, jsou drženy pro třetí osoby a jsou vyloučeny z majetkové podstaty (§ 205 odst. 1 InsZ ve spojení s úpravou zvláštního účtu).
+- *Slabé místo:* pojištění vkladů kryje jen do limitu — u vysokých úschov jen částečná ochrana; praxe rozkládá úschovy mezi účty / spoléhá na pojištění odpovědnosti notáře.
+
+#### H. Praktický závěr
+
+§ 86 stanoví náležitosti žádosti o úschovu peněz (vč. účtu pro vrácení složiteli), zavádí zvláštní účet notáře označený „notářská úschova“ a vyhrazuje předání peněz pouze na složení nebo bezhotovostní převod. Hotovost do kanceláře notář nepřijímá.
+
+**Checklist (notář / složitel):**
+- [ ] Obsahuje žádost identifikaci složitele a příjemce, výši a měnu, účet pro vydání složiteli (písm. a–c)?
+- [ ] U zajištění dluhu / nájemného uvedeny zvláštní náležitosti (písm. d, e)?
+- [ ] Sdělen složiteli zvláštní účet označený „notářská úschova“ (odst. 3)?
+- [ ] Předání pouze složením/převodem na zvláštní účet (odst. 4)?
+- [ ] Není-li žádost písemná, sepsán záznam ve dvojím vyhotovení (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** žádost o úschovu (písemná nebo záznam), identifikační údaje složitele a příjemce, označení zvláštního účtu, doklad o složení/převodu, AML identifikace.
+
 ---
 
 ### § 87 — Sepsání protokolu o úschově peněz
@@ -1095,6 +1768,42 @@ Pokud notář sepisuje protokol podle odst. 2 (předběžný), **nepoužije se �
 #### Odmítnutí — vrácení peněz složiteli (odst. 3)
 
 Pokud notář peníze do úschovy nepřijme (např. proto, že podmínky předběžného protokolu nebyly splněny, AML kontrola identifikovala podezřelou transakci, nebo z jiných zákonných důvodů), je povinen je **bez zbytečného odkladu vrátit** složiteli bezhotovostním převodem na účet pro vydání peněz složiteli (uvedený v žádosti — § 86 odst. 1 písm. c).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při nemovitostní transakci notář sepíše protokol o notářské úschově kupní ceny současně s kupní smlouvou, ještě než kupující peníze odešle. V protokolu uvede lhůtu 10 dnů, do níž má být kupní cena připsána na zvláštní účet, a podmínky. Kupující však ve lhůtě nezaplatí.
+
+**2. Právní otázka.** Kdy dochází k přijetí peněz do notářské úschovy, je-li protokol sepsán dříve než připsání peněz, a jak notář postupuje, nepřijme-li peníze?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 87 odst. 1 (konstitutivnost protokolu), odst. 2 (předběžný protokol s podmíněným nabytím; přijetí připsáním; notifikační povinnost; potvrzení o přijetí; vyloučení § 86 odst. 1 a 2), odst. 3 (vrácení peněz složiteli, nedojde-li k přijetí).
+- *Související ustanovení téhož zákona:* § 86 (žádost, zvláštní účet, účet pro vydání složiteli), § 88 (náležitosti protokolu), § 89.
+- *Související předpisy:* zákon č. 253/2008 Sb. (AML).
+
+**4. Subsumpce.** Protokol byl sepsán dříve (odst. 2) → konstitutivním okamžikem přijetí je **připsání** peněz na zvláštní účet ve stanovené lhůtě / za stanovených podmínek. Kupující ve lhůtě nezaplatil → k přijetí do úschovy nedošlo, protokol je fakticky „prázdný“.
+
+**5. Řešení.** Protože peníze nebyly připsány ve lhůtě, k notářské úschově nedošlo. Pokud by peníze byly připsány opožděně a notář je nepřijme, vydá je **bez zbytečného odkladu** zpět složiteli bezhotovostním převodem na účet pro vydání peněz složiteli (§ 86 odst. 1 písm. c; § 87 odst. 3). Po (řádném) připsání by notář vyrozuměl složitele, případně příjemce/pronajímatele (odst. 2).
+
+**6. Varianty.** (a) Připíše-li kupující peníze včas, dojde k přijetí připsáním; notář vyrozumí složitele a na žádost vydá potvrzení o přijetí (odst. 2). (b) U úschovy k zajištění dluhu vyrozumí i příjemce, u nájemného i pronajímatele.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Sepsáním protokolu jsou peníze v úschově, i když ještě nedošly.“ — Neutralizace: u předběžného protokolu (odst. 2) je konstitutivním okamžikem **připsání**; do té doby úschova nevznikla.
+- *Protiargument 2:* „Při nepřijetí si notář peníze ponechá do vyjasnění.“ — Neutralizace: odst. 3 ukládá vrátit je bez zbytečného odkladu složiteli na účet dle § 86 odst. 1 písm. c).
+- *Slabé místo:* u předběžného protokolu je nutné přesně formulovat lhůtu a podmínky připsání; nejasná formulace vede ke sporu, zda k přijetí došlo.
+
+#### H. Praktický závěr
+
+K přijetí peněz do úschovy dochází sepsáním protokolu (odst. 1), resp. u předběžného protokolu připsáním peněz ve lhůtě / za podmínek (odst. 2). Po připsání běží notifikační povinnost; při nepřijetí notář vrací peníze složiteli bez zbytečného odkladu (odst. 3).
+
+**Checklist (notář / složitel):**
+- [ ] Je protokol sepsán až po připsání (odst. 1), nebo předběžně (odst. 2)?
+- [ ] U předběžného protokolu uvedena lhůta a podmínky připsání?
+- [ ] Po připsání vyrozuměn složitel (u zajištění dluhu i příjemce, u nájemného i pronajímatel)?
+- [ ] Na žádost vydáno potvrzení o přijetí peněz a datu přijetí?
+- [ ] Nepřijaty-li peníze, vráceny bez zbytečného odkladu na účet dle § 86 odst. 1 písm. c (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** protokol o úschově peněz, výpis ze zvláštního účtu o připsání, vyrozumění složiteli/příjemci/pronajímateli, potvrzení o přijetí, doklad o vrácení peněz.
 
 ---
 
@@ -1224,6 +1933,43 @@ Stejný režim jako u úschovy listin (§ 85): notář ověřuje totožnost (FO)
 - Vyhotovení protokolu se vydá **oběma stranám** (i té, která se nesepisování neúčastnila — pošlou se poštou).
 - Dodatek k protokolu může sepsat **jiný notář v ČR** na dožádání. To je významný prvek — umožňuje uzavírat úschovy přes vzdálenosti, kdy strany jsou v různých regionech.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Kupující K a prodávající P uzavřou kupní smlouvu na nemovitost za 5 000 000 Kč. Sjednají notářskou úschovu kupní ceny k zajištění dluhu (escrow). Notář N sepíše protokol podle § 88 odst. 2 pouze za účasti K (složitele), který má peníze poslat. P (příjemce) se sepsání neúčastní. V protokolu je stanovena lhůta 15 dnů, ve které má P obsah protokolu schválit. Důkazy k obstarání: kupní smlouva, výpis z KN, identifikační doklady stran, doklad o existenci P (je-li PO), bankovní spojení účtů pro vydání.
+
+**2. Právní otázka.** Kdy dochází k přijetí peněz do notářské úschovy k zajištění dluhu, je-li protokol sepsán jen za účasti složitele, a co se stane s penězi připsanými na zvláštní účet, pokud příjemce obsah protokolu ve lhůtě neschválí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88 odst. 2 a 4 NŘ — náležitosti protokolu o úschově k zajištění dluhu a institut dodatku k protokolu (schválení obsahu protokolu).
+- *Související ustanovení téhož zákona:* § 88 odst. 5 (prokázání totožnosti), § 88 odst. 6 (vydání vyhotovení oběma stranám, dodatek u jiného notáře), § 85 odst. 1 (identifikace PO obdobně), § 89 (vydání peněz).
+- *Související předpisy:* § 1746 a § 2402 OZ (úschova), § 289 a násl. z. č. 292/2013 Sb. (soudní úschova navazuje při marném uplynutí).
+- *Judikatura:* k povaze notářské úschovy jako veřejnoprávně regulovaného institutu se vyjadřuje ustálená praxe NS k odpovědnosti notáře (§ 57 NŘ); nosný závěr: notář odpovídá za škodu způsobenou porušením povinností při úschově, vč. nesprávného nakládání s deponovanými prostředky.
+
+**4. Subsumpce.** Protokol podle odst. 2 sepsaný jen za účasti složitele K splňuje znaky náležitostí písm. a)–c), e), h), i), l) i specifik odst. 2. Sporný/nesplněný znak: k přijetí peněz do úschovy podle odst. 4 nedochází sepsáním protokolu, nýbrž až sepsáním **dodatku k protokolu** za účasti P. I když K peníze připíše dříve, právní účinek přijetí do úschovy nastává teprve schválením obsahu protokolu P.
+
+**5. Řešení.** Notář zašle P vyhotovení protokolu se stanovením lhůty 15 dnů. Schválí-li P obsah ve lhůtě (dostaví se k N nebo k jinému notáři v ČR podle odst. 6), sepíše se dodatek a úschova vzniká. Neschválí-li P, peníze připsané na zvláštní účet notář bez zbytečného odkladu vrátí K na účet pro vydání peněz složiteli (odst. 4 in fine). Procesní kroky: kontrola totožnosti/existence (odst. 5), evidence v knize úschov (§ 89c), vyhotovení pro obě strany.
+
+**6. Varianty.** (a) Pokud by se sepsání účastnily **obě strany** současně, dodatek se nevyžaduje a úschova vzniká sepsáním protokolu (popř. připsáním). (b) Šlo-li by o **obecnou úschovu** podle odst. 1 (jen složitel), dodatek příjemce se vůbec nepoužije — institut schválení je výlučný pro odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Peníze byly připsány, úschova tedy vznikla." Neutralizace: odst. 4 výslovně váže vznik úschovy u jednostranně sepsaného protokolu na dodatek, nikoli na připsání; připsání bez schválení zakládá jen povinnost notáře peníze vrátit složiteli.
+- Protiargument: „Druhá strana nemusí k témuž notáři, je tedy v praxi nedosažitelná." Neutralizace: odst. 6 umožňuje sepsání dodatku u kteréhokoli notáře v ČR na dožádání — distanční uzavření je řešeno.
+- Slabé místo: lhůta ke schválení musí být v protokolu uvedena přesně; její absence nebo neurčitost zakládá riziko sporu o okamžik vrácení peněz a odpovědnost notáře.
+
+#### H. Praktický závěr
+
+Protokol o úschově peněz má tři režimy (obecný, zajištění dluhu, nájemné) s odlišnými náležitostmi; u jednostranně sepsaného protokolu k zajištění dluhu vzniká úschova teprve dodatkem o schválení obsahu protokolu druhou stranou.
+
+**Checklist (advokát / notář / strany transakce):**
+- [ ] Určit správný režim protokolu (odst. 1/2/3) podle účelu úschovy.
+- [ ] U escrow (odst. 2) zajistit ujednání o podmínkách vydání a době trvání.
+- [ ] Sepisuje-li se s jednou stranou, stanovit lhůtu ke schválení a způsob doručení vyhotovení druhé straně.
+- [ ] Ověřit totožnost/existenci všech účastníků (odst. 5).
+- [ ] Pamatovat, že připsání peněz bez dodatku úschovu nezakládá.
+
+**Typicky rozhodné důkazy / podklady:** kupní/zajišťovaná smlouva, výpis z KN, identifikační doklady a doklad o existenci PO, bankovní spojení účtů pro vydání, protokol a dodatek k protokolu.
+
 ---
 
 ### § 89 — Vydání peněz z notářské úschovy
@@ -1280,6 +2026,43 @@ V praxi notářské úschovy peněz vznikají typické sporové situace:
 | Insolvence složitele před vydáním | peníze v úschově nejsou součástí majetkové podstaty složitele (jsou již „externalizovány") — notář pokračuje podle protokolu |
 | Exekuce na účet pro vydání | notář postupuje podle § 304a a násl. OSŘ — exekuční srážka, případně přerušení vydání |
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Notář vede úschovu kupní ceny 3 000 000 Kč. Podmínkou pro vydání prodávajícímu P je doložení výpisu z KN s vyznačeným vlastnickým právem kupujícího K. P doloží výpis z KN. Notář se pokusí převést peníze na účet P uvedený v protokolu, ale účet byl mezitím zrušen. P na výzvu notáře neoznámí jiný účet. Důkazy: protokol o úschově, výpis z KN, doklad banky o zrušení účtu, výzva notáře a doklad o jejím doručení.
+
+**2. Právní otázka.** Jak má notář naložit s penězi, jsou-li splněny podmínky pro vydání příjemci, ale převod na sjednaný účet příjemce není možný a příjemce na výzvu jiný účet neoznačí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89 odst. 1 a 2 NŘ — vydání peněz příjemci a režim při nemožnosti převodu.
+- *Související ustanovení téhož zákona:* § 89 odst. 3, 4 (vrácení složiteli), § 89 odst. 5, 6 (vyrozumění), § 89a (komu peníze náleží), § 88 odst. 2 (protokol).
+- *Související předpisy:* § 289 a násl. z. č. 292/2013 Sb. (soudní úschova), § 1953 a násl. OZ (prodlení věřitele), § 205 z. č. 182/2006 Sb. (insolvence — majetková podstata).
+- *Judikatura:* k soudní úschově jako řešení prodlení věřitele srov. ustálenou praxi soudů; nosný závěr: složení do úřední úschovy má účinky splnění vůči věřiteli, který je v prodlení.
+
+**4. Subsumpce.** Podmínky pro vydání P jsou doloženy (znak odst. 1 splněn). Převod na účet P je nemožný (znak „nelze-li vydat" naplněn). P neoznačí jiný účet (znak „neoznačí-li" naplněn). Důsledek závisí na tom, zda byl sjednán režim odst. 2 (peníze náleží příjemci) — pak prodlení P a soudní úschova; nebyl-li, uplatní se odst. 1 in fine — vrácení složiteli podle odst. 4.
+
+**5. Řešení.** Při obecné úschově (odst. 1) notář vrátí peníze složiteli K. Bylo-li však v protokolu ujednáno, že od doložení podmínek peníze náleží P (odst. 2), nastává presumpce prodlení P a notář **uloží peníze do soudní úschovy** podle § 289 a násl. ZŘS; složitel je již získat nemůže. Notář vyrozumí obě strany (odst. 5). Procesní kroky: písemná výzva s lhůtou, doklad o doručení, návrh na soudní úschovu.
+
+**6. Varianty.** (a) Pokud P na výzvu **oznámí** jiný účet (písemně s úředně ověřeným podpisem nebo v dodatku), notář převede peníze na něj a úschova řádně skončí. (b) Není-li doloženo splnění podmínek vůbec (odst. 3), notář vrátí peníze složiteli, a teprve při nemožnosti převodu na složitele a jeho nečinnosti následuje soudní úschova (odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Když nelze vydat příjemci, peníze se vždy vrátí složiteli." Neutralizace: to platí jen u obecné úschovy (odst. 1); u režimu odst. 2 s ujednaným přechodem nároku na příjemce se peníze ukládají do soudní úschovy, nikoli vracejí složiteli.
+- Protiargument: „Insolvence příjemce blokuje vydání." Neutralizace: peníze se vydají insolvenčnímu správci jako součást majetkové podstaty příjemce (§ 205 InsZ), nikoli přímo příjemci — notář ověří zahájení insolvence v ISIR.
+- Slabé místo: posouzení, zda „splnění podmínek bylo doloženo", je věcným hodnocením notáře; sporné doložení (např. pochybnost o pravosti výpisu z KN) zakládá riziko odpovědnosti při předčasném vydání.
+
+#### H. Praktický závěr
+
+§ 89 řeší tři scénáře ukončení úschovy: vydání příjemci, přechod nároku na příjemce s ujednáním (odst. 2), a vrácení složiteli; při nemožnosti převodu a nečinnosti oprávněného nastupuje soudní úschova s presumpcí prodlení.
+
+**Checklist (notář / strany):**
+- [ ] Ověřit, zda bylo řádně doloženo splnění podmínek pro vydání příjemci.
+- [ ] Rozlišit režim odst. 1 (vrácení složiteli) vs. odst. 2 (soudní úschova).
+- [ ] Při nemožnosti převodu vyzvat oprávněného k označení jiného účtu (úředně ověřený podpis/dodatek).
+- [ ] Při nečinnosti uložit peníze do soudní úschovy a vyrozumět obě strany.
+- [ ] U insolvence příjemce vydat plnění správci, ne příjemci.
+
+**Typicky rozhodné důkazy / podklady:** protokol o úschově, doklady o splnění podmínek (výpis z KN, kvitance), výzva notáře a doklad o doručení, doklad o nemožnosti převodu, návrh na soudní úschovu.
+
 ---
 
 ### § 89a — Náležitost peněz, prodloužení úschovy
@@ -1329,6 +2112,43 @@ Tato úprava chrání právní jistotu příjemce — jakmile jednou splnil podm
 
 Odst. 4 výslovně připouští, že u nájemního vztahu mohou strany použít **i jiné formy notářské úschovy** (např. úschovu kauce — § 2254 OZ — jako úschovu k zajištění dluhu podle § 88 odst. 2). § 88 odst. 3 (specifická úschova nájemného) nevylučuje obecné použití § 86–89a pro jiná plnění z nájemního vztahu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Složitel S deponuje u notáře kupní cenu 4 000 000 Kč. V protokolu není ujednáno nic o tom, komu peníze v úschově náleží. Než dojde k vydání příjemci, je na S zahájeno insolvenční řízení a insolvenční správce zařadí pohledávku S za notářem do majetkové podstaty. Příjemce P namítá, že peníze už jsou „jeho". Důkazy: protokol o úschově, vyhláška o zahájení insolvence, soupis majetkové podstaty.
+
+**2. Právní otázka.** Komu náleží peníze v notářské úschově do okamžiku jejich vydání příjemci, není-li v protokolu ujednáno jinak, a jaký to má důsledek pro insolvenci složitele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89a odst. 1 NŘ — peníze náleží složiteli až do doby vydání (připsání na účet příjemce), nestanoví-li protokol jinak.
+- *Související ustanovení téhož zákona:* § 89a odst. 2 (souhlas příjemce s vrácením u zajištění dluhu), odst. 3 (přesah lhůty), odst. 4 (souběh s nájemní úschovou), § 88 odst. 2, § 89.
+- *Související předpisy:* § 205 a § 2 písm. e) z. č. 182/2006 Sb. (majetková podstata), § 2254 OZ (kauce), § 1958 OZ (úschova nájemného).
+- *Judikatura:* k vymezení majetkové podstaty a k tomu, co do ní spadá, srov. ustálenou praxi NS; nosný závěr: do podstaty náleží majetek, který dlužníku patřil v době zahájení řízení, vč. pohledávek.
+
+**4. Subsumpce.** Protokol neobsahuje ujednání o přechodu vlastnictví (znak „nestanoví-li jinak" naplněn ve prospěch presumpce). Vydání (připsání na účet P) dosud nenastalo. Proto peníze v úschově náleží stále složiteli S — pohledávka S za notářem spadá do majetkové podstaty. P nemá dosud žádné věcné právo k penězům.
+
+**5. Řešení.** Notář postupuje podle pokynů insolvenčního správce S, neboť dispoziční oprávnění přešlo na něj; vydání P by bylo možné jen při splnění podmínek protokolu a se zřetelem k insolvenčnímu režimu. Pokud by strany chtěly ochránit P, musely by v protokolu výslovně ujednat, že peníze náleží P od okamžiku doložení podmínek — tím by se peníze „externalizovaly" z podstaty složitele.
+
+**6. Varianty.** (a) Při ujednání o přechodu nároku na P od doložení podmínek (§ 89a odst. 1 in fine, § 89 odst. 2) by peníze do podstaty S nespadaly a P by byl chráněn. (b) U úschovy k zajištění dluhu (odst. 2) by notář nesměl vydat peníze složiteli bez souhlasu příjemce, ledaže by bylo doloženo splnění podmínek pro vydání složiteli.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Peníze jsou u notáře, nepatří tedy do podstaty složitele." Neutralizace: § 89a odst. 1 zakládá presumpci vlastnictví složitele až do připsání příjemci; pohledávka za notářem je majetkem složitele a do podstaty spadá.
+- Protiargument: „Příjemce splnil podmínky, peníze jsou jeho." Neutralizace: dokud nedošlo k připsání na účet příjemce a není ujednán dřívější přechod, příjemce má jen nárok na vydání, nikoli vlastnictví.
+- Slabé místo: ochrana příjemce závisí čistě na pečlivé formulaci protokolu; absence ujednání o přechodu nároku vystavuje příjemce riziku insolvence/exekuce složitele.
+
+#### H. Praktický závěr
+
+Peníze v notářské úschově náleží do okamžiku připsání na účet příjemce složiteli, nestanoví-li protokol jinak; pro ochranu příjemce před insolvencí/exekucí složitele je nutné v protokolu výslovně ujednat dřívější přechod nároku.
+
+**Checklist (advokát / notář):**
+- [ ] Posoudit, zda protokol obsahuje ujednání o okamžiku přechodu nároku na příjemce.
+- [ ] Při ochraně příjemce sjednat přechod nároku již od doložení podmínek.
+- [ ] U zajištění dluhu nevydat složiteli bez souhlasu příjemce (odst. 2).
+- [ ] Při insolvenci/exekuci složitele respektovat dispozici správce/postižení pohledávky.
+- [ ] U nájemní úschovy zvážit souběžné použití dalších forem (odst. 4, § 2254 OZ).
+
+**Typicky rozhodné důkazy / podklady:** protokol o úschově a jeho ujednání, vyhláška/soupis v insolvenci, doklad o připsání či nepřipsání na účet příjemce.
+
 ---
 
 ### § 89b — Notářská úschova listin za účelem vydání další osobě
@@ -1349,6 +2169,43 @@ Odst. 4 výslovně připouští, že u nájemního vztahu mohou strany použít 
 - nejsou-li podmínky splněny, vrátí listinu složiteli (žadateli).
 
 Typické případy: úschova **zástavních listin** k vydání po zaplacení dluhu, úschova **kvitancí** k vydání po splnění závazku, úschova **darovacích smluv** k vydání po určité podmínce.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka B poskytne dlužníkovi D úvěr zajištěný zástavním právem k nemovitosti. Strany se dohodnou, že kvitanci (potvrzení o zániku dluhu) a souhlas s výmazem zástavního práva uloží do notářské úschovy listin s tím, že notář je vydá D teprve po doložení úplného splacení úvěru. Důkazy: úvěrová smlouva, zástavní smlouva, protokol o úschově listiny, doklad o splacení.
+
+**2. Právní otázka.** Podle jakého režimu postupuje notář při úschově listiny, která má být po splnění podmínek vydána další osobě než složiteli, a jaké náležitosti musí protokol obsahovat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89b NŘ — přiměřená aplikace § 82 až 89a na úschovu listin za účelem vydání další osobě (escrow listin).
+- *Související ustanovení téhož zákona:* § 81 odst. 1 písm. c) (úschova za účelem vydání), § 82–85 (protokol, identifikace), § 89 (vydání/vrácení obdobně), § 89c (kniha úschov).
+- *Související předpisy:* § 1908 OZ (kvitance), § 1376 OZ (výmaz zástavního práva), § 11 z. č. 256/2013 Sb. (souhlas s výmazem v KN).
+- *Judikatura:* k odpovědnosti notáře za řádné vedení úschovy a vydání listiny oprávněné osobě srov. ustálenou praxi k § 57 NŘ.
+
+**4. Subsumpce.** Listina (kvitance a souhlas s výmazem) je přijata do úschovy za účelem vydání D (další osobě). Aplikuje se přiměřeně režim peněžní úschovy: protokol musí obsahovat podmínky vydání příjemci (doložení splacení), způsob jejich doložení a režim vrácení složiteli při nesplnění. Znaky escrow jsou naplněny.
+
+**5. Řešení.** Notář sepíše protokol s podmínkami vydání (doložení úplného splacení), ověří totožnost/existenci stran (§ 85 obdobně), listinu uschová. Po doložení splacení vydá listinu D; nedoloží-li D splacení ve sjednané době, vrátí listinu složiteli (bance). Vše zaeviduje v knize notářských úschov (§ 89c). Přiměřenost aplikace znamená vynechání ryze peněžních institutů (zvláštní účet, bezhotovostní převod).
+
+**6. Varianty.** (a) Bez ujednání podmínek by šlo o prostou úschovu podle § 81 odst. 1 písm. a)/b) (vydání zpět složiteli), nikoli escrow. (b) Půjde-li o cenný papír na řad nebo doručitele, je třeba zvážit specifika převoditelnosti a navazující úpravu úschovy cenných papírů.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Na úschovu listin nelze použít pravidla o úschově peněz." Neutralizace: § 89b výslovně přikazuje přiměřenou aplikaci § 82 až 89a; aplikují se ta pravidla, která dávají u listin smysl (podmínky vydání, identifikace, vrácení).
+- Protiargument: „Notář odpovídá za hmotněprávní účinky listiny." Neutralizace: notář odpovídá za řádné vedení úschovy a vydání oprávněné osobě, nikoli za to, zda listina vyvolá zamýšlené hmotněprávní následky (to závisí na jejím obsahu a jednání stran).
+- Slabé místo: „přiměřenost" aplikace ponechává prostor pro výklad, které konkrétní podmínky § 88 se na listinu vztahují; protokol je proto třeba formulovat výslovně a úplně.
+
+#### H. Praktický závěr
+
+§ 89b umožňuje notářskou úschovu listin s vydáním třetí osobě (escrow listin) za přiměřeného použití pravidel peněžní úschovy; klíčem je výslovné ujednání podmínek vydání příjemci a režimu vrácení složiteli.
+
+**Checklist (notář / strany):**
+- [ ] Vymezit, zda jde o úschovu k vydání zpět složiteli, nebo k vydání další osobě (escrow).
+- [ ] Sjednat podmínky vydání příjemci a způsob jejich doložení.
+- [ ] Ověřit totožnost/existenci stran obdobně podle § 85.
+- [ ] Stanovit režim vrácení listiny složiteli při nesplnění podmínek.
+- [ ] Zaevidovat úschovu v knize notářských úschov.
+
+**Typicky rozhodné důkazy / podklady:** protokol o úschově listiny, samotná listina, doklady o splnění podmínek (např. potvrzení o splacení), identifikační doklady stran.
 
 ---
 
@@ -1387,6 +2244,43 @@ NK ČR provádí dohled **i prostřednictvím automatizovaného vyhodnocení** �
 #### Předpis Komory (odst. 3)
 
 Detailní úpravu vede **Komora vnitřním předpisem** (Kancelářský řád NK ČR a navazující předpisy). Tato delegace umožňuje pružné přizpůsobování technickým a profesním standardům bez nutnosti novelizace zákona.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Notář N opomene zapsat do knihy notářských úschov jednu peněžní úschovu ve výši 8 000 000 Kč. Při automatizovaném vyhodnocení dat NK ČR zjistí nesoulad mezi pohybem na zvláštním účtu a evidovanými úschovami a zahájí dohledové šetření. Současně FAÚ prověřuje podezřelý obchod. Důkazy: výpis ze zvláštního účtu, protokol o úschově, záznamy v IS Komory, kniha notářských úschov.
+
+**2. Právní otázka.** Jaké jsou důsledky nezapsání notářské úschovy do knihy notářských úschov vedené v IS Komory, a jakou roli hraje automatizovaný dohled NK ČR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89c NŘ — povinnost vést knihu notářských úschov v IS Komory, dohled NK ČR vč. automatizovaného vyhodnocení dat, delegace na předpis Komory.
+- *Související ustanovení téhož zákona:* § 35a odst. 3 (informační systém Komory), § 3 odst. 2 (správa majetku), § 86 a násl. (peněžní úschova), § 48 a násl. (kárná odpovědnost).
+- *Související předpisy:* § 25 z. č. 253/2008 Sb. (AML — evidenční povinnosti povinné osoby), kancelářský řád NK ČR.
+- *Judikatura:* ke kárné odpovědnosti notáře za porušení evidenčních a úschovních povinností srov. ustálenou kárnou praxi; nosný závěr: porušení povinností při úschovách je závažným kárným proviněním.
+
+**4. Subsumpce.** Úschova nebyla zapsána do knihy (porušení odst. 1). Kniha je vedena v IS Komory (odst. 2) a NK ČR provádí automatizovaný dohled — nesoulad účtu a evidence je detekovatelný. Znaky porušení evidenční povinnosti jsou naplněny; současně může jít o porušení AML evidenční povinnosti.
+
+**5. Řešení.** NK ČR zahájí dohledové šetření, vyžádá vysvětlení a doklady. Při zjištění porušení může následovat kárné řízení (§ 48 a násl. NŘ). Notář je povinen závadu odstranit (zapsat úschovu), spolupracovat a doložit, že s prostředky bylo nakládáno řádně. Souběžně může jít o pochybení podle AML zákona s dozorovou pravomocí dotčených orgánů.
+
+**6. Varianty.** (a) Pokud by šlo o úschovu v rámci správy majetku podle § 3 odst. 2, povinnost zápisu platí rovněž. (b) Pokud by notář úschovu zapsal řádně a včas, automatizovaný dohled by neidentifikoval anomálii a k šetření by nedošlo.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Kniha úschov je jen interní pomůckou bez sankce." Neutralizace: jde o zákonnou povinnost pod přímým dohledem NK ČR (odst. 2) vč. automatizovaného vyhodnocení; její porušení zakládá kárnou odpovědnost.
+- Protiargument: „Automatizovaný dohled je nepřípustný zásah do činnosti notáře." Neutralizace: § 89c odst. 2 jej výslovně zakotvuje jako součást dohledu Komory nad plněním povinností při úschovách.
+- Slabé místo: detailní povinnosti stanoví předpis Komory (odst. 3); jejich znalost je nutná pro posouzení konkrétního porušení — argumentace pouhým textem zákona nestačí.
+
+#### H. Praktický závěr
+
+Kniha notářských úschov je centrálním evidenčním nástrojem v IS Komory pod automatizovaným dohledem NK ČR; každou úschovu listin i peněz (a úschovu při správě majetku) je nutné včas a úplně zapsat, jinak hrozí dohledové a kárné následky.
+
+**Checklist (notář / Komora):**
+- [ ] Zapsat každou úschovu listin i peněz do knihy notářských úschov bez prodlení.
+- [ ] Zahrnout i úschovy převzaté při správě majetku podle § 3 odst. 2.
+- [ ] Vést knihu prostřednictvím IS Komory podle § 35a odst. 3.
+- [ ] Respektovat detailní pravidla předpisu Komory (kancelářský řád).
+- [ ] Počítat s automatizovaným vyhodnocením dat a souladem s AML evidencí.
+
+**Typicky rozhodné důkazy / podklady:** záznamy v knize notářských úschov, výpisy ze zvláštních účtů, protokoly o úschovách, předpis Komory, dohledové a kárné spisy.
 
 ---
 
@@ -1451,6 +2345,43 @@ Náležitosti:
 
 **Vyloučení pro elektronické zápisy:** Tento režim **neplatí** pro notářský zápis sepsaný v elektronické podobě — tam se elektronický opis vyhotovuje jinak (zachováním elektronických podpisů a razítek v původní formě).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zůstavitel Z sepíše u notáře závěť formou notářského zápisu. Za svého života žádá svého syna S, aby si u notáře vyzvedl „stejnopis závěti". Notář odmítne vydat stejnopis a nabízí pouze opis, navíc jen Z osobně. Důkazy: notářský zápis o závěti, žádost S, evidence v IS Komory.
+
+**2. Právní otázka.** Lze za života zůstavitele vydat z notářského zápisu o závěti stejnopis, a jaký druh listiny se z pořízení pro případ smrti za života zůstavitele vůbec vydává?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90 odst. 1 a 2 NŘ — stejnopis jako pravidlo, ale u pořízení pro případ smrti (§ 35b odst. 1) za života zůstavitele jen opisy (s výjimkou dědické smlouvy a smlouvy o zřeknutí se dědického práva).
+- *Související ustanovení téhož zákona:* § 91 odst. 3 (komu se opis vydá), § 92 (náležitosti stejnopisu), § 35b odst. 1 (právní jednání pro případ smrti), § 100, § 101 (úschova a nevydávání originálu).
+- *Související předpisy:* § 1532 a násl. OZ (závěť), § 1582 a násl. OZ (dědická smlouva), § 1484 OZ (zřeknutí se dědického práva).
+- *Judikatura:* k ochraně tajemství závěti a osobní povaze pořízení pro případ smrti srov. obecné zásady dědického práva; nosný závěr: dispozice posledním pořízením náleží výlučně zůstaviteli za jeho života.
+
+**4. Subsumpce.** Notářský zápis je o závěti = právní jednání pro případ smrti podle § 35b odst. 1; nejde o dědickou smlouvu ani o zřeknutí se dědického práva. Za života zůstavitele se proto vydávají jen opisy (odst. 2). Syn S není zůstavitel ani jeho zmocněnec — stejnopis ani opis mu vydat nelze (návaznost na § 91 odst. 3).
+
+**5. Řešení.** Notář správně odmítne vydat stejnopis a vydá nanejvýš opis, a to jen zůstaviteli Z (nebo jeho zmocněnci s plnou mocí s úředně ověřeným podpisem — § 91 odst. 3). Synovi S za života Z nelze vydat nic. Po smrti Z se režim mění (vydání nabývá na šíři podle § 91).
+
+**6. Varianty.** (a) Šlo-li by o **dědickou smlouvu**, vydal by se i za života zůstavitele stejnopis (oba účastníci na něj mají právo). (b) Vyhotovuje-li se opis přepisem (bez kopírky), uplatní se formální náležitosti odst. 3 (vypsání jména s „v. r." a opis razítka „L. S."); u elektronického zápisu tento režim neplatí.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Stejnopis je pravidlo, musí se tedy vydat i u závěti." Neutralizace: odst. 2 zakládá speciální výjimku — u pořízení pro případ smrti se za života zůstavitele vydávají jen opisy.
+- Protiargument: „Blízká osoba má právo na opis závěti." Neutralizace: § 91 odst. 3 omezuje opis závěti za života zůstavitele výlučně na zůstavitele nebo jeho zmocněnce; rodinný vztah oprávnění nezakládá.
+- Slabé místo: rozlišení, zda jde o pořízení pro případ smrti vyňaté z výjimky (dědická smlouva/zřeknutí), je pro určení druhu vydávané listiny rozhodné a nelze je opomenout.
+
+#### H. Praktický závěr
+
+Z notářských zápisů se zásadně vydávají stejnopisy; u pořízení pro případ smrti se však za života zůstavitele vydávají jen opisy a jen zůstaviteli (či jeho zmocněnci), s výjimkou dědické smlouvy a smlouvy o zřeknutí se dědického práva.
+
+**Checklist (notář / žadatel):**
+- [ ] Určit druh notářského zápisu (právní jednání, osvědčení, pořízení pro případ smrti).
+- [ ] U pořízení pro případ smrti za života zůstavitele vydávat jen opisy.
+- [ ] Ověřit výjimku (dědická smlouva, zřeknutí se dědického práva).
+- [ ] U opisu bez kopírky dodržet náležitosti odst. 3 („v. r.", „L. S.").
+- [ ] U elektronického zápisu nepoužívat režim opisu razítka.
+
+**Typicky rozhodné důkazy / podklady:** notářský zápis a jeho druh, evidence v IS Komory, plná moc s úředně ověřeným podpisem (u zmocněnce zůstavitele).
+
 ---
 
 ### § 91 — Komu se vydávají stejnopisy a opisy
@@ -1501,6 +2432,43 @@ Obecně lze opis vydat:
 
 Tato úprava velmi přísně chrání důvěrnost závěti — i opis (slabší forma) je za života zůstavitele dostupný **pouze zůstaviteli sám**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zůstavitel Z, který u notáře N pořídil zápis o povolání správce pozůstalosti, zemře. Věřitel V (banka) potřebuje rychle aktivovat správu pozůstalosti a žádá notáře o stejnopis zápisu o povolání správce. Notář žádá doložení úmrtí a právního zájmu. Důkazy: notářský zápis o povolání správce, úmrtní list zůstavitele, doklad o pohledávce věřitele.
+
+**2. Právní otázka.** Komu a za jakých podmínek vydá notář stejnopis notářského zápisu o povolání správce pozůstalosti po úmrtí zůstavitele, a čím lze úmrtí prokázat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 91 odst. 2 NŘ — po úmrtí zůstavitele vydá notář stejnopis každému, kdo prokáže právní zájem a úmrtí; úmrtí lze prokázat jen úmrtním listem nebo rozsudkem o prohlášení za mrtvého (či úředně ověřeným opisem).
+- *Související ustanovení téhož zákona:* § 91 odst. 1 (okruh oprávněných u stejnopisů), odst. 3 (opisy), § 90 odst. 2 (režim za života zůstavitele).
+- *Související předpisy:* § 1556 OZ (správce pozůstalosti), § 1553–1554 OZ (vykonavatel závěti), § 26 OZ (prohlášení za mrtvého), § 22 z. č. 301/2000 Sb. (úmrtní list).
+- *Judikatura:* k pojmu právní zájem na vydání listiny srov. obecnou praxi; nosný závěr: právní zájem musí být konkrétní a doložený, nepostačuje pouhá zvědavost.
+
+**4. Subsumpce.** Zápis je o povolání správce pozůstalosti (znak odst. 2). Zůstavitel zemřel — V dokládá úmrtí úmrtním listem (přípustný důkaz). V dokládá právní zájem (postavení věřitele, potřeba součinnosti správce). Znaky pro vydání stejnopisu jsou naplněny.
+
+**5. Řešení.** Notář vydá V stejnopis zápisu o povolání správce pozůstalosti. Nepřijme jako důkaz úmrtí jiné podklady než úmrtní list nebo rozsudek o prohlášení za mrtvého (popř. jejich úředně ověřený opis). Tím se umožní rychlá aktivace správy pozůstalosti ještě před zahájením formálního řízení.
+
+**6. Varianty.** (a) Šlo-li by o stejnopis zápisu o **osvědčení** (§ 91 odst. 1), vydal by se všem osobám prokazujícím právní zájem bez vazby na úmrtí. (b) Šlo-li by o **opis závěti** za života zůstavitele, vydal by se jen zůstaviteli nebo jeho zmocněnci (odst. 3) — odlišný a přísnější režim.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Úmrtí lze doložit i parte nebo sdělením matriky." Neutralizace: odst. 2 taxativně připouští jen úmrtní list nebo rozsudek o prohlášení za mrtvého (či úředně ověřený opis); jiné doklady notář nesmí uznat.
+- Protiargument: „Stejnopis se vydává jen účastníkům." Neutralizace: to je obecné pravidlo odst. 1; odst. 2 zakládá speciální širší okruh (každý s právním zájmem a doloženým úmrtím) pro zápisy o správě pozůstalosti.
+- Slabé místo: posouzení „právního zájmu" je hodnotící; žadatel musí svůj zájem doložit konkrétně, jinak notář vydání odmítne.
+
+#### H. Praktický závěr
+
+Stejnopisy se vydávají účastníkům (u osvědčení každému s právním zájmem); u zápisů o povolání správce pozůstalosti se po úmrtí zůstavitele vydají každému, kdo prokáže právní zájem a úmrtí, přičemž úmrtí lze doložit jen úmrtním listem nebo rozsudkem o prohlášení za mrtvého.
+
+**Checklist (notář / žadatel):**
+- [ ] Určit druh zápisu a příslušný režim (odst. 1/2/3).
+- [ ] U správy pozůstalosti vyžadovat doložení úmrtí přípustným způsobem.
+- [ ] Posoudit a doložit právní zájem žadatele.
+- [ ] U opisu závěti za života zůstavitele vydat jen zůstaviteli/zmocněnci.
+- [ ] Respektovat modifikaci okruhu oprávněných v notářském zápisu (odst. 1 in fine).
+
+**Typicky rozhodné důkazy / podklady:** notářský zápis a jeho druh, úmrtní list nebo rozsudek o prohlášení za mrtvého, doklady o právním zájmu, plná moc s úředně ověřeným podpisem.
+
 ---
 
 ### § 92 — Náležitosti stejnopisu, doložka
@@ -1540,6 +2508,43 @@ U elektronického stejnopisu se v doložce navíc uvádí **jména a příjmení
 
 Vlastní stejnopis je **elektronický dokument** opatřený kvalifikovaným elektronickým podpisem a kvalifikovaným časovým razítkem notáře vyhotovujícího stejnopis (§ 94a).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost požádá notáře o stejnopis notářského zápisu o rozhodnutí valné hromady, jehož přílohou je úplné znění stanov a znalecký posudek. Notář vyhotoví stejnopis, ale opomene k němu připojit opisy příloh a doložka neuvádí, že shoda příloh je potvrzena. Rejstříkový soud stejnopis odmítne. Důkazy: notářský zápis s přílohami, vyhotovený stejnopis, výzva rejstříkového soudu.
+
+**2. Právní otázka.** Jaké náležitosti musí stejnopis notářského zápisu s přílohami obsahovat a jaký je důsledek chybějících opisů příloh či vadné doložky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 92 odst. 1 až 3 NŘ — stejnopis = opis zápisu + doložka; má-li zápis přílohy, obsahuje stejnopis i opisy příloh a doložka potvrzuje shodu příloh; náležitosti doložky a specifika u elektronického zápisu.
+- *Související ustanovení téhož zákona:* § 90 (stejnopisy a opisy), § 91 (komu se vydávají), § 93 (výpis), § 94a (elektronická forma), § 24 (vyhotovení kandidátem).
+- *Související předpisy:* § 6 NŘ (veřejná listina), § 108 z. č. 304/2013 Sb. (přímý zápis notářem do VR), § 18 z. č. 297/2016 Sb. (elektronický podpis a razítko).
+- *Judikatura:* k požadavkům na řádnost stejnopisu jako veřejné listiny srov. praxi rejstříkových soudů; nosný závěr: vadný stejnopis nemůže nahradit originál pro registrová řízení.
+
+**4. Subsumpce.** Zápis má přílohy (znalecký posudek, stanovy). Stejnopis musí proto obsahovat opisy příloh + doložku potvrzující shodu příloh (odst. 1). Chybějící opisy příloh a neúplná doložka = stejnopis nesplňuje náležitosti, znak řádné veřejné listiny není naplněn.
+
+**5. Řešení.** Notář vyhotoví stejnopis znovu — s opisy všech příloh a s doložkou potvrzující doslovnou shodu zápisu i příloh, datem vyhotovení, otiskem úředního razítka a podpisem (odst. 2). Teprve takový stejnopis je způsobilý pro registrové řízení. U elektronického stejnopisu doložka navíc uvede jména osob, které zápis elektronicky podepsaly (odst. 3).
+
+**6. Varianty.** (a) Potřebuje-li žadatel jen část zápisu bez příloh, lze místo stejnopisu vydat **výpis** (§ 93) s odpovídající doložkou. (b) U elektronického stejnopisu se otisk razítka nevyžaduje a podpisem se rozumí kvalifikovaný elektronický podpis (§ 94a).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Stejnopis je jen kopie zápisu." Neutralizace: bez zákonné doložky (a u příloh bez jejich opisů a potvrzení shody) nejde o stejnopis ve smyslu zákona, nýbrž jen o prostou kopii bez účinků veřejné listiny.
+- Protiargument: „Přílohy není nutné kopírovat, postačí odkaz." Neutralizace: odst. 1 výslovně vyžaduje opisy příloh a potvrzení jejich shody v doložce.
+- Slabé místo: u elektronických zápisů nelze identifikovat podpisující opisem razítka; opomenutí uvést jména podepisujících v doložce (odst. 3) činí elektronický stejnopis vadným.
+
+#### H. Praktický závěr
+
+Stejnopis je opis zápisu opatřený doložkou o doslovné shodě; má-li zápis přílohy, musí stejnopis obsahovat i jejich opisy a doložka musí potvrdit shodu příloh, datum, razítko a podpis (u elektronického stejnopisu i jména podepisujících a KEP namísto razítka).
+
+**Checklist (notář / žadatel):**
+- [ ] Zahrnout do stejnopisu opisy všech příloh zápisu.
+- [ ] Uvést doložku potvrzující shodu zápisu i příloh.
+- [ ] Doplnit datum, otisk úředního razítka a podpis vyhotovitele.
+- [ ] U elektronického stejnopisu uvést jména podepisujících a použít KEP a kvalifikované časové razítko.
+- [ ] Zvážit, zda nepostačí výpis (§ 93) místo úplného stejnopisu.
+
+**Typicky rozhodné důkazy / podklady:** notářský zápis vč. příloh, vyhotovený stejnopis s doložkou, případná výzva rejstříkového soudu.
+
 ---
 
 ### § 93 — Výpis z notářského zápisu
@@ -1572,6 +2577,43 @@ Doložka výpisu **musí specifikovat**, s jakou částí zápisu se výpis shod
 - výpis nesmí být manipulací s obsahem (např. vynechání podmínky, která mění právní význam zachované části).
 
 Notář při vyhotovování výpisu musí dbát této zásady a v případě pochybnosti vyhotovit raději celý stejnopis nebo výpis odmítnout.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Notářský zápis obsahuje soubor tří navzájem podmíněných smluv (kupní, zástavní a smlouvu o smlouvě budoucí). Jedna ze stran žádá výpis pouze kupní smlouvy, aby jej předložila bance, ale bez údaje o tom, že účinnost kupní smlouvy je podmíněna uzavřením zástavní smlouvy. Důkazy: notářský zápis se souborem smluv, žádost o výpis, vyhotovený výpis.
+
+**2. Právní otázka.** Lze vydat výpis jen části notářského zápisu, vynechá-li tím podmínku měnící právní význam zachované části, a jaké meze stanoví zákaz zpochybnění obsahu zápisu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 93 odst. 1 a 2 NŘ — výpis se může týkat jen některých jednání/skutečností nebo celého zápisu bez příloh; v doložce se uvede, s jakou částí se výpis shoduje; výpis nesmí zpochybnit obsah zápisu.
+- *Související ustanovení téhož zákona:* § 92 (náležitosti stejnopisu — přiměřeně), § 91 (komu se vydává), § 94a (elektronická forma).
+- *Související předpisy:* § 6 NŘ (veřejná listina), § 555 a násl. OZ (výklad právních jednání — kontext).
+- *Judikatura:* k zákazu vytržení z kontextu a k povinnosti notáře zachovat věrnost obsahu listiny srov. zásady poctivosti a profesní odpovědnosti; nosný závěr: notář nesmí vyhotovit listinu, která svým výběrem zkresluje obsah originálu.
+
+**4. Subsumpce.** Výpis se týká jen kupní smlouvy (přípustný předmět — odst. 1). Vynechání podmínky vázanosti na zástavní smlouvu však mění právní význam zachované části — naplňuje se zákaz odst. 2 (výpis nesmí zpochybnit obsah zápisu). Takový selektivní výpis je proto nepřípustný.
+
+**5. Řešení.** Notář buď do výpisu pojme i podmínku (aby výpis nezkresloval), nebo v doložce výslovně uvede, čeho se výpis netýká, tak aby nevznikl klamavý dojem o bezpodmínečnosti. Nelze-li zkreslení odstranit, vyhotoví raději úplný stejnopis nebo výpis odmítne. Doložka vždy uvede, s jakou částí zápisu se výpis shoduje a že neobsahuje přílohy (odst. 1 in fine).
+
+**6. Varianty.** (a) Týká-li se výpis samostatného, na ostatních nezávislého jednání, je vyhotovení bez rizika zkreslení přípustné. (b) Jde-li jen o vypuštění příloh (nikoli podmínek), postačí doložka uvádějící, že výpis přílohy neobsahuje.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Strana má právo na výpis jen té smlouvy, která se jí týká." Neutralizace: právo na výpis nezakládá právo na zkreslující výpis; odst. 2 zakazuje zpochybnění obsahu zápisu.
+- Protiargument: „Notář jen reprodukuje text, za jeho účinky neodpovídá." Neutralizace: notář odpovídá za to, aby výpis nebyl manipulací; selektivní vynechání podmínky je porušením odst. 2.
+- Slabé místo: posouzení, zda výběr „zpochybňuje obsah", je hodnotící; při pochybnosti je bezpečnější vydat stejnopis nebo výpis doplnit o vysvětlující doložku.
+
+#### H. Praktický závěr
+
+Výpis je částečnou reprodukcí zápisu; je přípustný jen tehdy, nezkresluje-li obsah originálu — doložka musí přesně vymezit, čeho se výpis týká, a vynechání podmínek měnících význam zachované části je zakázáno.
+
+**Checklist (notář / žadatel):**
+- [ ] Vymezit, které jednání/skutečnosti/přílohy výpis zachycuje.
+- [ ] Ověřit, zda vynechání nezkresluje právní význam zachované části.
+- [ ] Uvést v doložce, s jakou částí se výpis shoduje a co neobsahuje.
+- [ ] Při riziku zkreslení vyhotovit stejnopis nebo výpis odmítnout.
+- [ ] Použít přiměřeně pravidla o vydávání stejnopisů (§ 92, § 91).
+
+**Typicky rozhodné důkazy / podklady:** notářský zápis (úplný), vyhotovený výpis s doložkou, žádost o výpis a vymezení jeho účelu.
 
 ---
 
@@ -1613,6 +2655,43 @@ Notář při vyhotovování výpisu musí dbát této zásady a v případě poc
 
 Potvrzení je **veřejnou listinou** (§ 6 NŘ) — má důkazní sílu **presumpce pravdivosti** v civilním i správním řízení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka B potřebuje pro úvěrové řízení doložit, že u notáře N proběhlo dne XX osvědčení podpisu jednatele společnosti S na zástavní smlouvě a že notář zná datum a okolnosti tohoto úkonu. Třetí osoba (B) žádá potvrzení o skutečnostech ze spisu. Notář zvažuje, zda a komu potvrzení vydat. Důkazy: spis notáře, žádost banky, doklad o potřebě k uplatnění práv, souhlas účastníka.
+
+**2. Právní otázka.** Za jakých podmínek a s jakými náležitostmi může notář vydat potvrzení o skutečnostech známých z jeho spisu třetí osobě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94 odst. 1 a 2 NŘ — potvrzení se vydává účastníkům a osobám, které ho potřebují k uplatnění/hájení práv se souhlasem účastníků; náležitosti potvrzení.
+- *Související ustanovení téhož zákona:* § 6 NŘ (veřejná listina), § 95 (nahlížení do spisů), § 94a (elektronická forma), § 56 (mlčenlivost).
+- *Související předpisy:* § 53 odst. 3 z. č. 99/1963 Sb. a § 134 OSŘ (důkazní síla veřejné listiny), GDPR (ochrana osobních údajů účastníků).
+- *Judikatura:* k presumpci pravdivosti veřejné listiny srov. ustálenou praxi NS a ÚS; nosný závěr: veřejná listina zakládá vyvratitelnou domněnku pravdivosti toho, co je v ní osvědčeno.
+
+**4. Subsumpce.** B je třetí osobou, nikoli účastníkem (znak „někomu jinému"). Vydání jí je možné jen při (i) potřebnosti k uplatnění/hájení práv a (ii) souhlasu účastníka S. Bez souhlasu S potvrzení vydat nelze. Potvrzení musí obsahovat stručné vyjádření skutečností, údaj o adresátovi a účelu, datum, razítko a podpis (odst. 2).
+
+**5. Řešení.** Notář si vyžádá souhlas účastníka S a doložení potřebnosti potvrzení pro úvěrové řízení banky. Při splnění obou podmínek vydá potvrzení s předepsanými náležitostmi (vč. údaje, komu a k jakému účelu se vydává — to omezuje další zneužití). Potvrzení je veřejnou listinou s presumpcí pravdivosti.
+
+**6. Varianty.** (a) Žádá-li potvrzení **účastník**, vydá se mu bez souhlasu kohokoli dalšího. (b) V elektronické podobě se potvrzení opatří kvalifikovaným elektronickým podpisem a časovým razítkem a otisk úředního razítka se nevyžaduje (§ 94a).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Notář může vydat potvrzení komukoli, kdo o ně požádá." Neutralizace: třetí osobě jen za kumulativního splnění potřebnosti k uplatnění práv a souhlasu účastníků (odst. 1).
+- Protiargument: „Údaj o účelu je formalitou." Neutralizace: účel a adresát v potvrzení omezují jeho použití a slouží kontrole zneužití; jejich absence činí potvrzení vadným.
+- Slabé místo: vydání potvrzení o cizích osobních údajích bez souhlasu může kolidovat s mlčenlivostí (§ 56 NŘ) a ochranou osobních údajů — notář musí test souhlasu a potřebnosti provést pečlivě.
+
+#### H. Praktický závěr
+
+Potvrzení o skutečnostech ze spisu je veřejnou listinou; účastníkům se vydává bez podmínek, třetím osobám jen při potřebnosti k uplatnění práv a se souhlasem účastníků, vždy s uvedením adresáta, účelu, data, razítka a podpisu.
+
+**Checklist (notář / žadatel):**
+- [ ] Určit, zda je žadatel účastníkem, nebo třetí osobou.
+- [ ] U třetí osoby ověřit potřebnost k uplatnění/hájení práv a získat souhlas účastníků.
+- [ ] Formulovat potvrzované skutečnosti stručně a výstižně.
+- [ ] Uvést, komu a k jakému účelu se potvrzení vydává.
+- [ ] Doplnit datum, otisk úředního razítka a podpis (v elektronické podobě KEP a časové razítko).
+
+**Typicky rozhodné důkazy / podklady:** notářský spis, žádost s vymezením účelu, souhlas účastníků, doklad o potřebnosti pro uplatnění práv.
+
 ---
 
 ### § 94a — Elektronická forma stejnopisů, opisů, výpisů a potvrzení
@@ -1642,6 +2721,43 @@ Elektronická forma má **stejnou důkazní sílu veřejné listiny** jako papí
 - elektronické stejnopisy pro účely zápisu do veřejných rejstříků (přímý zápis notářem podle § 108 ZVR);
 - elektronické potvrzení pro KN, registry osob, evidence motorových vozidel;
 - elektronické výpisy do datové schránky orgánům veřejné moci.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Notář N po sepsání notářského zápisu o založení s.r.o. provede přímý zápis společnosti do obchodního rejstříku (§ 108 ZVR) a k tomu vyhotoví **elektronický stejnopis** zápisu. Stejnopis opatří kvalifikovaným elektronickým podpisem a kvalifikovaným časovým razítkem, ale neuvede v doložce jména osob, které zápis elektronicky podepsaly. Příjemce namítá vadu. Důkazy: elektronický notářský zápis, elektronický stejnopis, doklad o KEP a časovém razítku.
+
+**2. Právní otázka.** Jaké autentizační prvky musí mít elektronický stejnopis (výpis, potvrzení) notářského zápisu a má stejnou důkazní sílu jako papírová forma?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94a NŘ — elektronická forma stejnopisů, opisů, výpisů a potvrzení; opatření KEP a kvalifikovaným časovým razítkem; otisk úředního razítka se nevyžaduje.
+- *Související ustanovení téhož zákona:* § 92 odst. 2 a 3 (náležitosti stejnopisu, jména podepisujících u elektronického zápisu), § 94 odst. 2 (potvrzení), § 90 (stejnopisy a opisy), § 108 ZVR (přímý zápis).
+- *Související předpisy:* § 18 a § 11 z. č. 297/2016 Sb. (kvalifikovaný elektronický podpis a časové razítko), nařízení eIDAS (č. 910/2014), § 6 NŘ (veřejná listina).
+- *Judikatura:* k rovnocennosti elektronické a listinné veřejné listiny srov. praxi vycházející z eIDAS; nosný závěr: kvalifikovaně podepsaný elektronický dokument má účinky listinné veřejné listiny.
+
+**4. Subsumpce.** Elektronický stejnopis je opatřen KEP a kvalifikovaným časovým razítkem (znaky § 94a splněny), otisk razítka se nevyžaduje (správně vynechán). Avšak u elektronického zápisu vyžaduje § 92 odst. 3 uvedení jmen podepisujících v doložce — tento znak chybí, stejnopis je proto vadný.
+
+**5. Řešení.** Notář vyhotoví elektronický stejnopis znovu s doložkou obsahující jména a příjmení osob, které zápis elektronicky podepsaly (§ 92 odst. 3 ve spojení s § 94a), opatří jej KEP a kvalifikovaným časovým razítkem. Takový stejnopis má stejnou důkazní sílu veřejné listiny jako papírová forma a je způsobilý pro elektronická registrová řízení.
+
+**6. Varianty.** (a) U **opisu** v elektronické podobě se uplatní obecná pravidla bez nutnosti KEP vydavatele tam, kde zákon podpis nevyžaduje. (b) U papírové formy by se naopak vyžadoval otisk úředního razítka a vlastnoruční podpis (§ 92 odst. 2, § 94 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Elektronický stejnopis bez razítka je vadný." Neutralizace: § 94a výslovně stanoví, že otisk úředního razítka se v elektronické podobě nevyžaduje; nahrazuje jej KEP a kvalifikované časové razítko.
+- Protiargument: „Elektronická forma má slabší důkazní sílu." Neutralizace: ve spojení s eIDAS a z. č. 297/2016 Sb. má kvalifikovaně podepsaný elektronický stejnopis tytéž účinky veřejné listiny jako papírová forma.
+- Slabé místo: opomenutí jmen podepisujících v doložce u elektronického zápisu (§ 92 odst. 3) je častou vadou; bez nich nelze podepisující u elektronického zápisu identifikovat.
+
+#### H. Praktický závěr
+
+Stejnopisy, výpisy a potvrzení lze vydat i elektronicky; opatří se kvalifikovaným elektronickým podpisem a kvalifikovaným časovým razítkem (razítko se nevyžaduje) a mají stejnou důkazní sílu jako papírová forma, u elektronického zápisu však doložka musí uvádět jména podepisujících.
+
+**Checklist (notář / žadatel):**
+- [ ] Opatřit elektronický stejnopis/výpis/potvrzení KEP vydavatele.
+- [ ] Připojit kvalifikované elektronické časové razítko.
+- [ ] Vynechat otisk úředního razítka (v elektronické podobě se nevyžaduje).
+- [ ] U elektronického zápisu uvést v doložce jména podepisujících (§ 92 odst. 3).
+- [ ] Ověřit způsobilost pro elektronické registrové/správní řízení (datová schránka).
+
+**Typicky rozhodné důkazy / podklady:** elektronický notářský zápis, elektronický stejnopis/výpis/potvrzení, doklady o KEP a kvalifikovaném časovém razítku.
 
 ---
 
@@ -1716,6 +2832,43 @@ Důkazní význam: protokol notáře je **veřejnou listinou** (§ 6 NŘ) a prok
 > (ii) systematickou podporu (notář vede agendu);
 > (iii) možnost dvou cest — buď samostatné notářské doručení připraveného oznámení věřitele (§ 94c), nebo sepsání oznámení **do protokolu** notářem (§ 94d).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Věřitel V má vůči dlužníkovi D vykonatelnou pohledávku. D bezúplatně převede svou jedinou hodnotnou nemovitost na svou dceru O (obdarovanou). V chce zachovat právo dovolat se neúčinnosti tohoto darování (actio Pauliana), ale lhůta k uplatnění práva se krátí. V požádá notáře, aby doručil O oznámení o výhradě práva dovolat se neúčinnosti. Důkazy: doklad o pohledávce, darovací smlouva, výpis z KN o převodu, oznámení o výhradě.
+
+**2. Právní otázka.** Jakou roli plní notář při doručení oznámení věřitele o výhradě práva dovolat se neúčinnosti právního jednání a komu se oznámení doručuje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94b NŘ — notář na žádost věřitele doručí oznámení o výhradě tomu, koho žadatel označil za osobu, vůči níž se může neúčinnosti dovolat.
+- *Související ustanovení téhož zákona:* § 94c (protokol a doručení), § 94d (oznámení do protokolu), § 94e (identifikace), § 6 NŘ (veřejná listina).
+- *Související předpisy:* § 593 OZ (stavění lhůty oznámením), § 589–592, § 595 OZ (odporovatelnost, lhůty), § 589 OZ obecně (relativní neúčinnost).
+- *Judikatura:* k actio Pauliana a stavění lhůty srov. ustálenou praxi NS k relativní neúčinnosti; nosný závěr: oznámení o výhradě staví běh lhůty od doručení do uplatnění práva, nejdéle o jeden rok.
+
+**4. Subsumpce.** V je věřitel, O je osoba, vůči níž se může neúčinnosti dovolat (obdarovaná z napadeného darování). Notář na žádost V doručí O oznámení o výhradě (znaky § 94b naplněny). Protokol notáře je veřejnou listinou prokazující datum a obsah oznámení i datum doručení — to je rozhodné pro stavění lhůty podle § 593 OZ.
+
+**5. Řešení.** Notář přijme oznámení od V, sepíše protokol (§ 94c) nebo zachytí oznámení do protokolu (§ 94d) a doručí je O. Datum doručení (zjištěné notářem) určuje počátek stavění prekluzivní lhůty. Notář neodpovídá za hmotněprávní obsah oznámení (zda správně identifikuje pohledávku, dlužníka a napadené jednání) — to leží na věřiteli.
+
+**6. Varianty.** (a) V by mohl oznámení doručit i sám (doporučenou poštou), notářské doručení však poskytuje vyšší důkazní sílu. (b) Zvolí-li V cestu § 94d, notář sepíše oznámení přímo do protokolu se šesti náležitostmi a doručí vyhotovení protokolu.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Žaloba se podává proti dlužníkovi, oznámení tedy patří jemu." Neutralizace: actio Pauliana i oznámení směřují proti osobě, která z napadeného jednání profitovala (obdarovaná O), nikoli proti dlužníkovi D.
+- Protiargument: „Notář ručí za správnost oznámení." Neutralizace: § 94c odst. 3 stanoví, že notář neodpovídá za obsah oznámení — odpovědnost nese věřitel.
+- Slabé místo: stavění lhůty nastává jen při doručení; nepodaří-li se oznámení doručit, věřitel ztrácí dodatečný čas a musí volit jinou cestu (žaloba).
+
+#### H. Praktický závěr
+
+Notář v rámci jiné činnosti doručuje na žádost věřitele oznámení o výhradě práva dovolat se neúčinnosti právního jednání osobě, vůči níž se neúčinnosti dovolává; jeho protokol jako veřejná listina prokazuje datum a obsah oznámení, což je rozhodné pro stavění prekluzivní lhůty podle § 593 OZ.
+
+**Checklist (advokát věřitele / notář):**
+- [ ] Identifikovat osobu, vůči níž se neúčinnosti dovolává (typicky obdarovaný/nabyvatel).
+- [ ] Zvolit cestu § 94c (notář jen doručuje) nebo § 94d (oznámení do protokolu).
+- [ ] Zajistit včasné doručení s ohledem na běh lhůty (§ 593 OZ).
+- [ ] Uchovat protokol jako důkaz o datu a obsahu oznámení.
+- [ ] Pamatovat, že notář neodpovídá za hmotněprávní obsah oznámení.
+
+**Typicky rozhodné důkazy / podklady:** doklad o pohledávce věřitele, doklad o napadeném právním jednání (darovací/kupní smlouva, výpis z KN), oznámení o výhradě, protokol notáře a doklad o doručení.
+
 ---
 
 ### § 94c — Protokol o žádosti, doručení oznámení
@@ -1768,6 +2921,43 @@ Věřitel obdrží vyhotovení protokolu jako **důkaz o doručení**. Notář *
 Notář **musí** odeslat oznámení **do 3 pracovních dnů** ode dne sepsání protokolu. To je objektivní lhůta pro plnění jeho povinnosti — opožděné doručení může způsobit, že prekluzivní lhůta uplyne a věřitel ztratí právo na odpor.
 
 Po doručení (zpravidla zjištěném z dodejky pošty nebo z potvrzení datové schránky) notář **sdělí věřiteli** datum doručení. Pokud se doručit nepodaří, sdělí mu i tuto skutečnost — věřitel pak musí zvolit jiný způsob (např. žaloba na neúčinnost s pokusem o doručení přes soud).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Věřitel V si sám připraví písemné oznámení o výhradě a přinese je notáři N pouze k doručení obdarované O. Notář sepíše protokol o převzetí oznámení a odešle je O. Oznámení se ale vrátí jako nedoručitelné (O se na adrese nezdržuje). Důkazy: připravené oznámení věřitele, protokol o převzetí, doklad o pokusu o doručení.
+
+**2. Právní otázka.** Jaké náležitosti má protokol podle § 94c, v jaké lhůtě musí notář oznámení odeslat a co je povinen sdělit věřiteli při (ne)doručení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94c odst. 1 až 4 NŘ — náležitosti protokolu, předání věřiteli, neodpovědnost za obsah, lhůta 3 pracovních dnů a sdělení o doručení/nedoručení.
+- *Související ustanovení téhož zákona:* § 94b (předmět činnosti), § 94d (oznámení do protokolu), § 94e (identifikace), § 6 NŘ (veřejná listina).
+- *Související předpisy:* § 593 OZ (stavění lhůty doručením oznámení), § 570 a násl. OZ (právní jednání vůči nepřítomné osobě — okamžik dojití).
+- *Judikatura:* k okamžiku doručení projevu vůle nepřítomné osobě srov. praxi NS k § 570 OZ; nosný závěr: rozhodný je okamžik dojití do sféry adresáta.
+
+**4. Subsumpce.** V sám sepsal oznámení, notář je jen převzal a doručuje (schéma § 94c). Protokol obsahuje náležitosti písm. a)–f) a notář neodpovídá za obsah (odst. 3). Notář musí odeslat oznámení do 3 pracovních dnů (odst. 4). Oznámení se vrátilo nedoručené — naplňuje se povinnost notáře sdělit věřiteli skutečnost nedoručení.
+
+**5. Řešení.** Notář sdělí V, že se oznámení nepodařilo doručit. Protože stavění lhůty podle § 593 OZ nastává až doručením, V dodatečný čas nezískal a musí zvolit jiný postup (např. doručení na jinou adresu, případně přímé podání žaloby o neúčinnost s pokusem o doručení přes soud). Notář předá V vyhotovení protokolu jako důkaz o učiněném pokusu.
+
+**6. Varianty.** (a) Při úspěšném doručení notář sdělí V datum doručení — od něj se počítá stavění lhůty. (b) Zvolil-li by V cestu § 94d (oznámení do protokolu), posílá se vyhotovení protokolu a notář by zachycoval i obsah oznámení.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Lhůta 3 dnů je pořádková bez následků." Neutralizace: opožděné odeslání může způsobit uplynutí prekluzivní lhůty a ztrátu práva věřitele; jde o významnou povinnost zakládající odpovědnost notáře za škodu.
+- Protiargument: „Notář měl zkontrolovat správnost oznámení." Neutralizace: u schématu § 94c notář neodpovídá za obsah (odst. 3) — kontrola hmotněprávních náležitostí leží na věřiteli.
+- Slabé místo: doručení závisí na správné adrese; uvedení nesprávné adresy věřitelem vede k nedoručení, aniž jde k tíži notáře.
+
+#### H. Praktický závěr
+
+Podle § 94c notář pouze doručuje již sepsané oznámení věřitele, o jeho převzetí sepíše protokol s předepsanými náležitostmi, odešle je do 3 pracovních dnů a sdělí věřiteli, zda a kdy bylo doručeno; za obsah oznámení neodpovídá.
+
+**Checklist (notář / věřitel):**
+- [ ] Sepsat protokol o převzetí se všemi náležitostmi písm. a)–f).
+- [ ] Předat věřiteli vyhotovení protokolu.
+- [ ] Odeslat oznámení do 3 pracovních dnů od sepsání protokolu.
+- [ ] Sdělit věřiteli datum doručení, nebo skutečnost nedoručení.
+- [ ] Uvést správnou adresu doručení (odpovědnost věřitele).
+
+**Typicky rozhodné důkazy / podklady:** připravené oznámení věřitele, protokol o převzetí, doklad o doručení nebo o jeho neúspěchu, sdělení notáře věřiteli.
 
 ---
 
@@ -1829,6 +3019,43 @@ Po doručení (zpravidla zjištěném z dodejky pošty nebo z potvrzení datové
 
 Postup je identický s § 94c odst. 4: odeslání do 3 pracovních dnů, notifikace věřitele o doručení nebo nedoručení. Specifikum: posílá se **vyhotovení protokolu**, nikoli „oznámení" jako samostatná listina — protokol obsahuje jak oznamovací část (písm. c), tak protokolární prvky (písm. a, b, d).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Věřitel V (PO) jedná prostřednictvím jednatele a chce, aby notář N sepsal oznámení o výhradě přímo do protokolu. V diktuje obsah: označuje napadené darování, dlužníka D, svou pohledávku za D a samotnou výhradu. Notář zápis zachycuje do protokolu. Důkazy: doklad o existenci a zastoupení V, doklad o pohledávce, údaje o napadeném jednání a o dlužníku.
+
+**2. Právní otázka.** Jaké náležitosti musí mít oznámení o výhradě sepsané do protokolu podle § 94d a kdo jsou tři osoby figurující v actio Pauliana?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94d odst. 1 a 2 NŘ — náležitosti protokolu a oznámení (písm. c body 1–6: identifikace věřitele, adresáta, označení napadeného jednání, identifikace dlužníka, označení pohledávky, výhrada); doručení do 3 pracovních dnů a notifikace.
+- *Související ustanovení téhož zákona:* § 94b (předmět činnosti), § 94c (varianta doručení), § 94e (identifikace), § 6 NŘ.
+- *Související předpisy:* § 593 OZ (stavění lhůty), § 589–592 OZ (odporovatelná jednání, dary), § 595 OZ (lhůty).
+- *Judikatura:* k rozlišení dlužníka a osoby, vůči níž se neúčinnosti dovolává, srov. praxi NS k actio Pauliana; nosný závěr: pasivně legitimovaným v odpůrčí žalobě je osoba, která z napadeného jednání nabyla prospěch, nikoli dlužník.
+
+**4. Subsumpce.** Oznámení do protokolu musí obsahovat šest náležitostí písm. c). Zachyceny jsou: identifikace věřitele V (bod 1), adresáta O (bod 2), označení napadeného darování (bod 3), identifikace dlužníka D (bod 4), označení pohledávky V za D (bod 5) a výhrada práva (bod 6). Znaky jsou naplněny — protokol je obsahovým nositelem oznámení.
+
+**5. Řešení.** Notář sepíše protokol se všemi šesti náležitostmi oznámení a protokolárními prvky (písm. a, b, d), předá vyhotovení V a další vyhotovení doručí O do 3 pracovních dnů. Poté sdělí V datum doručení (nebo nedoručení). Pečlivá identifikace všech tří osob (věřitel, dlužník, adresát) je nezbytná pro hmotněprávní účinnost oznámení podle § 593 OZ.
+
+**6. Varianty.** (a) Pokud by chyběl bod 3 (označení napadeného jednání) nebo bod 5 (označení pohledávky), oznámení by nesplňovalo náležitosti a nemuselo by vyvolat stavění lhůty. (b) Zvolil-li by V cestu § 94c, oznámení by sepsal sám a notář by je jen doručil bez zachycení obsahu.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Stačí označit dlužníka, adresát je týž." Neutralizace: v actio Pauliana jsou tři odlišné osoby — dlužník (původce jednání) a adresát (nabyvatel prospěchu) musí být identifikováni samostatně (body 2 a 4).
+- Protiargument: „U schématu § 94d notář za obsah neodpovídá stejně jako u § 94c." Neutralizace: § 94d zachycuje obsah oznámení do protokolu; notář formálně odpovídá za řádné sepsání protokolu, byť hmotněprávní správnost údajů dodává věřitel.
+- Slabé místo: vynechání některé z šesti náležitostí ohrožuje hmotněprávní účinnost oznámení; protokol je proto třeba sestavit úplně.
+
+#### H. Praktický závěr
+
+§ 94d umožňuje, aby notář sepsal oznámení o výhradě přímo do protokolu; oznámení musí obsahovat šest náležitostí (identifikace věřitele, adresáta, dlužníka, označení napadeného jednání a pohledávky a samotnou výhradu), přičemž je nutné rozlišovat tři osoby actio Pauliana.
+
+**Checklist (advokát věřitele / notář):**
+- [ ] Zachytit do protokolu všech šest náležitostí oznámení (písm. c body 1–6).
+- [ ] Odlišit dlužníka (původce jednání) od adresáta (nabyvatele prospěchu).
+- [ ] Přesně označit napadené právní jednání a pohledávku věřitele.
+- [ ] Doručit vyhotovení protokolu adresátovi do 3 pracovních dnů.
+- [ ] Sdělit věřiteli datum doručení nebo skutečnost nedoručení.
+
+**Typicky rozhodné důkazy / podklady:** doklad o existenci a zastoupení věřitele, doklad o pohledávce, údaje o napadeném právním jednání a o dlužníku, protokol a doklad o doručení.
+
 ---
 
 ### § 94e — Prokazování totožnosti a odmítnutí
@@ -1844,6 +3071,43 @@ Postup je identický s § 94c odst. 4: odeslání do 3 pracovních dnů, notifik
 § 94e zavádí standardní identifikační režim, totožný s úschovou (§ 85) a obecnou úpravou (§ 64). Při neprokázání **kogentně** odmítne notář úkon.
 
 Důvod přísnosti: oznámení o výhradě je úkonem s **vážnými právními důsledky** pro adresáta (může vést k žalobě o neúčinnost s důsledkem pro jeho majetek) — proto musí být identifikace věřitele nesporná.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** O úkon podle § 94b (doručení oznámení o výhradě) žádá osoba vystupující jako zástupce věřitele-PO, kterou notář osobně nezná. Předloží jen kopii průkazu totožnosti, ale nedoloží existenci PO ani své zmocnění. Notář zvažuje, zda úkon provést. Důkazy: úřední průkaz totožnosti zástupce, výpis z veřejného rejstříku o existenci PO, doklad o zastoupení.
+
+**2. Právní otázka.** Co musí žadatel o úkon podle § 94b prokázat a jaký je důsledek neprokázání totožnosti, případně existence právnické osoby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94e odst. 1 a 2 NŘ — povinnost prokázat totožnost úředním průkazem (a u PO existenci podle § 64 odst. 1); při neprokázání notář úkon odmítne.
+- *Související ustanovení téhož zákona:* § 64 odst. 1 (prokázání existence PO), § 85 (identifikace u úschovy obdobně), § 94b–94d (úkon, jehož se identifikace týká).
+- *Související předpisy:* § 161 a násl. OZ (zastoupení PO), z. č. 304/2013 Sb. (veřejné rejstříky — doklad o existenci PO).
+- *Judikatura:* k povinnosti notáře ověřit totožnost a existenci a k následkům jejího neprovedení srov. praxi k odpovědnosti notáře; nosný závěr: notář, který úkon provede bez řádné identifikace, odpovídá za případnou škodu.
+
+**4. Subsumpce.** Žadatel je zástupcem PO, notář ho osobně nezná (znak povinnosti prokázat totožnost úředním průkazem naplněn). U PO musí být prokázána i její existence podle § 64 odst. 1 (znak naplněn jen zčásti — existence ani zmocnění nedoloženy). Podmínky pro provedení úkonu nejsou splněny.
+
+**5. Řešení.** Notář vyzve žadatele k doložení existence PO (výpis z veřejného rejstříku) a totožnosti úředním průkazem. Nedoloží-li je, notář **kogentně odmítne** úkon provést (odst. 2). Přísnost je odůvodněna tím, že oznámení o výhradě má vážné právní důsledky pro adresáta (může vést k odpůrčí žalobě).
+
+**6. Varianty.** (a) Zná-li notář žadatele osobně, prokazování totožnosti úředním průkazem se nevyžaduje (existence PO se však u PO doloží vždy). (b) Je-li zástupcem PO jiná PO, postupuje se obdobně — doloží se existence a zastoupení na obou úrovních.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Pro pouhé doručení oznámení postačí kopie dokladu." Neutralizace: § 94e vyžaduje prokázání totožnosti úředním průkazem (a existence PO); nedostatečná identifikace vede k povinnému odmítnutí úkonu.
+- Protiargument: „Odmítnutí úkonu je nepřiměřené." Neutralizace: odst. 2 je kogentní — při neprokázání notář úkon odmítnout musí; nejde o uvážení.
+- Slabé místo: u zastoupení PO je třeba doložit nejen existenci PO, ale i oprávnění konkrétní osoby jednat za ni; opomenutí zmocnění je častou vadou.
+
+#### H. Praktický závěr
+
+Žadatel o doručení oznámení o výhradě musí notáři prokázat totožnost úředním průkazem (a u PO i její existenci podle § 64 odst. 1); při neprokázání notář úkon kogentně odmítne, neboť oznámení má vážné právní důsledky pro adresáta.
+
+**Checklist (notář / žadatel):**
+- [ ] Ověřit totožnost žadatele úředním průkazem (nezná-li ho notář osobně).
+- [ ] U PO doložit existenci podle § 64 odst. 1 (výpis z rejstříku).
+- [ ] U zastoupení PO doložit i oprávnění zástupce jednat.
+- [ ] Při neprokázání úkon odmítnout (kogentní povinnost).
+- [ ] Postupovat obdobně, je-li zástupcem PO jiná PO.
+
+**Typicky rozhodné důkazy / podklady:** úřední průkaz totožnosti žadatele, výpis z veřejného rejstříku o existenci PO, doklad o zastoupení/zmocnění.
 
 ---
 
@@ -1934,6 +3198,43 @@ Spisy o **jiné činnosti notáře** podle § 3 odst. 1 NŘ (poradenství, sepis
 
 Záznam zahrnuje: kdo, kdy, do čeho, případně co si pořídil (výpis, opis).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Novinář žádá notáře o nahlédnutí do spisu o kupní smlouvě uzavřené veřejně známou osobou, odvolává se na „veřejný zájem". Účastníci s nahlédnutím nesouhlasí. Současně se k témuž notáři dostaví dědic zemřelého účastníka jiné věci a žádá výpisy ze spisu. Důkazy: žádosti o nahlédnutí, doklady o postavení žadatelů (právní nástupnictví dědice), záznamy o nahlédnutí.
+
+**2. Právní otázka.** Za jakých podmínek může do notářského spisu nahlédnout třetí osoba, která není účastníkem ani jeho nástupcem, a jaké je postavení právního nástupce účastníka?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 95 odst. 1 až 4 NŘ — plný přístup účastníků a nástupců, omezený přístup třetích osob (vážné důvody bez dotčení oprávněných zájmů účastníků), zvláštní režim spisů o jiné činnosti, procesní pravidla nahlížení.
+- *Související ustanovení téhož zákona:* § 96 (zápůjčka spisů orgánům — výjimka z testu), § 95a (evidenční pomůcky), § 56 (mlčenlivost), § 3 odst. 1 (jiná činnost).
+- *Související předpisy:* GDPR (ochrana osobních údajů účastníků), § 1475 a násl. OZ (dědické nástupnictví).
+- *Judikatura:* k poměřování práva na informace a ochrany soukromí/obchodního tajemství srov. praxi ÚS; nosný závěr: přístup třetí osoby k cizím dokumentům vyžaduje konkrétní a převažující legitimní důvod.
+
+**4. Subsumpce.** Novinář je třetí osobou (odst. 2) — musí prokázat vážné důvody a jeho přístup nesmí dotknout oprávněné zájmy účastníků. Účastníci nesouhlasí, jde o jejich soukromou transakci — oprávněné zájmy by byly dotčeny; vážný důvod „veřejného zájmu" zde nepřevažuje. Dědic je naopak právním nástupcem účastníka (odst. 1) — má plný přístup.
+
+**5. Řešení.** Notář novináři nahlédnutí **odmítne** — dvojí test (závažnost důvodu vs. zájmy účastníků) vyznívá ve prospěch ochrany účastníků. Dědici jako právnímu nástupci nahlédnutí a výpisy **umožní** bez dalších podmínek. Nahlížení proběhne v kanceláři notáře pod dohledem a o nahlédnutí se učiní záznam (odst. 4).
+
+**6. Varianty.** (a) Šlo-li by o spis o **jiné činnosti** (§ 3 odst. 1), nahlížet by mohl jen klient (odst. 3), nikoli nástupce v jiných vztazích. (b) Žádá-li o nahlédnutí orgán s právem na zápůjčku podle § 96 (soud, OČTŘ), notář nezjišťuje podmínky odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Veřejný zájem opravňuje k nahlédnutí." Neutralizace: odst. 2 vyžaduje vážné důvody a zákaz dotčení oprávněných zájmů účastníků; obecný veřejný zájem novináře tomuto testu zpravidla nevyhoví u soukromých transakcí.
+- Protiargument: „Nahlížet lze i mimo kancelář notáře." Neutralizace: odst. 4 stanoví nahlížení v kanceláři pod dohledem notáře — spis nelze vynést.
+- Slabé místo: posouzení „vážných důvodů" a „oprávněných zájmů" je hodnotící; notář musí test provést a zdokumentovat, jinak hrozí odpovědnost za neoprávněné zpřístupnění.
+
+#### H. Praktický závěr
+
+Účastníci a jejich právní nástupci mají plný přístup ke spisu; třetí osoby jen při vážných důvodech bez dotčení oprávněných zájmů účastníků; spisy o jiné činnosti jsou přístupné jen klientovi a nahlížení probíhá v kanceláři notáře pod dohledem se záznamem.
+
+**Checklist (notář / žadatel):**
+- [ ] Určit postavení žadatele (účastník/nástupce vs. třetí osoba vs. klient u jiné činnosti).
+- [ ] U třetí osoby provést dvojí test (vážné důvody vs. zájmy účastníků).
+- [ ] U orgánů podle § 96 podmínky odst. 2 nezjišťovat.
+- [ ] Zajistit nahlížení v kanceláři pod dohledem.
+- [ ] Učinit ve spise záznam o nahlédnutí.
+
+**Typicky rozhodné důkazy / podklady:** žádost o nahlédnutí, doklad o postavení žadatele (nástupnictví, klientský vztah), záznam o nahlédnutí.
+
 ---
 
 ### § 95a — Evidenční pomůcky
@@ -1986,6 +3287,43 @@ Notář vede několik **typů evidenčních pomůcek**:
 - **OČTŘ** (vyšetřování trestných činů — možnost nahlédnout do ověřovací knihy pro identifikaci osob, jejichž podpis byl legalizován v konkrétní den);
 - **Komoru** (dohled nad činností notáře).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Orgán činný v trestním řízení (Policie) potřebuje pro vyšetřování podvodu zjistit, čí podpis notář legalizoval na konkrétní listině v určitý den. Žádá nahlédnutí do ověřovací knihy notáře. Notář zvažuje, zda a v jakém rozsahu mu přístup umožnit. Důkazy: písemná žádost OČTŘ, ověřovací kniha, záznam o legalizaci.
+
+**2. Právní otázka.** Mají orgány oprávněné k zápůjčce spisů podle § 96 právo nahlížet i do evidenčních pomůcek notáře a činit z nich výpisy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 95a odst. 1 a 2 NŘ — vedení evidenčních pomůcek podle kancelářského řádu; právo osob oprávněných k zápůjčce podle § 96 nahlížet do pomůcek (zejména ověřovací knihy) a činit z nich opisy a výpisy.
+- *Související ustanovení téhož zákona:* § 96 (okruh oprávněných k zápůjčce), § 73, § 74 (vidimace a legalizace — ověřovací kniha), § 35a (centrální evidence), § 89c (kniha úschov).
+- *Související předpisy:* § 8 odst. 1 z. č. 141/1961 Sb. (oprávnění OČTŘ vyžádat podklady), kancelářský řád NK ČR.
+- *Judikatura:* k poskytování evidenčních záznamů OČTŘ srov. praxi k součinnosti s orgány trestního řízení; nosný závěr: zákonné vyžádání podkladů OČTŘ má přednost a notář je povinen poskytnout součinnost.
+
+**4. Subsumpce.** Policie je OČTŘ — patří mezi orgány oprávněné k zápůjčce spisů podle § 96 (znak naplněn). Podle § 95a odst. 2 se jejich oprávnění vztahuje i na evidenční pomůcky, zejména ověřovací knihu. Notář tedy umožní nahlédnutí do příslušného svazku ověřovací knihy a pořízení výpisu.
+
+**5. Řešení.** Na základě písemné žádosti notář umožní OČTŘ nahlédnout do příslušného svazku ověřovací knihy a pořídit z něj výpis o legalizaci v daný den. U orgánů podle § 96 navíc neplatí test § 95 odst. 2 (vážné důvody) — jejich přístup se předpokládá oprávněný. Notář dbá, aby poskytl jen relevantní záznamy.
+
+**6. Varianty.** (a) Finanční orgán by mohl nahlížet do pomůcek pro kontrolu obratů úschov (kniha úschov — § 89c). (b) Soukromá osoba by k ověřovací knize přístup neměla, nejde-li o účastníka konkrétního ověření s legitimním zájmem.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Evidenční pomůcky jsou interní a nepodléhají zpřístupnění." Neutralizace: § 95a odst. 2 výslovně přiznává orgánům oprávněným k zápůjčce právo nahlížet i do pomůcek a činit z nich výpisy.
+- Protiargument: „Mlčenlivost notáře brání poskytnutí." Neutralizace: vůči orgánům podle § 96 a při zákonném vyžádání OČTŘ mlčenlivost poskytnutí evidenčních záznamů nebrání.
+- Slabé místo: rozsah poskytnutí musí být přiměřený žádosti; plošné zpřístupnění celé pomůcky nad rámec potřeby může kolidovat s ochranou údajů jiných osob.
+
+#### H. Praktický závěr
+
+Notář vede evidenční pomůcky podle kancelářského řádu; orgány oprávněné k zápůjčce spisů podle § 96 (zejména OČTŘ, finanční orgány, Komora) mají právo nahlížet i do těchto pomůcek (zejména ověřovací knihy) a činit z nich výpisy a opisy.
+
+**Checklist (notář / orgán):**
+- [ ] Ověřit, zda žadatel patří mezi orgány podle § 96.
+- [ ] Vyžadovat písemnou žádost.
+- [ ] Umožnit nahlédnutí do relevantní pomůcky (zejména ověřovací knihy) a pořízení výpisu.
+- [ ] U orgánů podle § 96 nezjišťovat podmínky § 95 odst. 2.
+- [ ] Poskytnout jen údaje přiměřené účelu žádosti.
+
+**Typicky rozhodné důkazy / podklady:** písemná žádost orgánu, příslušný svazek ověřovací knihy / kniha úschov, záznamy v evidenčních pomůckách.
+
 ---
 
 ### § 96 — Zápůjčka spisů orgánům veřejné moci
@@ -2022,6 +3360,43 @@ Znalci mají právo na zápůjčku **jen tehdy**, **nemohou-li podat znalecký p
 #### Spisy o jiné činnosti — souhlas klienta
 
 § 96 in fine: u spisů o jiné činnosti podle § 3 odst. 1 NŘ (poradenství, sepisování listin mimo notářské zápisy) lze spisy zapůjčit **jen se souhlasem klienta**. Tato úprava chrání profesní mlčenlivost notáře vůči klientovi (§ 56 NŘ) — i orgány veřejné moci nemohou pronikat do této sféry bez souhlasu klienta, vyjma případů zákonného vyžádání pro účely trestního řízení podle § 8 odst. 1 trestního řádu (oprávnění OČTŘ vyžádat si listinné materiály).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soud v civilním sporu telefonicky požádá notáře o zaslání spisu týkajícího se notářské činnosti. Současně znalec ustanovený v jiném řízení žádá tentýž spis, aniž by uvedl, proč jej ke znaleckému posudku potřebuje. Notář zvažuje, komu a za jakých podmínek spis zapůjčit. Důkazy: žádosti o zápůjčku, doklad o ustanovení znalce, spis.
+
+**2. Právní otázka.** Komu je notář povinen zapůjčit spisy, v jaké formě musí být žádost a jaké zvláštní omezení platí pro znalce a pro spisy o jiné činnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96 NŘ — taxativní okruh oprávněných (ministerstvo, Komora, notářská komora, soudy, soudní komisaři, OČTŘ, finanční orgány, znalci), požadavek písemné žádosti, omezení u znalců, souhlas klienta u spisů o jiné činnosti.
+- *Související ustanovení téhož zákona:* § 95 (nahlížení), § 95a odst. 2 (pomůcky), § 56 (mlčenlivost), § 3 odst. 1 (jiná činnost).
+- *Související předpisy:* § 127 OSŘ a z. č. 254/2019 Sb. o znalcích (ustanovení znalce), § 8 odst. 1 z. č. 141/1961 Sb. (vyžádání OČTŘ).
+- *Judikatura:* k mezím poskytování notářských spisů a k ochraně mlčenlivosti u jiné činnosti srov. praxi; nosný závěr: zápůjčka je vázána na zákonem vymezený okruh a u jiné činnosti na souhlas klienta.
+
+**4. Subsumpce.** Soud patří do taxativního okruhu (znak naplněn), avšak žádost musí být **písemná** — telefonická nepostačuje. Znalec patří do okruhu jen tehdy, **nemůže-li podat posudek bez znalosti spisu**; pouhá žádost bez odůvodnění potřebnosti tento znak nenaplňuje. U spisů o jiné činnosti by se vyžadoval souhlas klienta.
+
+**5. Řešení.** Notář vyzve soud k podání **písemné** žádosti, poté spis zapůjčí. Znalci spis nezapůjčí, dokud nedoloží, že bez znalosti spisu nemůže posudek podat (zúžené oprávnění oproti ostatním orgánům). Jde-li o spis o jiné činnosti (§ 3 odst. 1), zapůjčí jen se souhlasem klienta, vyjma zákonného vyžádání OČTŘ.
+
+**6. Varianty.** (a) Žádá-li OČTŘ podle § 8 odst. 1 tr. řádu, povinnost součinnosti má přednost i u spisů o jiné činnosti. (b) Žádá-li osoba mimo taxativní okruh (např. protistrana v soukromém sporu), notář spis nezapůjčí — přichází v úvahu jen nahlížení podle § 95.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Soudu lze vyhovět i na ústní žádost." Neutralizace: § 96 vyžaduje písemnou žádost; ústní či telefonická nepostačuje.
+- Protiargument: „Znalec má stejné právo jako soud." Neutralizace: u znalce platí zúžení — jen nemůže-li podat posudek bez znalosti spisu.
+- Slabé místo: u spisů o jiné činnosti je nutný souhlas klienta; jeho opomenutí znamená porušení mlčenlivosti (§ 56 NŘ), nejde-li o zákonné vyžádání OČTŘ.
+
+#### H. Praktický závěr
+
+Notář zapůjčí spisy jen taxativně vymezeným orgánům (ministerstvo, Komora, soudy, soudní komisaři, OČTŘ, finanční orgány, znalci za zúžených podmínek) na základě písemné žádosti; spisy o jiné činnosti jen se souhlasem klienta.
+
+**Checklist (notář / orgán):**
+- [ ] Ověřit, zda žadatel patří do taxativního okruhu § 96.
+- [ ] Vyžadovat písemnou žádost.
+- [ ] U znalce ověřit, že posudek nelze podat bez znalosti spisu.
+- [ ] U spisů o jiné činnosti vyžádat souhlas klienta (mimo zákonné vyžádání OČTŘ).
+- [ ] Osoby mimo okruh odkázat na nahlížení podle § 95.
+
+**Typicky rozhodné důkazy / podklady:** písemná žádost oprávněného orgánu, doklad o ustanovení znalce a o potřebnosti spisu, souhlas klienta u jiné činnosti.
 
 ---
 
@@ -2071,6 +3446,43 @@ Pokud externí kopie nejsou k dispozici, notář může provést **vlastní šet
 
 Tento protokol **nenahrazuje ztracenou listinu plně** (neměl by stejnou důkazní sílu jako originál), ale **dokumentuje** stav, který lze rekonstruovat — slouží jako důkaz v civilním nebo jiném řízení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V kanceláři notáře dojde k povodni, při níž je zničena část spisů, mezi nimi spis o kupní smlouvě. Účastník K potřebuje obsah listiny doložit v soudním sporu a žádá notáře o rekonstrukci spisu. Notář zjišťuje, zda existují stejnopisy nebo kopie u jiných subjektů. Důkazy: doklad o zničení (potvrzení o povodni), kopie listin u účastníků, katastrálního úřadu, jiného notáře, svědectví účastníků.
+
+**2. Právní otázka.** Jak má notář postupovat při rekonstrukci zničeného nebo ztraceného spisu a jakou důkazní hodnotu mají rekonstruované podklady?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 97 odst. 1 až 3 NŘ — rekonstrukce na návrh i ex offo, pořízení ověřených opisů z externích zdrojů s doložkou nahrazení, šetření o obsahu listiny a protokol.
+- *Související ustanovení téhož zákona:* § 73 (vidimace — ověřené opisy), § 95 (nahlížení), § 98 (úschova spisů), § 90 (stejnopisy u jiných notářů).
+- *Související předpisy:* § 7 z. č. 499/2004 Sb. (archivnictví), § 125 a § 134 OSŘ (důkaz listinou, veřejná listina).
+- *Judikatura:* k důkazní síle rekonstruovaných listin srov. obecnou praxi k volnému hodnocení důkazů; nosný závěr: rekonstruovaný protokol nemá sílu originálu veřejné listiny, ale je relevantním důkazem.
+
+**4. Subsumpce.** Spis byl zničen povodní (znak ztráty/zničení naplněn). K podal návrh (odst. 1). Notář si může zapůjčit kopie od účastníků, katastrálního úřadu, jiného notáře a pořídit ověřené opisy s doložkou nahrazení (odst. 2); není-li kopie, provede šetření a sepíše protokol (odst. 3).
+
+**5. Řešení.** Notář primárně pořídí **ověřené opisy** z externích zdrojů (kopie u účastníků, výpis z KN, případně stejnopis u notáře, který zápis sepsal) a opatří je doložkou, že nahrazují zničenou listinu. Nejsou-li kopie dostupné, provede **šetření** (výslech účastníků) a sepíše protokol zachycující zjištěné okolnosti. Rekonstrukci může provést i bez návrhu (ex offo).
+
+**6. Varianty.** (a) Existuje-li u notáře, který zápis sepsal, stejnopis, rekonstrukce je úplná a má vysokou důkazní hodnotu. (b) Lze-li obsah doložit jen svědectvím (protokol podle odst. 3), důkazní síla je nižší než u originálu a podléhá volnému hodnocení soudem.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Rekonstruovaný protokol nahrazuje originál plně." Neutralizace: protokol podle odst. 3 dokumentuje rekonstruovaný stav, ale nemá stejnou důkazní sílu jako originál veřejné listiny; ověřený opis (odst. 2) je silnější.
+- Protiargument: „Rekonstrukci lze provést jen na návrh." Neutralizace: odst. 1 umožňuje rekonstrukci i bez návrhu (ex offo), zejména při zjištění ztráty notářem.
+- Slabé místo: dostupnost externích kopií je nejistá; chybí-li, je rekonstrukce odkázána na svědecké šetření s nižší vypovídací hodnotou.
+
+#### H. Praktický závěr
+
+Při ztrátě nebo zničení spisu notář rekonstruuje spis na návrh i ex offo, primárně pořízením ověřených opisů z externích zdrojů s doložkou nahrazení, a teprve podpůrně šetřením s protokolem, jehož důkazní síla je nižší než u originálu.
+
+**Checklist (notář / účastník):**
+- [ ] Doložit a zaznamenat ztrátu/zničení spisu.
+- [ ] Vyhledat externí kopie (účastníci, KN, jiný notář, znalci, soudy).
+- [ ] Pořídit ověřené opisy s doložkou o nahrazení zničené listiny.
+- [ ] Není-li kopie, provést šetření a sepsat protokol o zjištěných okolnostech.
+- [ ] Zvážit rekonstrukci ex offo i bez návrhu účastníka.
+
+**Typicky rozhodné důkazy / podklady:** potvrzení o zničení/ztrátě, kopie listin u třetích subjektů, stejnopis u sepisujícího notáře, výslech účastníků a protokol o šetření.
+
 ---
 
 ### § 98 — Úschova spisů a notářských zápisů u notáře
@@ -2107,6 +3519,43 @@ Tato úprava reflektuje **kvalifikovanou důležitost notářských zápisů** �
 
 **Elektronické notářské zápisy** se uschovávají v elektronické podobě v **Sbírce notářských zápisů** vedené v IS Komory (§ 35a NŘ) — fyzická kovová skříň zde nepřichází v úvahu, ale ekvivalentní zabezpečení (kryptografické, redundance dat, dohled NK ČR) zajišťuje vyšší ochranu než u papíru.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Při kárné kontrole se zjistí, že notář ponechává čerstvě vyhotovené papírové notářské zápisy volně ve společné skříni se spisy a do kovové skříně pod uzávěrou je ukládá až po několika týdnech. Současně uchovává spisy skončených věcí nesetříděné v jedné krabici. Důkazy: protokol o kontrole, fotodokumentace uložení, evidence vyhotovení zápisů.
+
+**2. Právní otázka.** Jakým způsobem a v jakých lhůtách je notář povinen uschovávat notářské zápisy a spisy skončených věcí a jaké jsou důsledky nesprávného uložení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 98 odst. 1 a 2 NŘ — oddělené ukládání spisů skončených věcí podle druhů v kanceláři; uschování notářských zápisů v kovové skříni pod uzávěrou odděleně od spisů a bez zbytečného odkladu po vyhotovení.
+- *Související ustanovení téhož zákona:* § 35a (Sbírka notářských zápisů — elektronická forma), § 95 (nahlížení), § 97 (rekonstrukce), § 48 a násl. (kárná odpovědnost), kancelářský řád.
+- *Související předpisy:* § 7 z. č. 499/2004 Sb. (archivnictví, skartace), kancelářský řád NK ČR.
+- *Judikatura:* ke kárné odpovědnosti za porušení povinností při manipulaci se zápisy srov. kárnou praxi; nosný závěr: nedbalá manipulace s veřejnými listinami je kárným proviněním.
+
+**4. Subsumpce.** Notář ukládá zápisy do kovové skříně až po týdnech — porušuje povinnost uložení **bez zbytečného odkladu po vyhotovení** (odst. 2). Zápisy nejsou odděleny od spisů — další porušení odst. 2. Spisy skončených věcí nejsou ukládány **odděleně podle druhů** — porušení odst. 1. Znaky porušení úschovních povinností jsou naplněny.
+
+**5. Řešení.** Notář musí čerstvě vyhotovené zápisy bez zbytečného odkladu ukládat do kovové skříně pod uzávěrou, odděleně od spisů, a spisy skončených věcí třídit podle druhů. Porušení může vést ke kárné odpovědnosti (§ 48 a násl. NŘ). U elektronických zápisů se ukládání řeší ve Sbírce notářských zápisů v IS Komory (§ 35a), kde fyzická skříň nepřichází v úvahu.
+
+**6. Varianty.** (a) U elektronických zápisů se povinnost odst. 2 naplňuje uložením do Sbírky s ekvivalentním zabezpečením. (b) U spisů o závětech a dědických smlouvách platí delší (trvalá) doba uchování oproti běžnému standardu cca 50 let.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: „Uložení do kovové skříně po čase postačí." Neutralizace: odst. 2 vyžaduje uložení bez zbytečného odkladu po vyhotovení; prodlení je porušením povinnosti.
+- Protiargument: „Způsob uložení spisů je věcí volby notáře." Neutralizace: odst. 1 přikazuje oddělené ukládání podle druhů; nahodilé uložení neodpovídá zákonu a kancelářskému řádu.
+- Slabé místo: u elektronických zápisů nelze pravidla o kovové skříni aplikovat doslovně; je třeba vyjít z ekvivalentního zabezpečení podle § 35a a kancelářského řádu.
+
+#### H. Praktický závěr
+
+Spisy skončených věcí se ukládají odděleně podle druhů v kanceláři notáře; notářské zápisy se uschovávají v kovové skříni pod uzávěrou odděleně od spisů a bez zbytečného odkladu po vyhotovení (u elektronických zápisů ekvivalentně ve Sbírce notářských zápisů).
+
+**Checklist (notář / kontrola Komory):**
+- [ ] Ukládat notářské zápisy do kovové skříně pod uzávěrou bez zbytečného odkladu.
+- [ ] Uchovávat zápisy odděleně od spisů.
+- [ ] Třídit spisy skončených věcí podle druhů.
+- [ ] U elektronických zápisů zajistit uložení ve Sbírce notářských zápisů (§ 35a).
+- [ ] Respektovat doby uchování (zvláště trvale u závětí a dědických smluv).
+
+**Typicky rozhodné důkazy / podklady:** protokol o kontrole, evidence vyhotovení a uložení zápisů, kancelářský řád, doklady o zabezpečení elektronické Sbírky.
+
 ---
 
 ### § 99 — Nahlížení do notářských zápisů
@@ -2135,6 +3584,42 @@ Tato úprava reflektuje **kvalifikovanou důležitost notářských zápisů** �
 Důvod: **ochrana důvěrnosti pořízení pro případ smrti** — zůstavitel má **právo na soukromí** ve věci své poslední vůle. Toto právo je tak silné, že vylučuje i případné „vážné důvody" třetích osob.
 
 **Po smrti zůstavitele** se omezení uvolňuje — vstupují dědicové (jako právní nástupci) a § 95 se uplatní plně.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní H. sepsala u notáře notářský zápis o závěti, jímž odkázala nemovitost neteři a vydědila syna. Syn, který se o existenci závěti dozvěděl, žádá notáře o nahlédnutí do notářského zápisu o závěti ještě za života matky; tvrdí „vážný důvod" — potřebu posoudit, zda nemá podat žalobu o neplatnost vydědění. Notář žádost zaznamenal a posuzuje, zda smí synovi přístup umožnit. Důkazy: identita žadatele (úřední průkaz), označení notářského zápisu, evidence v Evidenci právních jednání pro případ smrti.
+
+**2. Právní otázka.** Může třetí osoba (zde syn-potenciální dědic) za života zůstavitele nahlédnout do notářského zápisu o pořízení pro případ smrti, prokáže-li vážný důvod podle § 95 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 99 odst. 2 NŘ — za života zůstavitele smí do zápisu o jednání pro případ smrti (§ 35b odst. 1) nahlížet **jen účastníci**; § 95 odst. 2 se nepoužije.
+- *Související ustanovení téhož zákona:* § 95 (obecný režim nahlížení, přebíraný odst. 1 obdobně); § 35b odst. 1 (vymezení okruhu jednání pro případ smrti); § 100 odst. 1 in fine a § 101 (paralelní ochrana u zápůjčky a vydání).
+- *Související předpisy:* § 81 a násl. OZ (ochrana osobnosti a soukromí); § 1494 a násl. OZ (závěť a její důvěrnost); čl. 10 Listiny (právo na soukromí).
+- *Judikatura:* nosný závěr — autonomie vůle zůstavitele a důvěrnost poslední vůle za jeho života požívají absolutní ochrany; práva potenciálních dědiců vznikají až smrtí zůstavitele (delační princip), nikoli dříve (ustálená rozhodovací praxe dědického práva).
+
+**4. Subsumpce.** Syn je třetí osobou, nikoli účastníkem zápisu (účastníkem je jen zůstavitelka). Notářský zápis je jednáním pro případ smrti dle § 35b odst. 1. Tím je naplněna hypotéza § 99 odst. 2: aplikace § 95 odst. 2 je vyloučena, takže „vážný důvod" je právně irelevantní. Za života matky syn nemá žádnou cestu k přístupu.
+
+**5. Řešení.** Notář žádost **odmítne**. Vážný důvod nemůže prolomit zákaz, protože § 99 odst. 2 vylučuje § 95 odst. 2 výslovně. Procesně: notář žadatele poučí, eviduje odmítnutí. Riziko alternativního výkladu prakticky neexistuje — formulace je kogentní.
+
+**6. Varianty.** (a) Zůstavitelka zemře — syn jako (byť vyděděný) potenciální dědic se stává osobou s právním zájmem v pozůstalostním řízení a režim § 95 se uplatní plně. (b) Žadatelem by byl druhý účastník dědické smlouvy — pak by šlo o účastníka, který právo nahlížet má i za života zůstavitele.
+
+#### G. Protiargumenty a rizika
+
+- *„Vážný důvod opravňuje k přístupu i k závěti."* Neutralizace: § 99 odst. 2 výslovně vylučuje § 95 odst. 2; vážný důvod je tak bez právního významu po dobu života zůstavitele.
+- *„Syn má legitimní zájem ochránit svá očekávaná dědická práva."* Neutralizace: dědická práva vznikají až smrtí (delace); za života zůstavitele jde o pouhé naděje, jež nepřevažují nad ústavně chráněným soukromím a testovací svobodou.
+- Slabé místo: pojem „účastník" zápisu o závěti je u jednostranných pořízení úzký (typicky jen zůstavitel); u dědické smlouvy je třeba dbát, že účastníky jsou obě smluvní strany.
+
+#### H. Praktický závěr
+
+Za života zůstavitele je notářský zápis o pořízení pro případ smrti přístupný výhradně účastníkům; žádný „vážný důvod" třetí osoby přístup neumožní. Po smrti se režim mění na obecný (§ 95).
+
+**Checklist (advokát / soud / notář / žadatel):**
+- [ ] Jde o notářský zápis o jednání pro případ smrti dle § 35b odst. 1?
+- [ ] Žádá o nahlédnutí účastník, nebo třetí osoba?
+- [ ] Je zůstavitel naživu? (pokud ano → § 99 odst. 2, § 95 odst. 2 se nepoužije)
+- [ ] Odmítnutí třetí osobě řádně zaznamenáno?
+
+**Typicky rozhodné důkazy / podklady:** úřední průkaz totožnosti žadatele, postavení žadatele (účastník vs. třetí osoba), zápis v Evidenci právních jednání pro případ smrti, údaj o tom, zda zůstavitel žije.
 
 ---
 
@@ -2194,6 +3679,43 @@ Po vrácení originálu:
 - **originál se založí** zpět na své místo;
 - **ověřený opis (předtím sloužící jako náhrada) + žádost** se založí do spisu k dokumentaci zápůjčky;
 - **pokud byly vydány stejnopisy** z ověřeného opisu, ověřený opis se **fyzicky přiloží** k vrácenému originálu (aby bylo dokumentováno, kterou „verzí" notářského zápisu byly stejnopisy ověřeny).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soud v civilním sporu o platnost smlouvy o převodu obchodního podílu (sepsané notářským zápisem) žádá notáře o zapůjčení originálu notářského zápisu pro účely dokazování. Současně OČTŘ ve vedlejším trestním řízení o podvodu žádá tentýž originál. Notář musí postupovat dle § 100. Důkazy/podklady: písemné žádosti soudu a OČTŘ, identifikace notářského zápisu, kopírovací zařízení, ověřovací doložka dle § 73.
+
+**2. Právní otázka.** Komu a za jakých procesních podmínek smí notář zapůjčit originál notářského zápisu a jak zajistí kontinuitu vydávání stejnopisů po dobu zápůjčky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 100 NŘ — taxativní okruh oprávněných (soud, soudní komisař, ministerstvo, Komora, příslušná NK), mechanismus zástupného ověřeného opisu, vydávání stejnopisů z opisu, archivace po vrácení.
+- *Související ustanovení téhož zákona:* § 96 (zápůjčka spisů — širší okruh); § 73 odst. 1 (vidimace/ověřený opis); § 90, 92 (stejnopisy a opisy); § 35a odst. 1 (absolutní zákaz u pořízení pro případ smrti za života pořizovatele).
+- *Související předpisy:* § 125–129 o. s. ř. (důkaz listinou); trestní řád (vyžádání a utajení důkazů).
+- *Judikatura:* nosný závěr — originál notářského zápisu jako kvalifikovaná veřejná listina zůstává v dispozici notáře; orgány veřejné moci si zásadně vyžadují stejnopis/ověřený opis, zápůjčka originálu je výjimečná a vázaná na taxativní okruh.
+
+**4. Subsumpce.** Soud patří do taxativního okruhu odst. 1 → zápůjčka přípustná. OČTŘ (mimo soud) do okruhu **nepatří** → originál mu nelze zapůjčit; má nárok jen na stejnopis/ověřený opis. Před zapůjčením soudu notář vyhotoví ověřený opis (odst. 2), založí jej, připojí žádost. Po dobu zápůjčky vydává stejnopisy z opisu (odst. 3).
+
+**5. Řešení.** Notář originál zapůjčí **soudu** (po vyhotovení ověřeného opisu dle odst. 2), OČTŘ poskytne **ověřený opis/stejnopis**, nikoli originál. Pokud jde o pořízení pro případ smrti dle § 35a odst. 1 a pořizovatel žije, zápůjčka je **absolutně zakázána** komukoli. Riziko: záměna okruhu oprávněných u spisů (§ 96) a u notářských zápisů (§ 100, užší okruh).
+
+**6. Varianty.** (a) Předmětem je notářský zápis o závěti a pořizovatel žije → zákaz zápůjčky komukoli (odst. 1 in fine, § 35a odst. 1). (b) Soud nařídí pozastavení vydávání stejnopisů (odst. 3) v trestním řízení pro utajení → notář stejnopisy do rozhodnutí soudu nevydá.
+
+#### G. Protiargumenty a rizika
+
+- *„OČTŘ má v trestním řízení právo na originál veřejné listiny."* Neutralizace: § 100 odst. 1 vymezuje okruh taxativně a OČTŘ (mimo soud) v něm nejsou; postačí ověřený opis s důkazní silou veřejné listiny (odst. 3 in fine).
+- *„Stejnopisy z opisu nemají plnou důkazní sílu."* Neutralizace: odst. 3 výslovně přiznává ověřenému opisu i jeho stejnopisům povahu veřejné listiny při splnění zákonných náležitostí.
+- Slabé místo: nedodržení postupu dle odst. 2 (chybějící ověřovací doložka o nahrazení) může zpochybnit kontinuitu agendy; nutno přesně dokumentovat zápůjčku připojenou žádostí.
+
+#### H. Praktický závěr
+
+Originál notářského zápisu se zapůjčuje jen pěti taxativně určeným subjektům; ostatní (vč. OČTŘ a znalců) dostanou ověřený opis/stejnopis. U pořízení pro případ smrti za života pořizovatele platí absolutní zákaz zápůjčky. Po dobu zápůjčky slouží založený ověřený opis jako náhrada originálu.
+
+**Checklist (notář / soud / OČTŘ / Komora):**
+- [ ] Patří žadatel do taxativního okruhu odst. 1 (soud, soudní komisař, ministerstvo, Komora, příslušná NK)?
+- [ ] Nejde o pořízení pro případ smrti dle § 35a odst. 1 za života pořizovatele (absolutní zákaz)?
+- [ ] Vyhotoven ověřený opis dle § 73 odst. 1 a založen namísto originálu, připojena žádost?
+- [ ] Ověřovací doložka obsahuje údaj o nahrazení z důvodu zápůjčky?
+- [ ] Po vrácení: originál založen, opis + žádost do spisu (a opis přiložen k originálu, byly-li vydány stejnopisy)?
+
+**Typicky rozhodné důkazy / podklady:** písemná žádost oprávněného subjektu, originál notářského zápisu, ověřený opis s doložkou dle § 73, evidence o vydaných stejnopisech, případné rozhodnutí o pozastavení/zákazu vydávání.
 
 ---
 
@@ -2307,6 +3829,43 @@ Po vydání:
 
 Po vydání notář provede **výmaz všech údajů** o této listině v Evidenci právních jednání pro případ smrti. Pokud později pořizovatel zemře, **dědické řízení proběhne bez zápisu v Evidenci** — důležité poučení pro pořizovatele.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan K. před lety pořídil notářský zápis o závěti. Nyní si rozmyslel obsah a osobně přichází k notáři s žádostí o vydání notářského zápisu o závěti, neboť chce pořídit novou závěť ve prospěch jiné osoby. Notář ověřuje totožnost (úřední průkaz), sepisuje protokol o vydání a poučuje pořizovatele. Důkazy/podklady: průkaz totožnosti, žádost pořizovatele, identifikace notářského zápisu o závěti, záznam v Evidenci právních jednání pro případ smrti.
+
+**2. Právní otázka.** Smí notář vydat notářský zápis o závěti, komu, za jakých podmínek, a jaký je hmotněprávní účinek vydání na platnost dosavadního pořízení pro případ smrti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 101 NŘ — zákaz vydávání notářských zápisů s úzkou výjimkou pro „notářský zápis o závěti" (§ 35b odst. 1 písm. a) bez dědické smlouvy, písm. b), c)) na žádost pořizovatele; protokol o vydání; poučení o fikci odvolání; výmaz z Evidence.
+- *Související ustanovení téhož zákona:* § 35b odst. 1 (vymezení); § 64 odst. 1 (prokázání totožnosti); § 66 (svědci totožnosti); § 91, 93 (stejnopisy/výpisy jako řádná alternativa).
+- *Související předpisy:* § 1581 OZ (odvolání závěti vyžádáním z úschovy/zničením); § 1494 a násl. OZ (závěť); § 1582 OZ (dědická smlouva — dvoustranná, z výjimky vyloučena).
+- *Judikatura:* nosný závěr — vydáním listiny o pořízení pro případ smrti pořizovateli se závěť považuje za odvolanou; akt vydání je projevem testovací autonomie a vyvolává nezvratné hmotněprávní následky.
+
+**4. Subsumpce.** Jde o notářský zápis o závěti (jednostranné pořízení, nikoli dědická smlouva) → výjimka ze zákazu se uplatní. Žádá sám pořizovatel → aktivně legitimovaná osoba. Notář ověří totožnost dle § 64 odst. 1 (či § 66), sepíše protokol s náležitostmi odst. 3 vč. poučení o fikci odvolání (písm. f), provede výmaz z Evidence (odst. 6).
+
+**5. Řešení.** Notář závěť **vydá** pořizovateli po sepsání protokolu a poučení, že vydáním se pořízení považuje za **odvolané** (§ 1581 OZ). Náhradní vyhotovení protokolu založí namísto vydaného zápisu, výmaz provede v Evidenci. Riziko: neprokáže-li pořizovatel totožnost, notář vydání **odmítne** (odst. 4 in fine). Pořizovatel musí být upozorněn, že nechce-li zůstat bez platné závěti, musí pořídit novou.
+
+**6. Varianty.** (a) Listinou je dědická smlouva → vydání jednou stranou vyloučeno (dvoustranné jednání, § 1582 OZ). (b) Žádá zástupce/dědic, nikoli pořizovatel → vydání nepřípustné (aktivně legitimován jen pořizovatel). (c) Totožnost prokázána svědky dle § 66 → v protokolu se uvedou jejich údaje a prohlášení o osobní znalosti pořizovatele.
+
+#### G. Protiargumenty a rizika
+
+- *„Pořizovatel chce zápis jen ukázat příbuznému, ne odvolat — fikce odvolání je nepřiměřená."* Neutralizace: zákon spojuje vydání s fikcí odvolání kogentně; kdo nechce odvolat, ať si vyžádá stejnopis/výpis (§ 91, 93), nikoli vydání originálu.
+- *„Zmocněnec s plnou mocí může závěť vyžádat za pořizovatele."* Neutralizace: odst. 1 dovoluje vydání jen pořizovateli osobně (vysoce osobní povaha jednání); zastoupení je vyloučeno.
+- Slabé místo: opomenutí výmazu z Evidence (odst. 6) by mohlo vést k tomu, že po smrti bude figurovat neexistující závěť; nezbytné důsledné provedení a poučení o následcích pro dědické řízení.
+
+#### H. Praktický závěr
+
+Notářský zápis se zásadně nevydává; jedinou výjimkou je vydání „notářského zápisu o závěti" osobně pořizovateli, čímž se pořízení považuje za odvolané. Postup vyžaduje prokázání totožnosti, protokol o vydání s poučením o fikci odvolání a výmaz z Evidence.
+
+**Checklist (notář / pořizovatel / advokát):**
+- [ ] Jde o „notářský zápis o závěti" dle § 35b odst. 1 písm. a) bez dědické smlouvy, písm. b) nebo c)?
+- [ ] Žádá osobně sám pořizovatel (nikoli zástupce či dědic)?
+- [ ] Prokázána totožnost dle § 64 odst. 1, příp. svědky dle § 66 (jinak odmítnout)?
+- [ ] Sepsán protokol o vydání se všemi náležitostmi odst. 3, vč. poučení o fikci odvolání (písm. f)?
+- [ ] Náhradní vyhotovení protokolu založeno namísto vydaného zápisu; proveden výmaz z Evidence (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** průkaz totožnosti (příp. svědci totožnosti), žádost pořizovatele, originál notářského zápisu o závěti, protokol o vydání s doložkou, záznam o výmazu z Evidence právních jednání pro případ smrti.
+
 ---
 
 ### § 103 — Převzetí spisů uvolněného úřadu nástupcem
@@ -2337,6 +3896,43 @@ Nástupnický notář (jmenovaný ministrem do téhož úřadu podle § 8 NŘ) *
 
 Nástupnický notář si vyhotoví **vlastní razítka** podle § 13 NŘ (registrovaná u Komory).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Notář N. v Brně zemřel. Ministr jmenuje do téhož (uvolněného) úřadu nového notáře M. Ten musí převzít agendu zemřelého: notářské zápisy v kovové skříni, skončené i běžící spisy, listiny v úschově, peněžní úschovy na zvláštním účtu a evidenční pomůcky. Klientka zemřelého notáře současně žádá stejnopis svého staršího notářského zápisu. Důkazy/podklady: jmenovací dekret nástupce, protokol o převzetí agendy, soupis předmětů úschov, dispozice ke zvláštnímu účtu.
+
+**2. Právní otázka.** Co a v jakém režimu přebírá nástupce do uvolněného notářského úřadu a jak je naloženo s úředními razítky zemřelého notáře?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 103 NŘ — nástupce přebírá notářské zápisy, spisy, předměty úschov a evidenční pomůcky (odst. 1); úřední razítka přebírá příslušná notářská komora (odst. 2).
+- *Související ustanovení téhož zákona:* § 8 (uvolnění/odvolání, jmenování do úřadu); § 13 (úřední razítka nástupce); § 86, 89a (zvláštní účet a převedení dispozice u peněžních úschov); § 105 (oprávnění přejímatele vydávat výstupní listiny).
+- *Související předpisy:* předpisy NK ČR o převzetí a likvidaci razítek; zákon č. 292/2013 Sb. (Z.ŘS) ve vztahu k běžícím pozůstalostním věcem zemřelého soudního komisaře.
+- *Judikatura:* nosný závěr — kontinuita notářské agendy a ochrana klientů vyžaduje bezešvý přechod úschov a zápisů na nástupce; razítka předchůdce se neutralizují, aby se vyloučilo zneužití.
+
+**4. Subsumpce.** Úřad se uvolnil úmrtím notáře → naplněna hypotéza § 103 odst. 1. Nástupce M. byl jmenován do téhož úřadu → přebírá veškerou vyjmenovanou agendu (zápisy, spisy, úschovy, pomůcky). Razítka zemřelého → nepřebírá M., nýbrž regionální komora (odst. 2). Vlastní razítka si M. vyhotoví dle § 13.
+
+**5. Řešení.** Sepíše se protokol o převzetí agendy; M. fakticky převezme zápisy, spisy, úschovy (vč. převedení dispozice ke zvláštnímu účtu) a evidenční pomůcky. Razítka předá regionální komoře k likvidaci. Žádosti klientky o stejnopis vyhoví M. podle § 105. Riziko: opomenutí soupisu předmětů úschov a převodu peněžních prostředků by ohrozilo práva uschovatelů.
+
+**6. Varianty.** (a) Notář nezemřel, ale byl odvolán dle § 8 → tentýž režim (uvolnění úřadu). (b) Úřad není obsazen nástupcem, ale zrušen → aplikuje se § 104 (agendu převezme notář určený komorou). (c) Mezi převzatými spisy jsou nedokončené pozůstalostní věci → řeší se ve vazbě na Z.ŘS a soud, který pověřuje soudního komisaře.
+
+#### G. Protiargumenty a rizika
+
+- *„Nástupce může užívat razítka předchůdce do vyhotovení vlastních."* Neutralizace: odst. 2 svěřuje razítka komoře právě k vyloučení zneužití; nástupce vystupuje výlučně pod vlastními razítky dle § 13.
+- *„Peněžní úschovy zaniklého úřadu jsou ohroženy."* Neutralizace: zvláštní účet a ochrana dle § 86, 89a zajišťují oddělení prostředků; dispozice se převádí na nástupce, prostředky netvoří součást pozůstalosti notáře.
+- Slabé místo: chybějící či nepřesný soupis převzaté agendy komplikuje pozdější vydávání výstupních listin a rekonstrukci (§ 97); nutný pečlivý protokol o převzetí.
+
+#### H. Praktický závěr
+
+Při uvolnění úřadu (úmrtí/odvolání) přebírá jmenovaný nástupce veškeré notářské zápisy, spisy, předměty úschov a evidenční pomůcky; úřední razítka předchůdce přebírá a likviduje příslušná notářská komora. Klíčem je protokolární soupis a zajištění kontinuity úschov.
+
+**Checklist (nástupce / komora / uschovatelé):**
+- [ ] Sepsán protokol o převzetí zápisů, spisů, úschov a evidenčních pomůcek?
+- [ ] Zajištěn soupis předmětů úschov a převedení dispozice ke zvláštnímu účtu (§ 86, 89a)?
+- [ ] Úřední razítka předchůdce předána příslušné notářské komoře (odst. 2)?
+- [ ] Nástupce má vlastní registrovaná razítka dle § 13?
+- [ ] Ošetřeny běžící pozůstalostní (soudně-komisařské) věci ve vazbě na Z.ŘS?
+
+**Typicky rozhodné důkazy / podklady:** jmenovací dekret nástupce, protokol o převzetí agendy, soupis úschov, doklady ke zvláštnímu účtu, potvrzení komory o převzetí razítek.
+
 ---
 
 ### § 104 — Zrušený notářský úřad
@@ -2361,6 +3957,42 @@ V tomto případě **nelze určit nástupce** (úřad zaniká). § 104 proto ur�
 
 Stejně jako u § 103 — přebírá je regionální komora.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Po odvolání notáře v menším okrese ministr po konzultaci s NK ČR rozhodne, že úřad je v regionu nadbytečný, a **zruší** jej podle § 8. Není tedy koho jmenovat nástupcem. Příslušná notářská komora určí notáře P. v sousedním městě, aby převzal do úschovy zápisy, spisy, úschovy a pomůcky zrušeného úřadu. Důkazy/podklady: rozhodnutí o zrušení úřadu, určení komory, protokol o převzetí, soupis úschov.
+
+**2. Právní otázka.** Jak je naloženo s agendou notáře, jehož úřad byl po uvolnění zrušen (a nemá tedy nástupce), a kdo ji přebírá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 104 NŘ — věci dle § 103 odst. 1 převezme notář **určený příslušnou notářskou komorou**; § 14 odst. 5 se použije obdobně; o razítkách platí § 103 odst. 2.
+- *Související ustanovení téhož zákona:* § 8 (zrušení uvolněného úřadu); § 103 (převzetí při obsazení úřadu nástupcem); § 14 odst. 5 (územní působnost/převedení); § 105 (oprávnění přejímatele).
+- *Související předpisy:* předpisy NK ČR o určení přejímajícího notáře a o likvidaci razítek.
+- *Judikatura:* nosný závěr — i při zániku úřadu musí být zachována dostupnost notářských zápisů a úschov pro klienty; absence nástupce nesmí jít k tíži adresátů agendy.
+
+**4. Subsumpce.** Úřad byl po uvolnění zrušen dle § 8 → nelze jmenovat nástupce dle § 103. Naplněna hypotéza § 104 odst. 1: agendu (zápisy, spisy, úschovy, pomůcky) převezme notář **určený komorou**; § 14 odst. 5 se užije obdobně. Razítka přebírá komora (odst. 2 ve spojení s § 103 odst. 2).
+
+**5. Řešení.** Komora určí přejímajícího notáře P.; sepíše se protokol o převzetí; P. přebírá veškerou agendu obdobně jako nástupce dle § 103, s obdobnou aplikací § 14 odst. 5. Razítka zrušeného úřadu se předají komoře. Riziko: zaměnit režim § 103 (nástupce v existujícím úřadu) a § 104 (zrušený úřad, přejímatel určený komorou).
+
+**6. Varianty.** (a) Úřad není zrušen, ale obsazen nástupcem → aplikuje se § 103, nikoli § 104. (b) Komora určí přejímatele mimo dosavadní obvod → § 14 odst. 5 obdobně řeší územní souvislosti převedení agendy.
+
+#### G. Protiargumenty a rizika
+
+- *„Zrušením úřadu zaniká i přístup klientů k jejich zápisům."* Neutralizace: § 104 zaručuje převzetí agendy určeným notářem a § 105 jeho plné oprávnění vydávat výstupní listiny; kontinuita je zachována.
+- *„Přejímatele si mohou klienti zvolit sami."* Neutralizace: přejímatele autoritativně **určuje komora**, nikoli klienti; jde o organizační rozhodnutí v zájmu plynulosti agendy.
+- Slabé místo: nejasnost obvodové příslušnosti řeší § 14 odst. 5 obdobně; bez jeho aplikace by mohly vzniknout spory o místní působnost přejímatele.
+
+#### H. Praktický závěr
+
+Je-li uvolněný úřad zrušen (§ 8), nemá nástupce; agendu (zápisy, spisy, úschovy, pomůcky) převezme notář určený příslušnou notářskou komorou, s obdobnou aplikací § 14 odst. 5; razítka přebírá komora. Tím je zajištěna trvalá dostupnost agendy pro klienty.
+
+**Checklist (komora / přejímající notář / klienti):**
+- [ ] Byl uvolněný úřad skutečně zrušen podle § 8 (nikoli obsazen nástupcem dle § 103)?
+- [ ] Komora určila přejímajícího notáře a sepsala protokol o převzetí agendy?
+- [ ] Aplikováno § 14 odst. 5 obdobně (územní souvislosti převedení)?
+- [ ] Úřední razítka zrušeného úřadu předána komoře (odst. 2, § 103 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o zrušení úřadu dle § 8, akt komory o určení přejímatele, protokol o převzetí, soupis předmětů úschov a evidenčních pomůcek.
+
 ---
 
 ### § 105 — Vydávání stejnopisů a oprávnění převzavšího notáře
@@ -2384,6 +4016,43 @@ Tento režim zajišťuje **kontinuitu notářské funkce** ve vztahu ke všem kl
 #### Časové trvání
 
 Trvání tohoto „zástupného" oprávnění **není časově omezeno** — přejímatel/nástupce vede převzatou agendu obdobně jako svou vlastní, dokud sám neopustí úřad (pak by se převody opakovaly).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Notář P., který před třemi lety převzal podle § 104 agendu zrušeného úřadu, obdrží žádost klientky o stejnopis notářského zápisu sepsaného ještě původním (zaniklým) notářem; jiná osoba současně žádá o nahlédnutí do navazujícího spisu a soud o zapůjčení dotčeného notářského zápisu. Důkazy/podklady: identifikace zápisu z převzaté agendy, žádosti jednotlivých subjektů, evidence převzatých zápisů.
+
+**2. Právní otázka.** Je notář, který převzal agendu zaniklého/uvolněného úřadu podle § 103 nebo § 104, oprávněn vydávat z převzatých zápisů a spisů výstupní listiny a aplikovat na ně režim nahlížení a zápůjčky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 105 NŘ — přejímatel (dle § 103 i § 104) vydává z převzatých zápisů a spisů stejnopisy, opisy, výpisy a potvrzení; na nahlížení a zapůjčení se použijí § 95 a násl.
+- *Související ustanovení téhož zákona:* § 103, 104 (převzetí agendy); § 90–93 (stejnopisy, opisy, výpisy, potvrzení); § 95, 99 (nahlížení); § 96, 100 (zápůjčka); § 97 (rekonstrukce).
+- *Související předpisy:* § 6 NŘ a § 134 o. s. ř. (důkazní síla veřejné listiny vydávané notářem); předpisy NK ČR o vedení převzaté agendy.
+- *Judikatura:* nosný závěr — výstupní listiny vydávané přejímajícím notářem z převzaté agendy mají tytéž účinky veřejné listiny jako listiny vydávané notářem, který zápis sepsal; kontinuita notářské funkce je zachována.
+
+**4. Subsumpce.** P. převzal agendu podle § 104 → spadá pod § 105. Je proto oprávněn vydat klientce **stejnopis** převzatého zápisu (s účinky veřejné listiny), na žádost o nahlédnutí aplikuje **§ 95 (a § 99)** a na žádost soudu o zapůjčení **§ 96/§ 100**. Všechny tři žádosti řeší v plné roli, jako by šlo o jeho vlastní agendu.
+
+**5. Řešení.** P. vydá stejnopis klientce, posoudí nahlížení dle § 95/99 (oprávněnost žadatele), zápůjčku soudu provede dle § 100 (vč. ověřeného opisu). Riziko: u zápisů o pořízení pro případ smrti se i u přejímatele uplatní zvláštní ochrana (§ 99 odst. 2, § 100 odst. 1 in fine, § 101). Alternativní výklad omezující oprávnění přejímatele je vyloučen výslovným zněním § 105.
+
+**6. Varianty.** (a) Žádost se týká notářského zápisu o závěti za života pořizovatele → uplatní se omezení § 99/§ 100/§ 101 i vůči přejímateli. (b) Část převzatých spisů je poškozena → přejímatel provede rekonstrukci dle § 97 a poté vydává výstupní listiny.
+
+#### G. Protiargumenty a rizika
+
+- *„Stejnopis z cizí (převzaté) agendy nemá plnou důkazní sílu veřejné listiny."* Neutralizace: § 105 výslovně svěřuje přejímateli vydávání výstupních listin; jejich účinky odpovídají § 6 NŘ a § 134 o. s. ř.
+- *„Přejímatel nemůže rozhodovat o zápůjčce cizích zápisů."* Neutralizace: § 105 odkazuje na § 95 a násl. v plném rozsahu, tedy i na § 96 a § 100 — přejímatel je k tomu příslušný.
+- Slabé místo: nepřesné dohledání zápisu v převzaté agendě (chybějící soupis dle § 103/104) může ztížit identifikaci; nutná řádná evidence převzatého.
+
+#### H. Praktický závěr
+
+Notář, který převzal agendu uvolněného (§ 103) či zrušeného (§ 104) úřadu, vstupuje do plné role: vydává z převzatých zápisů a spisů stejnopisy, opisy, výpisy a potvrzení a aplikuje režim nahlížení a zápůjčky (§ 95 a násl.). Zvláštní ochrana pořízení pro případ smrti platí i pro něj.
+
+**Checklist (přejímající notář / klient / soud):**
+- [ ] Byla agenda převzata podle § 103 nebo § 104 (legitimace přejímatele)?
+- [ ] Je požadovaná listina dohledatelná v převzaté agendě (soupis dle § 103/104)?
+- [ ] Při vydávání: jde o stejnopis/opis/výpis/potvrzení s náležitostmi dle § 90–93?
+- [ ] Při nahlížení/zápůjčce aplikovány § 95, 99, příp. § 96, 100?
+- [ ] U pořízení pro případ smrti respektována zvláštní ochrana (§ 99 odst. 2, § 100, § 101)?
+
+**Typicky rozhodné důkazy / podklady:** protokol o převzetí agendy a soupis převzatých zápisů/spisů, identifikace dotčeného notářského zápisu, žádosti jednotlivých subjektů, případná žádost oprávněného orgánu o zápůjčku.
 
 ---
 
