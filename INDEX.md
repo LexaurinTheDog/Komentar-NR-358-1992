@@ -75,6 +75,10 @@ Aktuální znění k **1. 4. 2025** (zdroj: lokální výtah z e-Sbírky; konsol
 
 > **Poznámka:** Notářský stav je doménou s rychlým vývojem (elektronizace, NZ na dálku, AML, GDPR). Tento komentář popisuje stav k 1. 4. 2025.
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
