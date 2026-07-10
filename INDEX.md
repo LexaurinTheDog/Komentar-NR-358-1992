@@ -74,3 +74,7 @@ Aktuální znění k **1. 4. 2025** (zdroj: lokální výtah z e-Sbírky; konsol
 ---
 
 > **Poznámka:** Notářský stav je doménou s rychlým vývojem (elektronizace, NZ na dálku, AML, GDPR). Tento komentář popisuje stav k 1. 4. 2025.
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
