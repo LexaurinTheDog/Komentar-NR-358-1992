@@ -93,6 +93,54 @@ Ustanovení definuje notáře a notářský úřad jako personální a instituci
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f423b21884eadbceeb72 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 1
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notář je fyzická osoba splňující předpoklady podle tohoto zákona, kterou stát pověřil notářským úřadem.
+>
+> (2) Notářským úřadem se rozumí soubor pravomocí k výkonu notářství a další činnosti stanovené zákonem (dále jen „činnost notáře“) trvale spojený s místem výkonu této činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f423b21884eadbceeb72 -->
+
 ### § 2 — Notářská činnost a její nestrannost
 
 > **§ 2**
@@ -164,6 +212,52 @@ Notář vykonává tři typy úkonů (sepisování veřejných listin, osvědčo
 **Typicky rozhodné důkazy / podklady:** notářský zápis se záznamem o poučení, identifikace účastníků, podklady o hodnotě a obsahu právního jednání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f50195ebb10973015205 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 2
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> Výkonem notářství se rozumí sepisování veřejných listin o právních jednáních, osvědčování právně významných skutečností a prohlášení, přijímání listin a peněz do notářské úschovy (dále jen „notářská činnost“). Notářskou činnost vykonává notář nestranně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f50195ebb10973015205 -->
 
 ### § 3 — Další činnost notáře
 
@@ -261,6 +355,74 @@ Další činnost rozšiřuje působnost notáře nad rámec § 2, ale zastupová
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d1a88f82484cc5068d9c generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 3
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notář může v souvislosti s notářskou činností v rámci další činnosti poskytovat tyto právní služby:
+>
+> - a) udělovat právní porady a zastupovat v jednání s fyzickými a právnickými osobami a v řízení před orgány veřejné moci; před soudy jen v řízeních podle [[části páté|části páté]] [[občanského soudního řádu|občanského soudního řádu]], ve věcech veřejných rejstříků a ve věcech podle zákona o zvláštních řízeních soudních s výjimkou
+>
+> - 1. řízení o pozůstalosti, v němž vykonává činnost soudního komisaře,
+>
+> - 2. řízení ve věcech kapitálového trhu,
+>
+> - 3. řízení o předběžném souhlasu s provedením šetření ve věcech ochrany hospodářské soutěže,
+>
+> - 4. řízení o nahrazení souhlasu zástupce České advokátní komory k seznámení se s obsahem listin,
+>
+> - 5. řízení o plnění povinností z předběžného opatření Evropského soudu pro lidská práva,
+>
+> - 6. řízení o soudním prodeji zástavy,
+>
+> - 7. řízení ve věcech rodinněprávních vyjma péče soudu o nezletilé a výkonu rozhodnutí ve věcech péče soudu o nezletilé a
+>
+> - b) sepisovat soukromé listiny a zpracovávat právní rozbory.
+>
+> (2) Notář může vykonávat správu majetku a zastupovat v této souvislosti.
+>
+> (3) Notář může též vykonávat funkci insolvenčního správce, předběžného insolvenčního správce, zástupce insolvenčního správce, odděleného insolvenčního správce a zvláštního insolvenčního správce v insolvenčním řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d1a88f82484cc5068d9c -->
+
 ### § 4 — Jiná činnost stanovená zákonem
 
 > **§ 4**
@@ -324,6 +486,52 @@ Zákon umožňuje svěřit notáři další úkoly zvláštními zákony; jsou-l
 **Typicky rozhodné důkazy / podklady:** notářský zápis, doklad o provedení zápisu do rejstříku, příslušný zvláštní zákon, pojistná smlouva notáře.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9a636410fafe8e6e9ccd generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 4
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> V rámci další činnosti notář vykonává i jinou činnost, stanoví-li tak tento zákon nebo zvláštní zákon.2) Je-li jinou činností provádění zápisů do Rejstříku zástav, veřejného rejstříku nebo veřejného seznamu, považuje se za notářskou činnost; to platí i pro provádění zápisů do evidence podle zvláštního právního předpisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9a636410fafe8e6e9ccd -->
 
 ### § 5 — Úplatnost, nezávislost a neslučitelnost
 
@@ -406,6 +614,54 @@ Notář vykonává činnost za úplatu (kogentní tarif) a nezávisle; jiná vý
 **Typicky rozhodné důkazy / podklady:** přehled majetku a způsobu jeho správy, doklady o rozsahu vedlejší činnosti, výpis z evidence funkcí, sdělení komory.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=eca126df2006a3b25a62 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 5
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Činnost notáře vykonává notář za úplatu a při jejím výkonu je nezávislý, nestanoví-li v činnosti notáře podle [[#§ 4|§ 4]] zvláštní zákon jinak.
+>
+> (2) Činnost notáře je neslučitelná s jinou výdělečnou činností s výjimkou správy vlastního majetku. Notář však může vykonávat funkci poslance, senátora nebo zastupitele obecního nebo krajského zastupitelstva a i za úplatu činnost vědeckou, publikační, pedagogickou, tlumočnickou, znaleckou, uměleckou a činnost v poradních orgánech vlády, ministerstev, jiných ústředních orgánů státní správy a v orgánech samosprávy, a činnost zapsaného mediátora podle zákona o mediaci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eca126df2006a3b25a62 -->
 
 ### § 6 — Veřejná listina
 
@@ -508,6 +764,54 @@ Veřejná listina je jádrem notářství: poskytuje zvýšenou důkazní sílu 
 **Typicky rozhodné důkazy / podklady:** stejnopis notářského zápisu, doložka o svolení k vykonatelnosti, kvalifikovaný podpis a časové razítko u elektronické formy, evidence ve Sbírce dokumentů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5b58165e19fb00db1d68 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 6
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notářské zápisy a jejich stejnopisy, výpisy z notářských zápisů a podle tohoto zákona sepsané listiny o ověření (dále jen „notářské listiny“) jsou veřejnými listinami, jestliže splňují náležitosti stanovené pro ně tímto zákonem.
+>
+> (2) Notářské listiny podle tohoto zákona se sepisují v listinné podobě; stanoví-li tak tento zákon, lze je sepsat také v elektronické podobě. Veřejné listiny sepisované notářem podle zvláštního právního předpisu lze sepsat v listinné nebo elektronické podobě, s výjimkou sepisování veřejných listin podle zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5b58165e19fb00db1d68 -->
 
 ## Část druhá — Notář (§§ 7–28)
 
@@ -627,6 +931,70 @@ Jmenování notářem vyžaduje pět kumulativních předpokladů; praxe a zkou�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d60b17fb0d5fe2c88817 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 7
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notářem může být jmenován státní občan členského státu Evropské unie, jiného státu tvořícího Evropský hospodářský prostor nebo Švýcarské konfederace, který
+>
+> - a) je plně svéprávný,
+>
+> - b) získal vysokoškolské vzdělání v oboru právo
+>
+> - 1. v magisterském studijním programu právo a právní věda studiem na vysoké škole v České republice, nebo
+>
+> - 2. studiem na vysoké škole v zahraničí, pokud je takové vzdělání v České republice uznáváno za rovnocenné vzdělání uvedenému v bodě 1 na základě mezinárodní smlouvy, kterou je Česká republika vázána, anebo pokud takové vzdělání bylo uznáno podle zvláštního právního předpisu, a současně takové vzdělání odpovídá obsahem a rozsahem obecnému vzdělání, které lze získat v magisterském studijním programu právo a právní věda v oboru právo na vysoké škole v České republice,
+>
+> - c) je bezúhonný,
+>
+> - d) vykonal alespoň pětiletou notářskou praxi a
+>
+> - e) složil notářskou zkoušku.
+>
+> (2) Notářskou praxí se rozumí praxe notáře, notářského kandidáta a notářského koncipienta podle tohoto zákona a praxe státního notáře a notářského čekatele podle dřívějších předpisů. Do notářské praxe Notářská komora České republiky (dále jen „Komora“) započte zcela praxi soudce, prokurátora, státního zástupce, advokáta, komerčního právníka, soudního exekutora, soudce Ústavního soudu, asistenta soudce Ústavního soudu nebo Nejvyššího soudu a Nejvyššího správního soudu, exekutorského kandidáta, justičního čekatele, justičního kandidáta, asistenta soudce, asistenta veřejného ochránce práv, asistenta státního zástupce, právního čekatele prokuratury, právního čekatele státního zastupitelství, advokátního koncipienta, exekutorského koncipienta nebo právního čekatele u komerčního právníka, činnost zaměstnance Ministerstva spravedlnosti (dále jen „ministerstvo“), který získal vysokoškolské vzdělání v rámci magisterského studijního programu v oblasti práva na vysoké škole a který se samostatně podílí na tvorbě návrhů obecně závazných právních předpisů; do notářské praxe ministr spravedlnosti (dále jen „ministr“) na návrh Komory z jiné právní praxe může započítat nejvýše 2 roky.
+>
+> (3) Notářskou zkouškou se rozumí notářská zkouška podle tohoto zákona a notářská zkouška podle dřívějších předpisů. Za osobu, která složila notářskou zkoušku, se považuje i ten, kdo složil odbornou justiční zkoušku, soudcovskou zkoušku, jednotnou soudcovskou zkoušku, jednotnou soudcovskou a advokátní zkoušku, prokurátorskou zkoušku, odbornou závěrečnou zkoušku právních čekatelů, advokátní zkoušku, exekutorskou zkoušku a profesní zkoušku na komerčního právníka.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d60b17fb0d5fe2c88817 -->
+
 ### § 8 — Jmenování notáře a notářský úřad
 
 > **§ 8**
@@ -719,6 +1087,62 @@ Notáře jmenuje ministr na návrh komory z konkursu; počet úřadů je pevný 
 **Typicky rozhodné důkazy / podklady:** vyhlášení a výsledky konkursu, návrh komory, rozhodnutí ministra o jmenování, souhlas komory se změnou sídla.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3a5400698d72b758a86d generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 8
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notáře jmenuje ministr na návrh Komory do notářského úřadu.
+>
+> (2) Počet notářských úřadů v obvodu každého okresního soudu stanoví ministr po vyjádření Komory.
+>
+> (3) Notářský úřad zřizuje a ruší ministr po vyjádření Komory. Notářský úřad je určen jménem a příjmením notáře v rámci okresního soudu.
+>
+> (4) Sídlem notářského úřadu je sídlo okresního soudu, v jehož obvodu byl zřízen. Se souhlasem příslušné notářské komory může notář změnit sídlo notářského úřadu v rámci obvodu okresního soudu.
+>
+> (5) Notářský úřad lze zrušit jen tehdy, jestliže notář jmenovaný do notářského úřadu byl odvolán nebo zemřel.
+>
+> (6) Komora předloží návrh podle odstavce 1 na základě výsledků konkursu, který vyhlašuje a organizuje. Komora zařadí do konkursu na základě přihlášky každého, kdo splňuje předpoklady stanovené v § 7 odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3a5400698d72b758a86d -->
 
 ### § 9 — Předpoklady zahájení činnosti, slib, razítko
 
@@ -821,6 +1245,74 @@ Notář smí zahájit činnost teprve po splnění všech čtyř předpokladů (
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f6f4d889ec1782b7258b generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 9
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Předpokladem zahájení činnosti notáře je
+>
+> - a) jmenování notářem,
+>
+> - b) složení slibu do rukou ministra, pokud již dříve slib neskládal,
+>
+> - c) pořízení úředního razítka notáře,
+>
+> - d) uzavření smlouvy o pojištění odpovědnosti za újmu, která by mohla vzniknout v souvislosti s touto činností.
+>
+> (2) Slib zní:
+>
+> „Slibuji na svou čest a svědomí, že v činnosti notáře budu zachovávat ústavní a jiné zákony a obecně závazné právní předpisy a budu zachovávat mlčenlivost. V notářské činnosti budu postupovat nestranně a nezávisle.“.
+>
+> (3) Úřední razítko notáře obsahuje:
+>
+> - a) jeho jméno, příjmení, případně akademický titul,
+>
+> - b) označení „notář“,
+>
+> - c) sídlo notářského úřadu,
+>
+> - d) malý státní znak České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f6f4d889ec1782b7258b -->
+
 ### § 10 — Pozastavení výkonu činnosti
 
 > **§ 10**
@@ -898,6 +1390,64 @@ Pozastavení výkonu činnosti je buď fakultativní (trestní stíhání, říz
 **Typicky rozhodné důkazy / podklady:** usnesení o zahájení trestního stíhání, doklad o výkonu neslučitelné funkce, rozhodnutí ministra o pozastavení, ustanovení náhradníka.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f4c0aa38c56eaf6c62c4 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 10
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Ministr může pozastavit notáři výkon činnosti notáře, jestliže
+>
+> - a) bylo proti němu zahájeno trestní stíhání za úmyslný trestný čin nebo za trestný čin související s činností notáře, a to až do pravomocného skončení trestního řízení,
+>
+> - b) bylo zahájeno řízení o omezení svéprávnosti notáře, a to až do pravomocného rozhodnutí, kterým se toto řízení končí,
+>
+> - c) byl zahájen postup podle [[#§ 51|§ 51]].
+>
+> (2) Ministr pozastaví notáři výkon činnosti notáře
+>
+> - a) po dobu výkonu trestu odnětí svobody, jestliže nejsou dány důvody pro jeho odvolání,
+>
+> - b) po dobu výkonu činnosti neslučitelné s činností notáře, nejdéle však nepřetržitě po dobu 4 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 51
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f4c0aa38c56eaf6c62c4 -->
 
 ### § 11 — Odvolání notáře
 
@@ -1017,6 +1567,72 @@ Důvody odvolání tvoří uzavřený taxativní výčet a odvolání je obligat
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9b1b6e86625f6cc4ad96 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 11
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> Ministr odvolá notáře
+>
+> - a) na jeho žádost,
+>
+> - b) jestliže odmítl složit slib,
+>
+> - c) ke dni 31. prosince kalendářního roku, v němž dosáhne 70 let,
+>
+> - d) jestliže pozbyl státní občanství členského státu Evropské unie, jiného státu tvořícího Evropský hospodářský prostor nebo Švýcarské konfederace,
+>
+> - e) jestliže byl omezen ve svéprávnosti,
+>
+> - f) jestliže byl odsouzen pro úmyslný trestný čin nebo pro trestný čin spáchaný v souvislosti s činností notáře,
+>
+> - g) jestliže zaniklo jeho pojištění odpovědnosti za újmu podle § 9 odst. 1 písm. d) a notář ho i přes upozornění notářské komory ([[#§ 29|§ 29]]) ve stanovené lhůtě neobnoví,
+>
+> - h) jestliže notář tři měsíce po složení slibu nebo ode dne jeho jmenování, složil-li slib před svým jmenováním, bez vážných důvodů nezačne vykonávat činnost notáře,
+>
+> - i) jestliže pravomocným rozhodnutím kárné komise bylo zjištěno, že jeho zdravotní stav mu trvale neumožňuje řádně vykonávat činnost notáře,
+>
+> - j) jestliže vykonává činnost neslučitelnou s činností notáře nepřetržitě po dobu delší než 4 roky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 29
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9b1b6e86625f6cc4ad96 -->
+
 ### § 12 — Sídlo notáře a notářská kancelář
 
 > **§ 12**
@@ -1077,6 +1693,54 @@ Notář vykonává činnost zejména v kanceláři ve svém sídle, může však
 **Typicky rozhodné důkazy / podklady:** zápis kanceláře v evidenci notářů, oznámení o zavedení/zrušení úředního dne, evidence úředních dnů vedená komorami.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6221dc793ed5ed1d12d1 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 12
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Sídlem notáře je sídlo notářského úřadu, do kterého byl jmenován. Ve svém sídle zřídí notář pro výkon činnosti notáře notářskou kancelář, zapsanou v evidenci notářů vedené příslušnou notářskou komorou.
+>
+> (2) Notář může zavést úřední dny mimo notářskou kancelář i mimo své sídlo. Zavedení úředního dne a jeho zrušení je povinen oznámit Komoře a notářské komoře, v jejímž obvodu má své sídlo. Komora a notářská komora vedou evidenci zavedených úředních dnů a evidenci jejich zrušení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6221dc793ed5ed1d12d1 -->
 
 ### § 13 — Místo výkonu činnosti, sdružení notářů
 
@@ -1147,6 +1811,58 @@ Notáři stejného sídla se mohou písemně sdružit ke společnému výkonu č
 **Typicky rozhodné důkazy / podklady:** písemná smlouva o sdružení, oznámení komorám, podpisová doložka notáře společníka na listině.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=666e78169ccd27c47882 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 13
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notář vykonává činnost notáře zpravidla v notářské kanceláři a během úředních dnů také v místě jejich konání. Notář může jednotlivé úkony provádět i na jiném místě. Na jiném místě notář jednotlivý úkon provede, je-li to nutné.
+>
+> (2) Notáři, kteří jsou členy stejné notářské komory, a notáři, kteří mají stejné sídlo, se mohou sdružit jako společníci za účelem společného výkonu činnosti notáře nebo za společným účelem věci. Smlouva, kterou se notáři zaváží sdružit za účelem společného výkonu činnosti notáře, musí mít písemnou formu.
+>
+> (3) Notáři, kteří se sdružili jako společníci podle odstavce 2 za účelem společného výkonu činnosti notáře (dále jen „notář společník“), se v činnosti notáře vzájemně zastupují. Při zastupování notář společník vykonává činnost notáře jménem zastoupeného notáře společníka. Podepisuje se svým jménem a současně uvede, kterého notáře společníka zastupuje. Používá své úřední razítko notáře.
+>
+> (4) Notáři společníci jsou povinni sdružení se za účelem společného výkonu činnosti notáře oznámit Komoře a notářské komoře, jejímiž jsou členy. Oznamovací povinnost platí i ohledně zániku společnosti; je-li notářů společníků více než dva, i ohledně vystoupení notáře společníka ze společnosti nebo jeho vyloučení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=666e78169ccd27c47882 -->
 
 ### Oddíl druhý — Zástupce a náhradník notáře
 
@@ -1240,6 +1956,60 @@ Při dočasné nepřítomnosti notáře nad jeden měsíc bez společníka/kandi
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=35bf60caa23ac0a580ea generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 14
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Jestliže notář nevykonává činnost notáře po dobu delší než jeden měsíc a není zastoupen notářem společníkem nebo notářským kandidátem (dále jen „kandidát“) podle [[#§ 24|§ 24]], notářská komora, jejímž je členem, mu ustanoví zástupce a rozhodne o výši podílu zástupce na odměně notáře. Proti tomuto rozhodnutí lze podat opravný prostředek k soudu.3)
+>
+> (2) Notářská komora ustanoví zástupce z řad kandidátů v pracovním poměru u notáře, nejsou-li, z řad notářů se sídlem v rámci obvodu okresního soudu, v jehož obvodu je sídlo notáře, jemuž je zástupce ustanovován, nebo kandidátů u nich v pracovním poměru, a nejsou-li, anebo nesouhlasí-li se svým ustanovením žádný z nich nebo není souhlas podle věty třetí k ustanovení žádného kandidáta, tak z řad jiných notářů, kteří jsou členy notářské komory. K ustanovení zástupce je třeba jeho písemného souhlasu. K ustanovení zástupce z řad kandidátů je třeba také písemného souhlasu notáře, u něhož je kandidát v pracovním poměru.
+>
+> (3) Notářská komora ustanoví notáři zástupce bez zbytečného odkladu na jeho návrh, je-li podán před uplynutím doby podle odstavce 1; není-li podán, tak bez návrhu, jakmile se dozví, že notář činnost notáře po dobu podle odstavce 1 nevykonává.
+>
+> (4) Jestliže notář zemřel nebo byl odvolán, notářská komora, jejímž byl členem, nebo Komora v případě postupu podle odstavce 5 ustanoví na dobu, kdy je notářský úřad uvolněn, náhradníka notáře (dále jen „náhradník“). Náhradník se ustanoví obdobně na dobu pozastavení výkonu činnosti notáře podle [[#§ 10|§ 10]]. K ustanovení náhradníka je třeba jeho písemného souhlasu.
+>
+> (5) Náhradníka ustanoví notářská komora z řad notářů se sídlem v rámci obvodu okresního soudu, v jehož obvodu je sídlo uvolněného notářského úřadu; nejsou-li nebo nesouhlasí-li se svým ustanovením žádný z nich, z řad jiných notářů, kteří jsou jejími členy. Nesouhlasí-li se svým ustanovením žádný takový notář, ustanoví náhradníkem kteréhokoli notáře Komora.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 10
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=35bf60caa23ac0a580ea -->
+
 ### § 15 — Předpoklady výkonu zástupce a náhradníka
 
 > **§ 15**
@@ -1291,6 +2061,54 @@ Kandidát ustanovený zástupcem smí vykonávat činnost teprve po složení sl
 **Typicky rozhodné důkazy / podklady:** záznam o složení slibu, pojistná smlouva náhradníka, rozhodnutí komory o ustanovení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e34096552c4d7af73ddd generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 15
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Je-li zástupcem ustanoven kandidát, je předpokladem jeho výkonu činnosti notáře složení slibu do rukou ministra (§ 9 odst. 2), pokud již dříve slib neskládal.
+>
+> (2) Předpokladem výkonu činnosti notáře náhradníkem je dále uzavření smlouvy o pojištění odpovědnosti za újmu, která by mohla vzniknout v souvislosti s touto činností.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e34096552c4d7af73ddd -->
 
 ### § 16 — Výkon zastoupení a náhradnictví
 
@@ -1355,6 +2173,54 @@ Zástupce jedná jménem zastoupeného notáře (kandidát s jeho razítkem), n�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=38bb3099f1f786dc7209 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 16
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Zástupce zastupuje notáře při výkonu činnosti notáře zejména v úkonech, které nesnesou odkladu. Tuto činnost vykonává jménem zastoupeného notáře. Podepisuje se svým jménem a současně uvede, kterého notáře zastupuje. Jestliže je zástupcem notář, používá svého úředního razítka notáře. Jestliže je zástupcem kandidát, používá úředního razítka notáře, kterého zastupuje. Zastoupený notář nemůže v době zastoupení vykonávat činnost notáře.
+>
+> (2) Náhradník vykonává činnost notáře svým jménem; tuto činnost vykonává zejména v úkonech, které nesnesou odkladu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=38bb3099f1f786dc7209 -->
+
 ### Oddíl třetí — Pracovníci notáře
 
 ### § 17 — Notářský koncipient — definice
@@ -1409,6 +2275,54 @@ Notářský koncipient je vstupní pozicí v profesi a jeho status vzniká až z
 **Typicky rozhodné důkazy / podklady:** výpis ze seznamu notářských koncipientů, pracovní smlouva s notářem, oznámení komory o zápisu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=14e0edcfa97300b9d02b generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 17
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notářský koncipient (dále jen „koncipient“) je ten, kdo je zapsán v seznamu notářských koncipientů.
+>
+> (2) Seznam notářských koncipientů vede notářská komora, v jejímž obvodu má sídlo notář, u něhož je koncipient v pracovním poměru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=14e0edcfa97300b9d02b -->
 
 ### § 18 — Zápis do seznamu notářských koncipientů
 
@@ -1482,6 +2396,70 @@ Komora musí zapsat každého žadatele splňujícího zákonné podmínky do dv
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=94d407660b042c638c46 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 18
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notářská komora zapíše do dvou měsíců ode dne doručení písemné žádosti do seznamu notářských koncipientů každého, kdo
+>
+> - a) je státním občanem členského státu Evropské unie, jiného státu tvořícího Evropský hospodářský prostor nebo Švýcarské konfederace,
+>
+> - b) je plně svéprávný,
+>
+> - c) získal vysokoškolské vzdělání v oboru právo
+>
+> - 1. v magisterském studijním programu právo a právní věda studiem na vysoké škole v České republice, nebo
+>
+> - 2. studiem na vysoké škole v zahraničí, pokud je takové vzdělání v České republice uznáváno za rovnocenné vzdělání uvedenému v bodě 1 na základě mezinárodní smlouvy, kterou je Česká republika vázána, anebo pokud takové vzdělání bylo uznáno podle zvláštního právního předpisu, a současně takové vzdělání odpovídá obsahem a rozsahem obecnému vzdělání, které lze získat v magisterském studijním programu právo a právní věda v oboru právo na vysoké škole v České republice,
+>
+> - d) je bezúhonný a
+>
+> - e) je v pracovním poměru u notáře.
+>
+> (2) Notářská komora oznámí provedení zápisu podle odstavce 1 koncipientovi a notáři, u něhož je koncipient v pracovním poměru.
+>
+> (3) Ten, kdo nebyl ve stanovené době zapsán do seznamu notářských koncipientů, má právo se domáhat provedení zápisu návrhem u soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=94d407660b042c638c46 -->
+
 ### § 19 — Pověření koncipienta úkony
 
 > **§ 19**
@@ -1552,6 +2530,60 @@ Notář může koncipienta písemně pověřit širokou škálou technických ú
 **Typicky rozhodné důkazy / podklady:** písemné pověření koncipienta, ověřovací doložka, doklad o povaze úkonu (tuzemský vs. do ciziny), pojistná smlouva notáře.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=34c49a9626f6cb8c7a9c generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 19
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> Notář může koncipienta písemně pověřit
+>
+> - a) vydáváním stejnopisů, opisů nebo ověřených opisů a výpisů z notářských zápisů, vydáváním potvrzení podle [[#§ 94|§ 94]], ověřováním shody opisu nebo kopie (dále jen „opis“) s listinou (dále jen „vidimace“), ověřováním pravosti podpisu (dále jen „legalizace“) s výjimkou vidimací a legalizací ve vztahu k cizině, vydáváním ověřených výstupů z informačního systému veřejné správy podle zvláštního právního předpisu2a), vydáváním opisů nebo potvrzení z Evidence právních jednání pro případ smrti podle § 35c odst. 3, vydáváním opisů, výpisů nebo potvrzení z Rejstříku zástav podle § 35i odst. 1, vydáváním opisů nebo potvrzení ze Seznamu listin o manželském majetkovém režimu podle § 35l odst. 2, vydáváním výpisů z evidence Rejstříku trestů, prováděním autorizované konverze dokumentů, prováděním úkonů kontaktního místa podle zvláštního právního předpisu3a), a dále přijímáním úschov,
+>
+> - b) jednotlivými úkony v činnosti podle § 3 odst. 1,
+>
+> - c) přípravnými a dílčími úkony činnosti podle [[#§ 2|§ 2]] a § 3 odst. 2,
+>
+> - d) výkonem dalších úkonů nebo činností, stanoví-li tak tento zákon nebo zvláštní právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 94, § 35c, § 35i, § 35l, § 3, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=34c49a9626f6cb8c7a9c -->
 
 ### § 20 — Vyškrtnutí ze seznamu koncipientů
 
@@ -1626,6 +2658,70 @@ Komora vyškrtne koncipienta jen z taxativně uvedených důvodů (úmrtí, ztr�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0314d3c1669d7573390d generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 20
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notářská komora vyškrtne ze seznamu notářských koncipientů toho,
+>
+> - a) kdo zemřel nebo kdo byl prohlášen za mrtvého,
+>
+> - b) kdo pozbyl státní občanství členského státu Evropské unie, jiného státu tvořícího Evropský hospodářský prostor nebo Švýcarské konfederace,
+>
+> - c) kdo byl omezen ve svéprávnosti,
+>
+> - d) kdo byl odsouzen pro úmyslný trestný čin nebo pro trestný čin spáchaný v souvislosti s činností koncipienta,
+>
+> - e) kdo písemně požádal notářskou komoru o vyškrtnutí z tohoto seznamu,
+>
+> - f) komu skončil pracovní poměr u notáře a neuzavřel pracovní poměr s notářem se sídlem v obvodu této notářské komory do tří měsíců od skončení předchozího pracovního poměru u notáře,
+>
+> - g) kdo byl zapsán do seznamu notářských kandidátů.
+>
+> (2) Notářská komora oznámí vyškrtnutí podle odstavce 1 koncipientovi a notáři, u něhož je koncipient v pracovním poměru.
+>
+> (3) Ten, kdo byl ze seznamu notářských koncipientů vyškrtnut, má právo domáhat se ochrany návrhem u soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0314d3c1669d7573390d -->
+
 ### § 21 — Notářský kandidát — definice
 
 > **§ 21**
@@ -1680,6 +2776,54 @@ Status notářského kandidáta vzniká **až zápisem** do seznamu vedeného p�
 **Typicky rozhodné důkazy / podklady:** výpis ze seznamu notářských kandidátů, doklad o složení notářské zkoušky, evidence praxe koncipienta, pracovní smlouva, písemné pověření notáře.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0b11b91e33328a922eac generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 21
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Kandidát je ten, kdo je zapsán v seznamu notářských kandidátů.
+>
+> (2) Seznam notářských kandidátů vede notářská komora, v jejímž obvodu má sídlo notář, u něhož je kandidát v pracovním poměru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0b11b91e33328a922eac -->
 
 ### § 22 — Zápis do seznamu notářských kandidátů
 
@@ -1763,6 +2907,66 @@ Zápis kandidáta vyžaduje předpoklady koncipienta, tříletou praxi a notář
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=51ffdda510e46e7d8ea8 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 22
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notářská komora zapíše do dvou měsíců ode dne doručení písemné žádosti do seznamu notářských kandidátů každého, kdo
+>
+> - a) splňuje předpoklady stanovené v § 18 odst. 1,
+>
+> - b) vykonal alespoň tříletou notářskou praxi (§ 7 odst. 2) a
+>
+> - c) složil notářskou zkoušku.
+>
+> (2) K notářské zkoušce musí být připuštěn každý, kdo splňuje předpoklady stanovené v odstavci 1 písm. a) a b). Notářské zkoušky se konají alespoň jednou ročně.
+>
+> (3) Do doby notářské praxe koncipienta se započítává dovolená čerpaná v době trvání této praxe. Nevykonává-li koncipient notářskou praxi z důvodu překážek v práci na jeho straně nebo z důvodu omluvené nepřítomnosti v práci, započítávají se mu tyto doby do doby notářské praxe nejvýše v rozsahu 70 pracovních dnů v každém roce jejího trvání.
+>
+> (4) Notářská komora oznámí provedení zápisu podle odstavce 1 kandidátovi a notáři, u něhož je kandidát v pracovním poměru.
+>
+> (5) Ten, kdo nebyl ve stanovené době zapsán do seznamu notářských kandidátů, má právo se domáhat provedení zápisu návrhem u soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18, § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=51ffdda510e46e7d8ea8 -->
+
 ### § 23 — Pověření kandidáta úkony
 
 > **§ 23**
@@ -1838,6 +3042,62 @@ Kandidát má širší oprávnění než koncipient, ale nesmí sepisovat notá�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=79115ce5648f9db620ea generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 23
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> Notář může kandidáta písemně pověřit
+>
+> - a) sepisováním notářských zápisů o právních jednáních, není-li forma notářského zápisu stanovena pro právní jednání zvláštním právním předpisem, sepisováním notářských zápisů podle [[#§ 71b|§ 71b]], osvědčováním právně významných skutečností a prohlášení, nejde-li o osvědčování rozhodnutí orgánů právnické osoby, vydáváním stejnopisů, opisů nebo ověřených opisů a výpisů z notářských zápisů, vydáváním potvrzení podle [[#§ 94|§ 94]], přijímáním a vydáváním úschov, vydáváním ověřených výstupů z informačního systému veřejné správy podle zvláštního právního předpisu2a), prováděním zápisů a výmazů do Rejstříku zástav, vydáváním opisů nebo potvrzení z Evidence právních jednání pro případ smrti podle § 35c odst. 3, vydáváním opisů, výpisů nebo potvrzení z Rejstříku zástav podle § 35i odst. 1, vydáváním opisů nebo potvrzení ze Seznamu listin o manželském majetkovém režimu podle § 35l odst. 2, vydáváním výpisů z evidence Rejstříku trestů, prováděním autorizované konverze dokumentů a prováděním úkonů kontaktního místa podle zvláštního právního předpisu3a),
+>
+> - b) přípravnými a dílčími úkony v ostatní notářské činnosti,
+>
+> - c) výkonem činnosti podle § 3 odst. 1,
+>
+> - d) jednotlivými úkony v činnosti podle § 3 odst. 2,
+>
+> - e) výkonem dalších úkonů nebo činností, stanoví-li tak tento zákon nebo zvláštní právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71b, § 94, § 35c, § 35i, § 35l, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=79115ce5648f9db620ea -->
+
 ### § 24 — Kandidát jako trvalý zástupce
 
 > **§ 24**
@@ -1902,6 +3162,54 @@ Kandidát zaměstnaný u notáře může být na návrh notáře ustanoven komor
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2639ca966245b0e5758a generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 24
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Kandidát může být na návrh notáře, u kterého je v pracovním poměru, ustanoven příslušnou notářskou komorou, aby ho zastupoval při výkonu činnosti notáře s výjimkou činnosti podle § 3 odst. 3. Tuto činnost kandidát vykonává jménem zastoupeného notáře, podepisuje svým jménem a používá úřední razítko notáře, kterého zastupuje. Pro toto zastupování se použije přiměřeně § 15 odst. 1. Notářská komora zruší ustanovení kandidáta zástupcem, a to na návrh notáře nebo ustanoveného kandidáta. Notářská komora na návrh notáře ustanovení kandidáta zástupcem zruší.
+>
+> (2) Jestliže notář nevykonává činnost notáře po dobu delší než jeden měsíc, rozhodne příslušná notářská komora o výši podílu kandidáta ustanoveného zástupcem podle odstavce 1 na odměně notáře. Proti tomuto rozhodnutí lze podat opravný prostředek k soudu.3)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2639ca966245b0e5758a -->
+
 ### § 25 — Vyškrtnutí ze seznamu kandidátů
 
 > **§ 25**
@@ -1955,6 +3263,56 @@ Kandidát se vyškrtává ze stejných důvodů jako koncipient kromě postupu d
 **Typicky rozhodné důkazy / podklady:** výpis ze seznamu kandidátů, doklad o zániku pracovního poměru, rozhodnutí o jmenování notářem, oznámení komory o vyškrtnutí, případné podání k soudu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ac104c779c7cccc3fcec generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 25
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notářská komora vyškrtne kandidáta ze seznamu notářských kandidátů z důvodů uvedených v § 20 odst. 1 písm. a) až f).
+>
+> (2) Notářská komora oznámí vyškrtnutí podle odstavce 1 kandidátovi a notáři, u něhož je kandidát v pracovním poměru.
+>
+> (3) Ten, kdo byl ze seznamu notářských kandidátů vyškrtnut, má právo domáhat se ochrany návrhem u soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ac104c779c7cccc3fcec -->
 
 ### § 26 — Další pracovníci notáře
 
@@ -2022,6 +3380,56 @@ Další pracovník notáře (zpravidla bez právního vzdělání) může být b
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a02f3feb05ab0ba6da91 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 26 — Další pracovníci notáře
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notář může písemně pověřit další pracovníky, kteří jsou u něho v pracovním poměru, přípravnými a dílčími úkony v činnosti podle [[#§ 2|§ 2]] a [[#§ 3|3]]. Jestliže tito pracovníci složili kvalifikační zkoušku, notář je může pověřit i činností vymezenou v [[#§ 19|§ 19]] s výjimkou jednotlivých úkonů podle § 3 odst. 1.
+>
+> (2) Ke kvalifikační zkoušce musí být připuštěn další pracovník notáře, který byl zaměstnán u notáře nebo u státního notářství alespoň 1 rok. Notářská komora může do této doby započítat dobu, po kterou byl tento pracovník zaměstnán u soudu, advokáta, krajského sdružení advokátů nebo u komerčního právníka.
+>
+> (3) Za kvalifikační zkoušku se považuje též odborná a jiná obdobná zkouška složená pracovníky státních notářství podle dřívějších předpisů. Notářská komora může uznat odbornou nebo jinou obdobnou zkoušku složenou pracovníky soudů, advokátů, krajského sdružení advokátů nebo komerčních právníků za kvalifikační zkoušku podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 3, § 19
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a02f3feb05ab0ba6da91 -->
+
 ### § 27 — Působnost pověřených pracovníků
 
 > **§ 27**
@@ -2084,6 +3492,54 @@ Pracovník se podepisuje **svým jménem** (transparentnost — kdo úkon skute�
 **Typicky rozhodné důkazy / podklady:** sporná listina s doložkou a razítkem, písemné pověření pracovníka, pojistná smlouva notáře, doklady k provedení úkonu (ověřovací kniha, doklady totožnosti), znalecké/odborné posouzení standardu úkonu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0edc55f479d89ecdf23f generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 27
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Činnost pracovníků notáře na základě jeho pověření podle [[#§ 19|§ 19]], [[#§ 23|23]] a § 26 odst. 1 se považuje za činnost notáře.
+>
+> (2) Při výkonu této činnosti se pracovník podepisuje svým jménem a používá úřední razítko notáře.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 19, § 23, § 26
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0edc55f479d89ecdf23f -->
 
 ### § 28 — Pojištění odpovědnosti za újmu pracovníků
 
@@ -2148,6 +3604,54 @@ Notář má vedle profesního pojištění podle § 9 samostatnou povinnost poji
 **Typicky rozhodné důkazy / podklady:** pojistná smlouva podle § 28 a podle § 9, pracovní smlouva, záznam o pracovním úrazu, doklad o plnění pracovních povinností v době úrazu, lékařské a škodní podklady.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9a106ed008697a29d1e7 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 28
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notář je povinen uzavřít smlouvu o pojištění své odpovědnosti za újmu vzniklou pracovníkům při plnění pracovních povinností nebo v přímé souvislosti s nimi, pokud zvláštní zákon nestanoví jinak. Pojištění musí trvat po celou dobu, po kterou notář pracovníky zaměstnává.
+>
+> (2) Pracovněprávní vztahy mezi notářem a jeho pracovníky se řídí zákoníkem práce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9a106ed008697a29d1e7 -->
 
 ## Část třetí — Notářská samospráva (§§ 29–44)
 
@@ -2245,6 +3749,60 @@ Notář je ze zákona členem té notářské komory, v jejímž obvodu má síd
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3d3d342a9bc392d5ee61 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 29
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Notářská komora se zřizuje v obvodu každého krajského soudu a v obvodu městského soudu v Praze.
+>
+> (2) Obvody a sídla notářských komor se shodují s obvody a sídly krajských soudů.
+>
+> (3) Obvod a sídlo notářské komory pro hlavní město Prahu se shoduje s obvodem a sídlem městského soudu v Praze.
+>
+> (4) Notářská komora sdružuje všechny notáře se sídlem v jejím obvodu. Notář se stává členem notářské komory dnem jeho jmenování notářem. Členství v notářské komoře zaniká jeho odvoláním nebo smrtí.
+>
+> (5) Notářská komora je právnickou osobou. Její příjmy tvoří členské příspěvky, dary a jiné příjmy. Členské příspěvky jsou notáři povinni platit ve výši stanovené kolegiem notářů (dále jen „kolegium“).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3d3d342a9bc392d5ee61 -->
+
 ### § 30 — Orgány notářské komory
 
 > **§ 30**
@@ -2315,6 +3873,60 @@ Notářská komora má taxativně čtyři orgány (kolegium, prezidium, preziden
 **Typicky rozhodné důkazy / podklady:** organizační řád komory, zápis z jednání kolegia, návrh na zřízení orgánu/tělesa, vymezení jeho působnosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=74d743a6162006067b0c generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 30
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> Notářská komora má tyto orgány:
+>
+> - a) kolegium,
+>
+> - b) prezidium,
+>
+> - c) prezidenta notářské komory (dále jen „prezident“),
+>
+> - d) revizní komisi.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=74d743a6162006067b0c -->
 
 ### § 31 — Kolegium notářů
 
@@ -2415,6 +4027,76 @@ Kolegium je nejvyšším orgánem komory; notáři hlasují (i v zastoupení na 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ea7d930823760519b678 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 31
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Nejvyšším orgánem notářské komory je kolegium.
+>
+> (2) Právo účastnit se jednání kolegia mají notáři a kandidáti z obvodu notářské komory; kandidáti mají jen poradní hlas. Notář může písemně pověřit jiného notáře, aby ho při jednání kolegia zastupoval a jeho jménem hlasoval. Zastoupený notář se považuje za přítomného na jednání kolegia.
+>
+> (3) Kolegium
+>
+> - a) z členů notářské komory volí a odvolává členy prezidia a revizní komise,
+>
+> - b) ze zvolených členů prezidia volí a odvolává prezidenta a viceprezidenta (dále jen „viceprezident“),
+>
+> - c) z členů notářské komory volí a odvolává delegáty notářské komory v Komoře (dále jen „delegáti“), a to jednoho delegáta na každých započatých 20 členů notářské komory,
+>
+> - d) ze zvolených členů revizní komise volí a odvolává předsedu této komise,
+>
+> - e) projednává a schvaluje zprávy o činnosti ostatních orgánů notářské komory,
+>
+> - f) schvaluje rozpočet a hospodaření notářské komory,
+>
+> - g) zřizuje sociální a jiné fondy a schvaluje pravidla jejich tvorby a používání,
+>
+> - h) stanoví výši členských příspěvků,
+>
+> - i) schvaluje výši náhrady za ztrátu času spojenou s výkonem funkcí v orgánech notářské komory,
+>
+> - j) může zrušit nebo změnit usnesení prezidia.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ea7d930823760519b678 -->
+
 ### § 32 — Prezidium notářské komory
 
 > **§ 32**
@@ -2486,6 +4168,66 @@ Prezidium řídí komoru mezi zasedáními kolegia; kolegium musí svolat nejmé
 **Typicky rozhodné důkazy / podklady:** žádost o svolání s podpisy a počtem členů, doklad o doručení prezidiu, pozvánka a zápis z kolegia, zpráva revizní komise, evidence notářů a hospodářské doklady.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a2eee9bcf2b69bea9f72 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 32
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Prezidium je řídícím a výkonným orgánem notářské komory; má pět až devět členů.
+>
+> (2) Prezidium
+>
+> - a) svolává kolegium nejméně jednou za rok; svolá kolegium do jednoho měsíce vždy, požádá-li o to alespoň jedna třetina členů notářské komory nebo požádá-li o to revizní komise,
+>
+> - b) vede evidenci notářů se sídlem v obvodu notářské komory,
+>
+> - c) hospodaří s finančními prostředky notářské komory a spravuje její majetek,
+>
+> - d) hospodaří s fondy notářské komory,
+>
+> - e) organizuje kvalifikační zkoušky a jmenuje členy zkušební komise,
+>
+> - f) vykonává působnost notářské komory stanovenou tímto zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a2eee9bcf2b69bea9f72 -->
 
 ### § 33 — Prezident notářské komory
 
@@ -2561,6 +4303,66 @@ Prezident reprezentuje komoru a řídí jednání jejích orgánů; uděluje sou
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1dae56d3fa44aa03dfe1 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 33
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Prezident
+>
+> - a) zastupuje notářskou komoru navenek a jedná jejím jménem ve všech věcech,
+>
+> - b) řídí jednání kolegia,
+>
+> - c) svolává prezidium nejméně jednou za tři měsíce; svolá prezidium do deseti dnů vždy, požádá-li o to jedna třetina členů prezidia nebo požádá-li o to revizní komise,
+>
+> - d) řídí jednání prezidia,
+>
+> - e) činí rozhodnutí v působnosti prezidia, která nesnesou odkladu; rozhodnutí musí být schválena při nejbližším jednání prezidia,
+>
+> - f) k žádosti notáře uděluje souhlas s jeho nepřítomností v notářském úřadu po dobu delší než jeden měsíc.
+>
+> (2) Prezidenta zastupuje viceprezident.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1dae56d3fa44aa03dfe1 -->
+
 ### § 34 — Revizní komise notářské komory
 
 > **§ 34**
@@ -2626,6 +4428,60 @@ Revizní komise (3 členové) je nezávislým kontrolním orgánem komory s prá
 **Typicky rozhodné důkazy / podklady:** zápisy a zjištění revizní komise, vyžádané doklady a doklad o jejich (ne)vydání, roční zpráva kolegiu, doklad o složení revizní komise a prezidia (neslučitelnost), usnesení kolegia.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=05216404923cccd65384 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 34
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Revizní komisi tvoří předseda a další dva členové.
+>
+> (2) Členství v revizní komisi je neslučitelné s členstvím v prezidiu.
+>
+> (3) Revizní komise
+>
+> - a) kontroluje plnění usnesení kolegia a činnost prezidia; za tím účelem musí být revizní komisi umožněn přístup ke všem dokladům notářské komory,
+>
+> - b) podává kolegiu nejméně jednou za rok zprávu o výsledcích kontrol.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=05216404923cccd65384 -->
 
 ### Oddíl druhý — Notářská komora České republiky
 
@@ -2695,6 +4551,56 @@ Notářská komora ČR je celostátní korporací tvořenou regionálními notá
 **Typicky rozhodné důkazy / podklady:** usnesení sněmu o výši příspěvku, evidence plateb regionální komory, organizační řád Komory, doklady o hospodaření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ce5f1960188fc6d832a4 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Zřizuje se Komora se sídlem v Praze.
+>
+> (2) Komoru tvoří notářské komory.
+>
+> (3) Komora je právnickou osobou. Její příjmy tvoří příspěvky notářských komor, dary a jiné příjmy. Notářské komory jsou povinny platit příspěvky ve výši stanovené sněmem Komory (dále jen „sněm“).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ce5f1960188fc6d832a4 -->
 
 ### § 35a–35o — Rejstříky, evidence a seznamy vedené Komorou
 
@@ -2824,6 +4730,980 @@ Komora provozuje centrální registry s veřejnoprávní garancí (zejména Rejs
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7a84183c7b98ce25913e generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Komora vede, provozuje a spravuje Rejstřík zástav, Sbírku dokumentů a tyto evidence a seznamy:
+>
+> - a) Evidenci právních jednání pro případ smrti,
+>
+> - b) Evidenci listin o manželském majetkovém režimu,
+>
+> - c) Seznam prohlášení o určení opatrovníka,
+>
+> - d) Seznam listin o manželském majetkovém režimu,
+>
+> - e) Evidenci ověřených podpisů.
+>
+> (2) Při zápisu, změně nebo výmazu údajů do Rejstříku zástav, Sbírky dokumentů, evidencí a seznamů podle odstavce 1 Komora a notáři využívají údaje vedené v základních registrech, popřípadě údaje vedené v agendových informačních systémech. S výjimkou údajů zapsaných ve Sbírce dokumentů a Evidenci ověřených podpisů vede Komora zapsané údaje aktualizované podle stavu vedeného v základních registrech.
+>
+> (3) Údaje ze základních registrů a údaje z agendových informačních systémů mohou notáři využívat také prostřednictvím informačního systému, který vede, spravuje a provozuje Komora.
+>
+> (4) Komora vede Rejstřík zástav, Sbírku dokumentů, evidence a seznamy v elektronické podobě. Komora stanoví předpisy postup při vedení, správě a provozu evidence, seznamu, Rejstříku zástav a Sbírky dokumentů a způsob určení náhrady hotových výdajů Komory spojených s vedením evidence, seznamu, Rejstříku zástav a Sbírky dokumentů.
+>
+> (5) V předpisu o Rejstříku zástav Komora stanoví zejména
+>
+> - a) postup a způsob zápisu údaje, jeho změny a výmazu,
+>
+> - b) jaké další údaje kromě údajů stanovených v tomto zákoně se do Rejstříku zástav zapisují,
+>
+> - c) kdo zapisuje údaje podle písmene b) do Rejstříku zástav,
+>
+> - d) postup a způsob vydávání opisů, výpisů a potvrzení z Rejstříku zástav,
+>
+> - e) postup a způsob uchovávání vymazaných údajů.
+>
+> (6) V předpisu o Evidenci právních jednání pro případ smrti Komora stanoví zejména
+>
+> - a) jaké údaje se do evidence zapisují,
+>
+> - b) postup a způsob zápisu údaje, jeho změny a výmazu,
+>
+> - c) v jakých případech zápis změny činí Komora,
+>
+> - d) způsob a postup poskytování sdělení a vydávání opisu zápisu nebo potvrzení,
+>
+> - e) postup a způsob uchovávání vymazaných údajů.
+>
+> (7) V předpisu o Evidenci listin o manželském majetkovém režimu Komora stanoví zejména
+>
+> - a) jaké údaje se do evidence zapisují,
+>
+> - b) postup a způsob zápisu údaje, jeho změny a výmazu,
+>
+> - c) v jakých případech zápis změny činí Komora.
+>
+> (8) V předpisu o Seznamu prohlášení o určení opatrovníka Komora stanoví zejména
+>
+> - a) postup a způsob zápisu údaje,
+>
+> - b) postup a způsob zápisu změny údaje a jeho výmazu,
+>
+> - c) jaké změny zápisu a jaké další údaje kromě údajů stanovených v tomto zákoně se do seznamu zapisují,
+>
+> - d) kdo zapisuje údaje podle písmen b) a c) do seznamu.
+>
+> (9) V předpisu o Seznamu listin o manželském majetkovém režimu Komora stanoví zejména
+>
+> - a) postup a způsob zápisu údaje,
+>
+> - b) postup a způsob zápisu změny údaje a jeho výmazu,
+>
+> - c) jaké změny zápisu a jaké další údaje kromě údajů stanovených v tomto zákoně se do seznamu zapisují,
+>
+> - d) kdo zapisuje údaje podle písmen b) a c) do seznamu,
+>
+> - e) postup a způsob vydávání opisů a potvrzení ze seznamu,
+>
+> - f) postup a způsob uchovávání vymazaných údajů.
+>
+> (10) V předpisu o Evidenci ověřených podpisů Komora stanoví zejména
+>
+> - a) postup a způsob zápisu údajů,
+>
+> - b) postup a způsob nahlížení do evidence.
+>
+> (11) V předpisu o Sbírce dokumentů Komora stanoví zejména
+>
+> - a) postup a způsob založení dokumentu a zápisu, změny nebo výmazu údajů o dokumentu,
+>
+> - b) jaké další údaje kromě údajů stanovených v tomto zákoně se o dokumentu evidují,
+>
+> - c) kdo zapisuje údaje podle písmen a) a b) do Sbírky dokumentů,
+>
+> - d) postup a způsob nahlížení do Sbírky dokumentů,
+>
+> - e) postup a způsob uchovávání vymazaných údajů.
+>
+> (12) Komora uchovává údaje vedené v Rejstříku zástav, Sbírce dokumentů a v evidenci a seznamu uvedených v odstavci 1 písm. a), d) a e) i po provedení výmazu, ledaže stanoví tento zákon jinak. Komora na písemnou žádost soudu nebo orgánů činných v trestním řízení poskytne informace ze souboru dat skončených věcí. Informace ze souboru dat obsahující údaje evidence uvedené v odstavci 1 písm. a) lze poskytnout pouze po úmrtí zůstavitele.
+>
+> (13) Komoře náleží odměna za sdělení podle § 35c odst. 2 osobě, která prokáže právní zájem, za provedení zápisu údaje nebo změny zápisu do Rejstříku zástav podle [[#§ 35h|§ 35h]] a za založení smlouvy o manželském majetkovém režimu do sbírky listin a zápis údajů uvedených v § 35j odst. 3 písm. a) do rejstříku Seznamu listin o manželském majetkovém režimu podle § 35k odst. 2. Komoře dále náleží náhrada hotových výdajů spojených s vedením, provozem a správou evidence, seznamu, Rejstříku zástav a Sbírky dokumentů, jednorázová náhrada hotových výdajů za zřízení dálkového a nepřetržitého přístupu k údajům z Rejstříku zástav a paušální roční náhrada hotových výdajů za poskytování údajů prostřednictvím tohoto přístupu orgánům veřejné moci.
+>
+> (14) Ministerstvo stanoví vyhláškou výši odměn, jednorázové náhrady hotových výdajů za zřízení dálkového a nepřetržitého přístupu k údajům z Rejstříku zástav a paušální roční náhrady hotových výdajů za poskytování údajů z Rejstříku zástav orgánům veřejné moci náležející Komoře.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35c, § 35h, § 35j, § 35k
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7a84183c7b98ce25913e -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=1f714841c1c5233d4fcb generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) V Evidenci právních jednání pro případ smrti se evidují listiny o těchto právních jednáních zůstavitele učiněných pro případ smrti:
+>
+> - a) závěti, dovětku, dědické smlouvě,
+>
+> - b) prohlášení o vydědění a prohlášení o tom, že dědic, jemuž svědčí zákonná dědická posloupnost, pozůstalosti nenabude,
+>
+> - c) přikázání započtení na dědický podíl, není-li takové přikázání obsaženo v závěti,
+>
+> - d) povolání správce pozůstalosti, není-li povolán v závěti,
+>
+> - e) smlouvě o zřeknutí se dědického práva,
+>
+> - f) zrušení právních jednání podle písmen a) až e).
+>
+> (2) Listiny o právním jednání zůstavitele pro případ smrti, které nemají formu notářského zápisu, se evidují jen, jsou-li v notářské úschově.
+>
+> (3) Listiny o povolání správce pozůstalosti a listiny o jejich zrušení jsou evidovány odděleně od ostatních evidovaných listin. Spolu s listinami o povolání správce pozůstalosti jsou evidovány závěti obsahující povolání vykonavatele závěti, má-li závěť, ve které je povolání vykonavatele obsaženo, formu notářského zápisu nebo je-li uložena v notářské úschově. V takovém případě je závěť evidována v obou oddělených evidencích. To platí i pro závěť, obsahuje-li povolání správce pozůstalosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f714841c1c5233d4fcb -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2e5d0959335583174237 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Zápisy údajů do Evidence právních jednání pro případ smrti provádí dálkovým přístupem bez zbytečného odkladu notář, který listiny o právních jednáních zůstavitele uvedených v § 35b odst. 1 přijal do notářské úschovy nebo o takovém právním jednání sepsal notářský zápis.
+>
+> (2) Komora sdělí soudu nebo jinému státnímu orgánu a osobě, která prokáže právní zájem, na jejich žádost, zda je či není evidována listina o právním jednání zůstavitele pro případ smrti a je-li evidována, u kterého notáře je uložena. Sdělení lze poskytnout jen po úmrtí zůstavitele. Komora takové sdělení poskytne také notáři, má-li jít o listinu o právním jednání pro případ smrti učiněné zůstavitelem, o jehož pozůstalosti je vedeno řízení, v němž byl notář pověřen provedením úkonů jako soudní komisař podle zákona o zvláštních řízeních soudních; sdělení poskytne dálkovým přístupem na základě žádosti notáře.
+>
+> (3) Kterýkoli notář osobě, která prokáže právní zájem, na její žádost o sdělení, zda je v Evidenci právních jednání pro případ smrti evidována listina o povolání správce pozůstalosti nebo o povolání vykonavatele závěti, a u kterého notáře je uložena, vydá opis zápisu z Evidence právních jednání pro případ smrti, je-li listina o takovém právním jednání zůstavitele evidována; není-li evidována, vydá potvrzení o tom, že evidována není. Je-li evidováno více takových listin učiněných stejným zůstavitelem, obsahuje opis zápisu údaje o všech těchto listinách. Ustanovení odstavce 2 věty druhé se použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2e5d0959335583174237 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=49d75c1dce0f1d418685 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) V Evidenci listin o manželském majetkovém režimu se evidují
+>
+> - a) smlouvy manželů nebo snoubenců o manželském majetkovém režimu odlišném od zákonného režimu,
+>
+> - b) dohody manželů o změně smluveného režimu,
+>
+> - c) smlouvy manželů o změně manželského majetkového režimu založeného rozhodnutím soudu,
+>
+> - d) rozhodnutí soudu, kterými soud zrušil nebo obnovil společné jmění manželů nebo zúžil jeho stávající rozsah,
+>
+> - e) rozhodnutí soudu, kterými soud změnil manželský majetkový režim založený rozhodnutím soudu nebo smluvený manželský majetkový režim.
+>
+> (2) Zápisy údajů do Evidence listin o manželském majetkovém režimu o smlouvě nebo o dohodě podle odstavce 1 písm. a) až c) provádí dálkovým přístupem bez zbytečného odkladu notář, který smlouvu nebo dohodu sepsal. Zápisy údajů o rozhodnutích soudu podle odstavce 1 písm. d) a e) provádí Komora na základě stejnopisů těchto rozhodnutí zasílaných Komoře soudy v elektronické podobě.
+>
+> (3) Komora sdělí notáři, zda je či není evidována smlouva nebo dohoda podle odstavce 1 písm. a) až c) uzavřená zůstavitelem, o jehož pozůstalosti se vede řízení, v němž byl notář pověřen provedením úkonů jako soudní komisař podle zákona o zvláštních řízeních soudních nebo zda je či není evidováno rozhodnutí soudu podle odstavce 1 písm. d) a e) ohledně majetkového režimu zůstavitele a jeho manžela; je-li evidována smlouva nebo dohoda, sdělí také, u kterého notáře je uložena.
+>
+> (4) Komora poskytne notáři sdělení dálkovým přístupem na základě jeho žádosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49d75c1dce0f1d418685 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b628a4f3ef92702c9eb5 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) V Seznamu prohlášení o určení opatrovníka se evidují prohlášení o určení, kdo se má stát opatrovníkem, a o odvolání prohlášení o takovém určení (dále jen „prohlášení o určení opatrovníka“), mající formu notářského zápisu.
+>
+> (2) Do Seznamu prohlášení o určení opatrovníka se zapisuje jméno, příjmení, datum narození a adresa místa pobytu7), není-li, tak bydliště (dále jen „pobyt“) toho, kdo prohlášení o určení opatrovníka pořídil (dále jen „pořizovatel prohlášení“), toho, kdo byl v prohlášení určen k tomu, aby se stal opatrovníkem (dále jen „určený opatrovník“), jméno, příjmení a sídlo notáře, který prohlášení o určení opatrovníka sepsal, a další údaje stanovené předpisem Komory o Seznamu prohlášení o určení opatrovníka.
+>
+> (3) Zápis údajů o prohlášení o určení opatrovníka do Seznamu prohlášení o určení opatrovníka provádí dálkovým přístupem bez zbytečného odkladu notář, který takové prohlášení sepsal.
+>
+> (4) Komora sdělí soudu na jeho žádost, zda je či není prohlášení o určení opatrovníka v Seznamu prohlášení o určení opatrovníka evidováno; je-li evidováno, také zapsané údaje o pořizovateli prohlášení, o určeném opatrovníku a údaj, u kterého notáře je prohlášení o určení opatrovníka uloženo. Žádost se podává a sdělení se poskytuje dálkovým přístupem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b628a4f3ef92702c9eb5 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=39ac5bd438d496390439 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) V Rejstříku zástav se evidují tyto údaje:
+>
+> - a) označení zástavy,
+>
+> - b) označení dluhu zajišťovaného zástavním právem k zástavě,
+>
+> - c) zástavní dlužník, zástavce a zástavní věřitel, a to uvedením jména, příjmení, popřípadě názvu, data narození, identifikačního čísla osoby, bylo-li přiděleno, popřípadě jiného obdobného identifikujícího údaje (dále jen „identifikační číslo“), a pobytu, popřípadě sídla podnikatele, jde-li o fyzickou osobu, nebo uvedením názvu, identifikačního čísla a sídla, jde-li o právnickou osobu se sídlem v České republice, nebo uvedením názvu a identifikačního čísla její organizační složky nebo obchodního závodu v České republice, je-li sídlo v zahraničí, sídla její organizační složky nebo obchodního závodu v České republice, jsou-li známa, jde-li o právnickou osobu, která nemá sídlo v České republice,
+>
+> - d) právní důvod zástavního práva,
+>
+> - e) o zákazu zřízení zástavního práva k věci, která není evidována v Rejstříku zástav jako zástava, a označení takové věci,
+>
+> - f) o tom, že zapsané právo je budoucím zástavním právem, má-li se zástavní dlužník až po uzavření zástavní smlouvy stát vlastníkem věci, která má být zástavou a ke které jinak podle [[občanského zákoníku|občanského zákoníku]] nebo podle zástavní smlouvy vzniká zástavní právo zápisem do Rejstříku zástav; po vzniku zástavního práva se zapíše i údaj o době jeho vzniku,
+>
+> - g) datum a čas zápisu,
+>
+> - h) další údaje stanovené předpisem Komory o Rejstříku zástav.
+>
+> (2) Zástavní právo je do Rejstříku zástav zapsáno zápisem údajů uvedených v odstavci 1; vymazáno je výmazem zapsaných údajů. To platí i o budoucím zástavním právu a o zákazu zřízení zástavního práva k věci, která není zapsána jako zástava.
+>
+> (3) Je-li zástavní právo v Rejstříku zástav již zapsáno, evidují se také údaje o
+>
+> - a) zákazu zřízení dalšího zástavního práva k zástavě,
+>
+> - b) započetí výkonu zástavního práva váznoucího na zástavě,
+>
+> - c) pořadí zástavních práv, vznikne-li na zástavě více zástavních práv.
+>
+> (4) Svědčí-li zastavované pohledávce zástavní právo, eviduje se také údaj o vzniku podzástavního práva, je-li zástavní právo, které svědčí zastavované pohledávce, zapsáno v Rejstříku zástav; jinak jen, vzniká-li k takové pohledávce zástavní právo zápisem do Rejstříku zástav.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=39ac5bd438d496390439 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=8dad418e1b1b862ec720 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Zápisy údajů podle § 35f odst. 1 do Rejstříku zástav na základě zástavní smlouvy, zápisy údajů podle § 35f odst. 3 a změny a výmazy těchto údajů provádějí pomocí dálkového přístupu notáři.
+>
+> (2) Notář, který zástavní smlouvu sepsal, provede
+>
+> - a) zápis údajů podle § 35f odst. 1, kromě písmene e),
+>
+> - b) zápis údajů o zákazu zřízení dalšího zástavního práva k zástavě a o pořadí zástavních práv, jsou-li tato ujednání obsažena v zástavní smlouvě, a
+>
+> - c) zápis údajů o vzniku podzástavního práva, je-li zástavní smlouvou zastavována pohledávka, které svědčí zástavní právo zapsané v Rejstříku zástav nebo ke které vzniká zástavní právo jeho zápisem do Rejstříku zástav, i když zástavní právo, které jí svědčí, není v Rejstříku zástav zapsáno.
+>
+> (3) Zápis údajů podle § 35f odst. 1, případně podle § 35f odst. 3, provede notář po uzavření zástavní smlouvy bez zbytečného odkladu jen, je-li účinná; jinak bez zbytečného odkladu po nabytí její účinnosti. Nabytí účinnosti smlouvy dokládá zástavní věřitel, nejde-li o nabytí účinnosti uplynutím doby.
+>
+> (4) Kterýkoli notář provede
+>
+> - a) zápis změny zápisu a výmaz údajů podle § 35f odst. 1 a [[#§ 3|3]],
+>
+> - b) zápis údajů o započetí výkonu zástavního práva váznoucího na zástavě,
+>
+> - c) zápis údajů o zákazu zřízení dalšího zástavního práva k zástavě a o pořadí zástavních práv, nejsou-li zapsány notářem, který zástavní smlouvu sepsal,
+>
+> - d) zápis údajů o zákazu zřízení zástavního práva k věci, která se zapisuje nebo může být zapsána jako zástava do Rejstříku zástav,
+>
+> - e) zápis údaje o vzniku podzástavního práva, nevzniká-li zápisem do Rejstříku zástav zástavní právo k pohledávce, které svědčí zástavní právo v Rejstříku zástav zapsané,
+>
+> - f) zápis údaje o vzniku zástavního práva, je-li v Rejstříku zástav zapsáno budoucí zástavní právo.
+>
+> (5) Zápisy údajů podle § 35f odst. 1 písm. e) a § 35f odst. 3, změny zápisů a výmazy jsou prováděny na základě písemné žádosti zástavního věřitele, popřípadě podzástavního věřitele nebo podzástavce anebo jiné osoby, stanoví-li tak zvláštní zákon. K zápisu podle § 35f odst. 3 písm. c) je třeba, aby o zápis požádali všichni věřitelé, kterým vzniklo na zástavě zástavní právo. Se žádostí o zápis změny zápisu a o zápis údajů o skutečnostech uvedených v § 35f odst. 1 písm. e) a v § 35f odst. 3 je třeba předložit listinu prokazující změnu nebo skutečnost, na základě které je zápis požadován.
+>
+> (6) Výmaz zástavního práva lze provést jen, jestliže zástavní právo zaniklo. Žádá-li o výmaz zástavního práva zástavní věřitel a uvede-li v žádosti, že zástavní právo zaniklo a právní důvod jeho zániku, má se za to, že k zániku zástavního práva došlo. Žádá-li o výmaz zástavní dlužník, je třeba se žádostí předložit veřejnou listinu nebo listinu potvrzenou zástavním věřitelem s jeho úředně ověřeným podpisem, prokazující zánik zástavního práva; zaniklo-li zástavní právo uplynutím doby, zástavní dlužník doloží, že doba trvání zástavního práva byla na tuto dobu omezena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35f, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8dad418e1b1b862ec720 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=5003050c7f3af8a7b18f generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35h
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> Zápisy údajů na základě rozhodnutí orgánů veřejné moci, kterými vzniklo zástavní právo, a změny takových zápisů provádí na základě písemné žádosti orgánu veřejné moci Komora. Orgány veřejné moci jsou povinny zaslat žádost s vykonatelným rozhodnutím, kterým vzniklo zástavní právo nebo u zapsaného zástavního práva došlo k jeho změně, do 30 dnů ode dne vzniku nebo změny zástavního práva.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5003050c7f3af8a7b18f -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=999a2c81e9b3febec650 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35i
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Kterýkoliv notář vydá každému na jeho žádost opis nebo výpis z Rejstříku zástav nebo potvrzení o tom, že v něm určitá věc není evidována jako zástava nebo o tom, že není evidován zákaz zřízení zástavního práva k věci, neevidované v Rejstříku zástav jako zástava.
+>
+> (2) Proti osobě, která právně jedná důvěřujíc údaji zapsanému do Rejstříku zástav, nemá ten, jehož se zápis týká, právo namítnout, že zápis neodpovídá skutečnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=999a2c81e9b3febec650 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=19a19df3fa82c880dfc3 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35j
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) V Seznamu listin o manželském majetkovém režimu jsou evidovány
+>
+> - a) notářské zápisy o smlouvách manželů nebo snoubenců o manželském majetkovém režimu odlišném od zákonného režimu, o dohodách manželů o změně smluveného režimu a o smlouvách manželů o změně manželského majetkového režimu založeného rozhodnutím soudu (dále jen „smlouva o manželském majetkovém režimu“),
+>
+> - b) rozhodnutí soudu, kterými soud zrušil nebo obnovil společné jmění manželů nebo zúžil jeho stávající rozsah, anebo změnil manželský majetkový režim založený rozhodnutím soudu nebo smluvený manželský majetkový režim (dále jen „rozhodnutí soudu o manželském majetkovém režimu“).
+>
+> (2) Seznam listin o manželském majetkovém režimu obsahuje rejstřík a sbírku listin.
+>
+> (3) Do rejstříku se zapisuje
+>
+> - a) jméno, příjmení, datum narození a pobyt manželů nebo snoubenců (dále jen „manželé“),
+>
+> - b) datum uzavření a účinnosti smlouvy o manželském majetkovém režimu, označení smluveného režimu podle [[občanského zákoníku|občanského zákoníku]] a jméno, příjmení a sídlo notáře, který smlouvu o manželském majetkovém režimu sepsal, nebo
+>
+> - c) datum vydání a právní moci rozhodnutí soudu o manželském majetkovém režimu, jeho spisovou značku, označení soudu, který rozhodnutí vydal, a údaj o tom, zda soud zrušil nebo obnovil společné jmění manželů, nebo zúžil jeho stávající rozsah, anebo změnil manželský majetkový režim,
+>
+> - d) další údaje stanovené předpisem Komory o Seznamu listin o manželském majetkovém režimu.
+>
+> (4) Do sbírky listin se zakládá elektronický stejnopis notářského zápisu o smlouvě o manželském majetkovém režimu nebo stejnopis notářského zápisu o smlouvě o manželském majetkovém režimu v elektronické podobě vzniklé autorizovanou konverzí z podoby listinné do podoby elektronické, anebo stejnopis rozhodnutí soudu o manželském majetkovém režimu v elektronické podobě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=19a19df3fa82c880dfc3 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=e4f073f489e2e18ae3fc generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35k
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Založení smlouvy o manželském majetkovém režimu do sbírky listin a zápis údajů uvedených v § 35j odst. 3 písm. a), b) a d) do rejstříku (dále jen „zápis smlouvy do seznamu“) provádí notář, který takovou smlouvu sepsal. Notář provede zápis smlouvy do seznamu, je-li to ve smlouvě o manželském majetkovém režimu ujednáno, jinak na základě písemné žádosti obou manželů, a to dálkovým přístupem bez zbytečného odkladu po nabytí účinnosti smlouvy o manželském majetkovém režimu nebo po podání žádosti na základě takové účinné smlouvy.
+>
+> (2) Není-li možné, aby zápis smlouvy do seznamu provedl notář, který smlouvu o manželském majetkovém režimu sepsal, provede zápis smlouvy do seznamu na základě písemné žádosti obou manželů Komora. S žádostí je třeba doložit elektronický stejnopis notářského zápisu o smlouvě o manželském majetkovém režimu nebo stejnopis notářského zápisu o takové smlouvě v elektronické podobě vzniklé na základě autorizované konverze z podoby listinné.
+>
+> (3) Založení rozhodnutí soudu o manželském majetkovém režimu do sbírky listin a zápis údajů uvedených v § 35j odst. 3 písm. a), c) a d) do rejstříku (dále jen „zápis rozhodnutí soudu do seznamu“) provede Komora na základě soudem zaslaného stejnopisu rozhodnutí soudu o manželském majetkovém režimu v elektronické podobě. Soud zasílá Komoře stejnopis rozhodnutí bez odůvodnění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35j
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e4f073f489e2e18ae3fc -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=221d05d59e034acb2bc2 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35l
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Jsou-li smlouva o manželském majetkovém režimu nebo rozhodnutí soudu o manželském majetkovém režimu zapsány v Seznamu listin o manželském majetkovém režimu, manželé se jich mohou dovolat vůči třetím osobám, i když tyto s jejich obsahem nebyly seznámeny.
+>
+> (2) Komora zveřejňuje způsobem umožňujícím dálkový přístup údaje zapisované do rejstříku Seznamu listin o manželském majetkovém režimu podle § 35j odst. 3 písm. a) až c).
+>
+> (3) Kterýkoli notář vydá každému na jeho žádost ze sbírky listin opis smlouvy o manželském majetkovém režimu nebo opis rozhodnutí soudu o změně manželského majetkového režimu anebo potvrzení o tom, že smlouva o manželském majetkovém režimu nebo rozhodnutí soudu o změně manželského majetkového režimu nejsou v Seznamu listin o manželském majetkovém režimu zapsány. V žádosti je třeba uvést jméno, příjmení a datum narození manželů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35j
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=221d05d59e034acb2bc2 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b68ca75fe9b90d35abb6 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35m
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Jde-li o legalizaci vlastnoručního podpisu, jsou v Evidenci ověřených podpisů evidovány tyto údaje:
+>
+> - a) pořadové číslo přidělené evidencí,
+>
+> - b) jméno, příjmení, datum narození a pobyt osoby, jejíž podpis byl legalizován,
+>
+> - c) číslo a druh průkazu, kterým byla prokázána totožnost osoby uvedené v písmenu b), nebo jiný způsob, jak byla prokázána její totožnost,
+>
+> - d) údaj o tom, že osoba uvedená v písmenu b) listinu před notářem vlastnoručně podepsala nebo že uznala podpis na listině za vlastní,
+>
+> - e) stručné označení listiny s legalizovaným podpisem nebo podpisy, včetně počtu vyhotovení takové listiny, případně počtu legalizovaných podpisů stejné osoby na jedné listině,
+>
+> - f) datum legalizace,
+>
+> - g) jméno, příjmení a funkce ověřujícího.
+>
+> (2) Jde-li o uznání elektronického podpisu za vlastní, jsou v Evidenci ověřených podpisů evidovány tyto údaje:
+>
+> - a) pořadové číslo přidělené evidencí,
+>
+> - b) jméno, příjmení, datum narození a pobyt osoby, jejíž podpis byl legalizován,
+>
+> - c) číslo a druh průkazu, kterým byla prokázána totožnost osoby uvedené v písmenu b), nebo jiný způsob, jak byla prokázána její totožnost,
+>
+> - d) údaj o tom, že osoba uvedená v písmenu b) prohlásila, že dokument sama podepsala k němu připojeným elektronickým podpisem, který uznává za vlastní,
+>
+> - e) stručné označení dokumentu, na němž došlo k legalizaci podpisu,
+>
+> - f) datum legalizace,
+>
+> - g) jméno, příjmení a funkce ověřujícího.
+>
+> (3) Každý si po zadání pořadového čísla evidence, jména a příjmení a data narození osoby, jejíž podpis byl legalizován, může prostřednictvím dálkového přístupu ověřit, který notář v České republice legalizaci provedl a označení listiny nebo jiného dokumentu s legalizovaným podpisem nebo podpisy. Pro ověření lze použít i kód rychlé reakce (QR kód), pokud jej ověřovací doložka obsahuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b68ca75fe9b90d35abb6 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2a5af940a791c605a0ea generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35n
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Ve Sbírce dokumentů se evidují a ukládají
+>
+> - a) dokumenty vzniklé převedením notářských zápisů sepsaných v listinné podobě do elektronické podoby, opatřené kvalifikovaným elektronickým podpisem notáře, který notářský zápis sepsal,
+>
+> - b) notářské zápisy sepsané v elektronické podobě,
+>
+> (dále jen „uložené dokumenty“).
+>
+> (2) Každému uloženému dokumentu je v okamžiku jeho uložení přiděleno pořadové číslo, toto číslo se vyznačí na notářském zápisu.
+>
+> (3) Uložené dokumenty jsou ve Sbírce dokumentů uchovávány tak, aby byla zajištěna jejich integrita, autenticita, neměnnost, pravost a důvěryhodnost po celou dobu jejich uchování. Sbírka dokumentů je vedena a provozována tak, aby byla zachována důkazní hodnota v ní uložených dokumentů bez toho, aby bylo vyžadováno obnovení podpisu správcem.
+>
+> (4) Dokument podle odstavce 1 písm. a) se ukládá do Sbírky dokumentů převedený do elektronické podoby prostřednictvím skenovacího zařízení a ve strojově čitelné podobě pro textové části notářského zápisu.
+>
+> (5) Dokument podle odstavce 1 písm. a) uložený ve Sbírce dokumentů a zobrazující vyhotovený notářský zápis se považuje za veřejnou listinu a je rovnocenný s notářským zápisem vyhotoveným v listinné podobě. V případě rozporu mezi obsahem notářského zápisu sepsaného v listinné podobě a obsahem dokumentu podle odstavce 1 písm. a) uloženého ve Sbírce dokumentů platí, že rozhodující je obsah notářského zápisu sepsaného v listinné podobě. Byl-li notářský zápis sepsaný v listinné podobě vybrán za archiválii nebo byl-li na základě provedeného výběru archiválií zničen podle zvláštního právního předpisu8), je rozhodující obsah dokumentu uloženého ve Sbírce dokumentů. Byl-li namítnut nebo zjištěn rozpor podle věty druhé před zničením notářského zápisu sepsaného v listinné podobě, nelze zničení provést.
+>
+> (6) Sbírka dokumentů obsahuje také rejstřík o uložených dokumentech. Notář v den sepsání notářského zápisu uloží do Sbírky dokumentů dokument podle odstavce 1 písm. a) nebo notářský zápis podle odstavce 1 písm. b) a zapíše o něm do rejstříku tyto údaje:
+>
+> - a) údaje o účastníkovi uvedené v § 63 odst. 1 písm. c), a není-li ho, tytéž údaje o žadateli,
+>
+> - b) datum sepsání notářského zápisu,
+>
+> - c) předmět úkonu.
+>
+> (7) Uložení dokumentu do Sbírky dokumentů a zápis údajů do rejstříku podle odstavce 6 se provádí elektronickým přenosem dat, a to zabezpečenou komunikací.
+>
+> (8) Každý si po zadání pořadového čísla sbírky a data sepsání notářského zápisu může prostřednictvím dálkového přístupu vyhledat, který notář v České republice notářský zápis sepsal a údaje uvedené v odstavci 6, nejde-li o notářský zápis o právních jednáních evidovaných v Evidenci právních jednání pro případ smrti. Pro ověření lze použít i kód rychlé reakce (QR kód), pokud jej stejnopis notářského zápisu obsahuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 63
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2a5af940a791c605a0ea -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=313cad4247bb3a1eb282 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 35o
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Veřejné listiny vydávané nebo ověřované notáři ověřuje Komora postupem podle Úmluvy o zrušení požadavku ověřování cizích veřejných listin.
+>
+> (2) Komora provádí činnost uvedenou v odstavci 1 ve svém sídle a v sídlech notářských komor uvedených v § 29 odst. 1.
+>
+> (3) Komoře náleží za činnost uvedenou v odstavci 1 odměna. Výši odměny stanoví ministerstvo vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=313cad4247bb3a1eb282 -->
+
 ### § 36 — Orgány Komory
 
 > **§ 36**
@@ -2893,6 +5773,62 @@ Komora má pět orgánů — vedle sněmu, prezidia, prezidenta a revizní komis
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o zahájení kárného řízení, doklad o složení kárné komise Komory, kárný řád, podklady k vytýkanému pochybení notáře.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=299c4fdd4784d0760269 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 36
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> Komora má tyto orgány:
+>
+> - a) sněm,
+>
+> - b) prezidium Komory,
+>
+> - c) prezidenta Komory,
+>
+> - d) revizní komisi Komory,
+>
+> - e) kárnou komisi.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=299c4fdd4784d0760269 -->
 
 ### § 37 — Sněm Komory
 
@@ -3040,6 +5976,106 @@ Sněm je vrcholným orgánem Komory s rozsáhlou normotvornou pravomocí; klíč
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=af0f9f07505bd7dcbe05 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 37
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Nejvyšším orgánem Komory je sněm.
+>
+> (2) Sněm tvoří delegáti a prezidenti.
+>
+> (3) Sněm
+>
+> - a) z řad delegátů volí a odvolává pět volených členů prezidia Komory,
+>
+> - b) z členů prezidia Komory volí a odvolává prezidenta Komory a viceprezidenta Komory,
+>
+> - c) z řad notářů volí a odvolává členy revizní komise Komory,
+>
+> - d) ze zvolených členů revizní komise Komory volí a odvolává předsedu této komise,
+>
+> - e) z řad notářů volí členy kárné komise,
+>
+> - f) ze zvolených členů kárné komise volí předsedu této komise,
+>
+> - g) projednává a schvaluje zprávy o činnosti ostatních orgánů Komory,
+>
+> - h) schvaluje rozpočet a hospodaření Komory,
+>
+> - i) zřizuje fondy Komory a schvaluje pravidla jejich tvorby a používání,
+>
+> - j) stanoví výši příspěvku notářských komor,
+>
+> - k) přijímá volební řád,
+>
+> - l) přijímá organizační řád Komory a notářských komor,
+>
+> - m) přijímá kancelářský řád, kárný řád a zkušební řád,
+>
+> - n) stanoví postup při vyhlašování a organizaci konkursu podle § 8 odst. 6,
+>
+> - o) schvaluje výši náhrady za ztrátu času spojenou s výkonem funkcí v orgánech Komory,
+>
+> - p) může zrušit nebo změnit usnesení prezidia Komory,
+>
+> - q) přijímá předpis o Evidenci právních jednání pro případ smrti,
+>
+> - r) přijímá předpis o Evidenci listin o manželském majetkovém režimu,
+>
+> - s) přijímá předpis o Seznamu prohlášení o určení opatrovníka,
+>
+> - t) přijímá předpis o Rejstříku zástav,
+>
+> - u) přijímá předpis o Seznamu listin o manželském majetkovém režimu,
+>
+> - v) přijímá předpis o Evidenci ověřených podpisů,
+>
+> - w) přijímá předpis o Sbírce dokumentů,
+>
+> - x) přijímá předpis o ověřování veřejných listin ve vztahu k cizině.
+>
+> (4) K platnosti předpisu podle odstavce 3 písm. m), n) a q) až x) je zapotřebí souhlasu ministerstva.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=af0f9f07505bd7dcbe05 -->
+
 ### § 38 — Prezidium Komory
 
 > **§ 38**
@@ -3121,6 +6157,68 @@ Prezidium Komory je celostátním výkonným orgánem se smíšeným složením;
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=abb9e9648fe24e060cfa generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 38
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Prezidium Komory je řídícím a výkonným orgánem Komory. Členy prezidia Komory jsou prezident Komory, viceprezident Komory, prezidenti a další volení členové.
+>
+> (2) Prezidium
+>
+> - a) svolává sněm nejméně jednou za rok; svolá sněm do jednoho měsíce vždy, požádá-li o to alespoň jedna třetina členů sněmu nebo požádají-li o to alespoň dvě notářské komory nebo požádá-li o to revizní komise Komory,
+>
+> - b) organizuje odbornou výchovu notářů a zajišťuje publikační, studijní, dokumentační a informační činnost,
+>
+> - c) vede evidenci notářů, kandidátů a koncipientů v České republice,
+>
+> - d) hospodaří s finančními prostředky Komory a spravuje její majetek,
+>
+> - e) hospodaří s fondy Komory,
+>
+> - f) organizuje notářské zkoušky a jmenuje členy zkušební komise,
+>
+> - g) vykonává působnost Komory stanovenou tímto zákonem, pokud nepřísluší sněmu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=abb9e9648fe24e060cfa -->
+
 ### § 39 — Prezident Komory
 
 > **§ 39**
@@ -3190,6 +6288,64 @@ Prezident Komory je nejvyšším reprezentantem notářského stavu; zastupuje K
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ae9a77f4c1d1df565681 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 39
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Prezident Komory
+>
+> - a) zastupuje Komoru navenek a jedná jejím jménem ve všech věcech,
+>
+> - b) řídí jednání sněmu,
+>
+> - c) svolává prezidium Komory nejméně jednou za tři měsíce; svolá prezidium Komory do 20 dnů vždy, požádá-li o to jedna třetina členů prezidia Komory nebo požádá-li o to revizní komise Komory,
+>
+> - d) řídí jednání prezidia Komory,
+>
+> - e) činí rozhodnutí v působnosti prezidia Komory, která nesnesou odkladu; rozhodnutí musí být schválena při nejbližším jednání prezidia Komory.
+>
+> (2) Prezidenta Komory zastupuje viceprezident Komory.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ae9a77f4c1d1df565681 -->
+
 ### § 40 — Revizní komise Komory
 
 > **§ 40**
@@ -3247,6 +6403,60 @@ Revizní komise Komory je nezávislý kontrolní orgán s bezvýjimečným pří
 **Typicky rozhodné důkazy / podklady:** smlouvy a účetní doklady Komory, zápisy z jednání prezidia, protokol o odepření přístupu, roční zpráva revizní komise.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b291ad17393c9a3f3b6d generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 40
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Revizní komisi Komory tvoří předseda a další čtyři členové.
+>
+> (2) Členství v revizní komisi Komory je neslučitelné s členstvím v prezidiu Komory.
+>
+> (3) Revizní komise Komory
+>
+> - a) kontroluje plnění usnesení sněmu a činnost prezidia Komory; za tím účelem musí být revizní komisi Komory umožněn přístup ke všem dokladům Komory,
+>
+> - b) podává sněmu nejméně jednou za rok zprávu o výsledcích kontrol.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b291ad17393c9a3f3b6d -->
 
 ### § 41 — Kárná komise
 
@@ -3309,6 +6519,54 @@ Kárná komise (5 členů, neslučitelná s prezidiem) je „stavovským soudem"
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cab8c473e54c581ae655 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 41
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Kárnou komisi tvoří předseda a další čtyři členové. Členství v kárné komisi je neslučitelné s členstvím v prezidiu Komory.
+>
+> (2) Podrobnosti o činnosti kárné komise stanoví kárný řád.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cab8c473e54c581ae655 -->
+
 ### Oddíl třetí — Společná ustanovení
 
 ### § 42 — Volby v orgánech komor
@@ -3370,6 +6628,56 @@ Volby v notářské samosprávě jsou tajné, na tříleté období a vyžadují
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8b426b0fd4513edc7da4 generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 42
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Volby orgánů notářské komory a Komory jsou tajné. Volební období je tříleté.
+>
+> (2) K volbám lze přistoupit, je-li přítomna nadpoloviční většina oprávněných voličů. Způsob provádění voleb stanoví volební řád, který může též stanovit, ve kterých případech je nutné, aby byl přítomen vyšší počet oprávněných voličů.
+>
+> (3) Výsledky voleb se oznamují ministerstvu. Notářské komory oznamují výsledky voleb také Komoře a předsedovi krajského soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8b426b0fd4513edc7da4 -->
+
 ### § 43 — Usnášení kolektivních orgánů
 
 > **§ 43**
@@ -3426,6 +6734,54 @@ Pro platné usnesení kolektivního orgánu komory musí být přítomna nadpolo
 **Typicky rozhodné důkazy / podklady:** prezenční listina, zápis o hlasování s rozpadem hlasů, organizační a další řády komory.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5aaddef3df9b6398110f generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 43
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Kolektivní orgány notářské komory a Komory se mohou platně usnášet jen tehdy, je-li přítomna nadpoloviční většina jejich členů. K platnosti usnesení je potřebný souhlas nadpoloviční většiny přítomných členů.
+>
+> (2) Předpisy uvedené v § 37 odst. 3 písm. l) a m) mohou stanovit, ve kterých případech je k platnosti postupu uvedeného v odstavci 1 zapotřebí přítomnosti nebo souhlasu vyššího počtu členů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 37
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5aaddef3df9b6398110f -->
 
 ### § 44 — Čestnost funkcí, podjatost
 
@@ -3496,3 +6852,50 @@ Funkce v orgánech komor jsou čestné (bez odměny za výkon), avšak s nároke
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=21a401f4254d5d6e3bea generator=2026-07-17.4 source_sha256=8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0 -->
+#### Revizní doplnění k § 44
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1992/358-1992 Zákon České národní rady o notářích a jejich činnosti (notářský řád).md`; identifikátor verze: `SB-1992-00358_2025-04-01`; SHA-256: `8d343c2cf33c80bfda4de889080ff2732dfa8fc969abf10295a763d39c09e7f0`.
+
+##### Znění ustanovení
+
+> (1) Funkce v orgánech notářské komory a Komory jsou čestné, Komora a notářské komory vyplácejí členům svých orgánů za výkon těchto funkcí náhradu za ztrátu času a náhradu hotových výdajů.
+>
+> (2) Člen orgánu notářské komory a Komory se nesmí podílet na projednávání a rozhodování věcí u tohoto orgánu týkajících se jeho, jeho notářského úřadu nebo osoby jemu blízké.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=21a401f4254d5d6e3bea -->
